@@ -1,0 +1,27 @@
+import './config';
+import { Hono } from 'hono';
+import * as login from './routes/auth/login/route';
+import * as logout from './routes/auth/logout/route';
+import * as outlook from './routes/analysis/birding-outlook/route';
+import * as warning from './routes/analysis/forecast-warning/route';
+import * as species from './routes/analysis/habitat-species-reference/route';
+import * as identify from './routes/identify/bird-recognition/route';
+import * as location from './routes/records/location/resolve/route';
+import * as notebook from './routes/records/notebook/route';
+import * as record from './routes/records/notebook/[recordId]/route';
+import { cookies } from './cookies';
+import { AUTH_SESSION_COOKIE_NAME,getAuthSessionSnapshot } from './lib/auth/session-store';
+
+export const app = new Hono();
+app.post('/api/auth/login',c=>login.POST(c.req.raw));
+app.post('/api/auth/logout',c=>logout.POST(c.req.raw));
+app.get('/api/auth/session',c=>c.json(getAuthSessionSnapshot(cookies(c.req.raw).get(AUTH_SESSION_COOKIE_NAME)?.value),200,{'Cache-Control':'no-store','Content-Language':'zh-CN'}));
+app.get('/api/analysis/birding-outlook',c=>outlook.GET(c.req.raw));
+app.get('/api/analysis/forecast-warning',c=>warning.GET(c.req.raw));
+app.get('/api/analysis/habitat-species-reference',c=>species.GET(c.req.raw));
+app.post('/api/identify/bird-recognition',c=>identify.POST(c.req.raw));
+app.get('/api/records/location/resolve',c=>location.GET(c.req.raw));
+app.get('/api/records/notebook',c=>notebook.GET(c.req.raw));
+app.post('/api/records/notebook',c=>notebook.POST(c.req.raw));
+app.patch('/api/records/notebook/:recordId',c=>record.PATCH(c.req.raw,{params:Promise.resolve({recordId:c.req.param('recordId')})}));
+app.delete('/api/records/notebook/:recordId',c=>record.DELETE(c.req.raw,{params:Promise.resolve({recordId:c.req.param('recordId')})}));

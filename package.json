@@ -1,0 +1,36 @@
+{
+  "name": "birding-assistant",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "workspaces": ["apps/*", "packages/*"],
+  "scripts": {
+    "baseline:export": "node scripts/export-baseline.mjs",
+    "data:prepare": "node scripts/prepare-test-data.mjs",
+    "env:check": "node scripts/check-env.mjs",
+    "dev:api": "npm run dev -w @bird/api",
+    "dev:web": "npm run dev -w @bird/web",
+    "typecheck": "tsc -p apps/web --noEmit && tsc -p apps/api --noEmit",
+    "lint": "eslint apps packages scripts tests *.ts *.mjs",
+    "test:parity": "vitest run tests/parity",
+    "test:contracts": "vitest run tests/contracts",
+    "test:e2e": "playwright test",
+    "test:built": "node scripts/verify-built.mjs",
+    "audit:migration": "node scripts/audit-migration.mjs",
+    "build": "npm run build -w @bird/web && npm run build -w @bird/api",
+    "start:api": "npm run start -w @bird/api",
+    "start:web": "node scripts/serve-built.mjs"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.39.0",
+    "@playwright/test": "^1.58.0",
+    "@types/node": "^24.0.0",
+    "eslint": "^9.39.0",
+    "typescript": "^5.9.0",
+    "typescript-eslint": "^8.56.0",
+    "vitest": "^4.0.0",
+    "tsx": "^4.21.0",
+    "esbuild": "^0.27.0",
+    "selfsigned": "^5.0.0"
+  }
+}

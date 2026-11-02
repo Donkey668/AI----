@@ -1,0 +1,362 @@
+[
+  {
+    "source": "lib/ai/birding-index.ts",
+    "target": "apps/api/src/lib/ai/birding-index.ts",
+    "adaptation": true
+  },
+  {
+    "source": "lib/ai/dashscope-client.ts",
+    "target": "apps/api/src/lib/ai/dashscope-client.ts",
+    "adaptation": true
+  },
+  {
+    "source": "lib/analysis/analysis-overview.ts",
+    "target": "packages/shared/src/analysis/analysis-overview.ts",
+    "adaptation": true
+  },
+  {
+    "source": "lib/auth/login.ts",
+    "target": "apps/api/src/lib/auth/login.ts",
+    "adaptation": true
+  },
+  {
+    "source": "lib/auth/session-resolver.ts",
+    "target": "apps/api/src/lib/auth/session-resolver.ts",
+    "adaptation": true
+  },
+  {
+    "source": "lib/auth/session-store.ts",
+    "target": "apps/api/src/lib/auth/session-store.ts",
+    "adaptation": false
+  },
+  {
+    "source": "lib/identify/bird-encyclopedia.ts",
+    "target": "apps/api/src/lib/identify/bird-encyclopedia.ts",
+    "adaptation": true
+  },
+  {
+    "source": "lib/identify/bird-recognition.ts",
+    "target": "apps/api/src/lib/identify/bird-recognition.ts",
+    "adaptation": true
+  },
+  {
+    "source": "lib/identify/identify-contract.ts",
+    "target": "packages/shared/src/identify/identify-contract.ts",
+    "adaptation": false
+  },
+  {
+    "source": "lib/identify/image-upload.ts",
+    "target": "apps/api/src/lib/identify/image-upload.ts",
+    "adaptation": true
+  },
+  {
+    "source": "lib/maps/amap-loader.ts",
+    "target": "apps/web/src/lib/maps/amap-loader.ts",
+    "adaptation": true
+  },
+  {
+    "source": "lib/maps/park-options.ts",
+    "target": "packages/shared/src/maps/park-options.ts",
+    "adaptation": false
+  },
+  {
+    "source": "lib/records/location-resolver.ts",
+    "target": "apps/api/src/lib/records/location-resolver.ts",
+    "adaptation": true
+  },
+  {
+    "source": "lib/records/notebook-export.ts",
+    "target": "packages/shared/src/records/notebook-export.ts",
+    "adaptation": false
+  },
+  {
+    "source": "lib/records/notebook-presenter.ts",
+    "target": "packages/shared/src/records/notebook-presenter.ts",
+    "adaptation": false
+  },
+  {
+    "source": "lib/records/notebook-repository.ts",
+    "target": "apps/api/src/lib/records/notebook-repository.ts",
+    "adaptation": true
+  },
+  {
+    "source": "lib/records/notebook.ts",
+    "target": "packages/shared/src/records/notebook.ts",
+    "adaptation": false
+  },
+  {
+    "source": "lib/species/habitat-species-reference.ts",
+    "target": "apps/api/src/lib/species/habitat-species-reference.ts",
+    "adaptation": true
+  },
+  {
+    "source": "lib/species/park-species-sources.ts",
+    "target": "apps/api/src/lib/species/park-species-sources.ts",
+    "adaptation": true
+  },
+  {
+    "source": "lib/species/park-species-workbooks.ts",
+    "target": "apps/api/src/lib/species/park-species-workbooks.ts",
+    "adaptation": true
+  },
+  {
+    "source": "lib/time/beijing-time.ts",
+    "target": "packages/shared/src/time/beijing-time.ts",
+    "adaptation": false
+  },
+  {
+    "source": "lib/utils.ts",
+    "target": "packages/shared/src/utils.ts",
+    "adaptation": false
+  },
+  {
+    "source": "lib/weather/amap-weather.ts",
+    "target": "apps/api/src/lib/weather/amap-weather.ts",
+    "adaptation": true
+  },
+  {
+    "source": "lib/weather/birding-outlook.ts",
+    "target": "packages/shared/src/weather/birding-outlook.ts",
+    "adaptation": true
+  },
+  {
+    "source": "lib/weather/sz-forecast-warning.ts",
+    "target": "apps/api/src/lib/weather/sz-forecast-warning.ts",
+    "adaptation": true
+  },
+  {
+    "source": "app/_components/analysis-birding-outlook.tsx",
+    "target": "apps/web/src/components/analysis-birding-outlook.tsx",
+    "adaptation": true
+  },
+  {
+    "source": "app/_components/analysis-forecast-warning-modal.tsx",
+    "target": "apps/web/src/components/analysis-forecast-warning-modal.tsx",
+    "adaptation": true
+  },
+  {
+    "source": "app/_components/analysis-habitat-species-reference.tsx",
+    "target": "apps/web/src/components/analysis-habitat-species-reference.tsx",
+    "adaptation": true
+  },
+  {
+    "source": "app/_components/analysis-map-panel.tsx",
+    "target": "apps/web/src/components/analysis-map-panel.tsx",
+    "adaptation": true
+  },
+  {
+    "source": "app/_components/analysis-overview-panel.tsx",
+    "target": "apps/web/src/components/analysis-overview-panel.tsx",
+    "adaptation": true
+  },
+  {
+    "source": "app/_components/analysis-screen.tsx",
+    "target": "apps/web/src/components/analysis-screen.tsx",
+    "adaptation": true
+  },
+  {
+    "source": "app/_components/auth-entry.tsx",
+    "target": "apps/web/src/components/auth-entry.tsx",
+    "adaptation": true
+  },
+  {
+    "source": "app/_components/identify-encyclopedia-card.tsx",
+    "target": "apps/web/src/components/identify-encyclopedia-card.tsx",
+    "adaptation": true
+  },
+  {
+    "source": "app/_components/identify-result-card.tsx",
+    "target": "apps/web/src/components/identify-result-card.tsx",
+    "adaptation": true
+  },
+  {
+    "source": "app/_components/identify-screen.tsx",
+    "target": "apps/web/src/components/identify-screen.tsx",
+    "adaptation": true
+  },
+  {
+    "source": "app/_components/identify-upload-card.tsx",
+    "target": "apps/web/src/components/identify-upload-card.tsx",
+    "adaptation": true
+  },
+  {
+    "source": "app/_components/login-register-dialog.tsx",
+    "target": "apps/web/src/components/login-register-dialog.tsx",
+    "adaptation": true
+  },
+  {
+    "source": "app/_components/mobile-shell.tsx",
+    "target": "apps/web/src/components/mobile-shell.tsx",
+    "adaptation": true
+  },
+  {
+    "source": "app/_components/record-editor-dialog.tsx",
+    "target": "apps/web/src/components/record-editor-dialog.tsx",
+    "adaptation": true
+  },
+  {
+    "source": "app/_components/record-map-picker-dialog.tsx",
+    "target": "apps/web/src/components/record-map-picker-dialog.tsx",
+    "adaptation": true
+  },
+  {
+    "source": "app/_components/records-auth-required-dialog.tsx",
+    "target": "apps/web/src/components/records-auth-required-dialog.tsx",
+    "adaptation": true
+  },
+  {
+    "source": "app/_components/records-notebook-panel.tsx",
+    "target": "apps/web/src/components/records-notebook-panel.tsx",
+    "adaptation": true
+  },
+  {
+    "source": "app/_components/records-screen.tsx",
+    "target": "apps/web/src/components/records-screen.tsx",
+    "adaptation": true
+  },
+  {
+    "source": "app/_components/screen-frame.tsx",
+    "target": "apps/web/src/components/screen-frame.tsx",
+    "adaptation": true
+  },
+  {
+    "source": "app/_components/top-nav.tsx",
+    "target": "apps/web/src/components/top-nav.tsx",
+    "adaptation": true
+  },
+  {
+    "source": "app/_components/wtb-logo-footer.tsx",
+    "target": "apps/web/src/components/wtb-logo-footer.tsx",
+    "adaptation": false
+  },
+  {
+    "source": "components/ui/button.tsx",
+    "target": "apps/web/src/components/ui/button.tsx",
+    "adaptation": true
+  },
+  {
+    "source": "components/ui/card.tsx",
+    "target": "apps/web/src/components/ui/card.tsx",
+    "adaptation": true
+  },
+  {
+    "source": "components/ui/dialog.tsx",
+    "target": "apps/web/src/components/ui/dialog.tsx",
+    "adaptation": true
+  },
+  {
+    "source": "components/ui/input.tsx",
+    "target": "apps/web/src/components/ui/input.tsx",
+    "adaptation": true
+  },
+  {
+    "source": "components/ui/select.tsx",
+    "target": "apps/web/src/components/ui/select.tsx",
+    "adaptation": true
+  },
+  {
+    "source": "components/ui/separator.tsx",
+    "target": "apps/web/src/components/ui/separator.tsx",
+    "adaptation": true
+  },
+  {
+    "source": "components/ui/textarea.tsx",
+    "target": "apps/web/src/components/ui/textarea.tsx",
+    "adaptation": true
+  },
+  {
+    "source": "app/api/analysis/birding-outlook/route.ts",
+    "target": "apps/api/src/routes/analysis/birding-outlook/route.ts",
+    "adaptation": true
+  },
+  {
+    "source": "app/api/analysis/forecast-warning/route.ts",
+    "target": "apps/api/src/routes/analysis/forecast-warning/route.ts",
+    "adaptation": true
+  },
+  {
+    "source": "app/api/analysis/habitat-species-reference/route.ts",
+    "target": "apps/api/src/routes/analysis/habitat-species-reference/route.ts",
+    "adaptation": true
+  },
+  {
+    "source": "app/api/auth/login/route.ts",
+    "target": "apps/api/src/routes/auth/login/route.ts",
+    "adaptation": true
+  },
+  {
+    "source": "app/api/auth/logout/route.ts",
+    "target": "apps/api/src/routes/auth/logout/route.ts",
+    "adaptation": true
+  },
+  {
+    "source": "app/api/identify/bird-recognition/route.ts",
+    "target": "apps/api/src/routes/identify/bird-recognition/route.ts",
+    "adaptation": true
+  },
+  {
+    "source": "app/api/records/location/resolve/route.ts",
+    "target": "apps/api/src/routes/records/location/resolve/route.ts",
+    "adaptation": true
+  },
+  {
+    "source": "app/api/records/notebook/route.ts",
+    "target": "apps/api/src/routes/records/notebook/route.ts",
+    "adaptation": true
+  },
+  {
+    "source": "app/api/records/notebook/[recordId]/route.ts",
+    "target": "apps/api/src/routes/records/notebook/[recordId]/route.ts",
+    "adaptation": true
+  },
+  {
+    "source": "public/file.svg",
+    "target": "apps/web/public/file.svg",
+    "adaptation": false
+  },
+  {
+    "source": "public/globe.svg",
+    "target": "apps/web/public/globe.svg",
+    "adaptation": false
+  },
+  {
+    "source": "public/images/default-admin-avatar.png",
+    "target": "apps/web/public/images/default-admin-avatar.png",
+    "adaptation": false
+  },
+  {
+    "source": "public/next.svg",
+    "target": "apps/web/public/next.svg",
+    "adaptation": false
+  },
+  {
+    "source": "public/vercel.svg",
+    "target": "apps/web/public/vercel.svg",
+    "adaptation": false
+  },
+  {
+    "source": "public/window.svg",
+    "target": "apps/web/public/window.svg",
+    "adaptation": false
+  },
+  {
+    "source": "parkinfo/Bijiashan Park.json",
+    "target": "apps/api/parkinfo/Bijiashan Park.json",
+    "adaptation": false
+  },
+  {
+    "source": "parkinfo/Fairylake Botanical Garden.json",
+    "target": "apps/api/parkinfo/Fairylake Botanical Garden.json",
+    "adaptation": false
+  },
+  {
+    "source": "parkinfo/Shenzhen Bay Park.json",
+    "target": "apps/api/parkinfo/Shenzhen Bay Park.json",
+    "adaptation": false
+  },
+  {
+    "source": "parkinfo/Shenzhen Donghu Park.json",
+    "target": "apps/api/parkinfo/Shenzhen Donghu Park.json",
+    "adaptation": false
+  }
+]

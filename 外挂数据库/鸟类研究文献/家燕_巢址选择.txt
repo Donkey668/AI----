@@ -1,0 +1,236 @@
+中文鸟名：家燕
+文献标题：Nest-Site Selection in Barn Swallows (<i>Hirundo rustica</i>): Patterns Consistent With the Human Proximity Hypothesis Across Three Regions of China.
+DOI：10.1002/ece3.74071
+PMCID：PMC13381063
+全文来源：https://pmc.ncbi.nlm.nih.gov/articles/PMC13381063/
+下载日期：2026-11-02
+说明：开放获取论文的全文文本，保留原文语言；论文研究地区不一定是深圳。
+
+Nest‐Site Selection in Barn Swallows ( Hirundo rustica ): Patterns Consistent With the Human Proximity Hypothesis Across Three Regions of China
+
+ABSTRACT
+
+Nest‐site selection is critical to avian reproductive success. Although human activity is known to influence nest‐site choice in birds, whether humans facilitate or impede avian reproduction remains a matter of debate. The human proximity hypothesis proposes that birds breeding near human habitation experience reduced rates of nest predation and brood parasitism. To test this hypothesis, we investigated nest‐site selection in barn swallows ( Hirundo rustica ) across three provinces in China: Hainan, Guizhou, and Heilongjiang. Occupancy rates of the breeding swallow nests were 34.6% in inhabited buildings but fell sharply to 0.9% in uninhabited buildings. Among all active nests recorded, 98.1% were located in inhabited buildings, and swallows showed a strong preference for old buildings (91.9%). Outdoor nests (75.1%) significantly outnumbered indoor nests (24.9%), and outdoor nests were placed at significantly greater heights than indoor nests. Our findings are consistent with the human proximity hypothesis, suggesting that barn swallows maintain close associations with humans and may benefit from reduced predation and parasitism risk associated with human proximity.
+
+Whether humans facilitate or impede avian reproduction remains a matter of debate. Barn swallows preferentially seek human protection by nesting in inhabited buildings, show a marked preference for older structures. Swallow outdoor nests are higher than indoor nests.
+
+Introduction
+
+Nest‐site selection is the process by which birds identify and occupy habitats that are most conducive to successful reproduction (Cody ), and nest‐site quality is a critical determinant of breeding success (Millones and Frere ). Natural selection favors individuals that locate safe, concealed nesting sites (Martin ). High‐quality sites can create locally favorable microclimatic conditions (Kesler and Haig ), enhance reproductive output (Martin ), and reduce the risk of both nest predation (Haynes et al. ) and brood parasitism (Liang et al. ; Ma et al. ). For instance, the superb lyrebird ( Menura novaehollandiae ) builds elevated nests to prevent water ingress and maintain a dry nest micro‐environment (Maisey et al. ). The tawny frogmouth ( Podargus strigoides ) orients its nest on the leeward, northeast‐facing side of trees to maximize morning sunlight exposure while providing partial wind protection, thereby optimizing nest temperature regulation (Rae and Rae ). The Yelkouan shearwater ( Puffinus yelkouan ) selects nest sites with greater concealment to minimize detection by predators and improve breeding success (Bourgeois and Vidal ). Laughing doves ( Spilopelia senegalensis ) select nest sites that are invisible from both the front and the sides, thereby reducing predation risk (Banisaffar and Shabani ).
+
+Nest‐site selection is shaped by multiple interacting factors, including ecological conditions (Jovani and Tella ), food availability (Rather et al. ), nest predation (Quintana and Yorio ), human activity (Chen et al. ), access to nest materials (Hansell ), and brood parasitism (Feeney et al. ), and is therefore best understood as an integrated response to a suite of competing selective forces. Among these, avoidance of nest predation is generally considered the primary selective pressure, driving a range of behavioral and ecological adaptations. Some species exploit human presence as a form of protection. For example, the scaly‐breasted munia ( Lonchura punctulata ) nests in roadside vegetation along busy thoroughfares, using human traffic to deter predators (Zhou et al. ), while the oriental reed warbler ( Acrocephalus orientalis ) nests near human settlements to reduce parasitism by the common cuckoo ( Cuculus canorus ) (Møller et al. ). Additionally, the Daurian redstart ( Phoenicurus auroreus ) shows a strong preference for nesting inside human structures, where human presence significantly reduces predation and cuckoo parasitism rates (Zhang et al. ). Notably, nest abundance declines sharply following human abandonment of buildings (Zhang et al. ; Yao et al. ). Conversely, human activity can also exert negative effects on nest‐site choice, operating at different spatial scales. At the landscape scale, great cormorants ( Phalacrocorax carbo ) tend to select nest sites away from human settlements, effectively avoiding areas of high human activity (Guo et al. ). In contrast, synanthropic species such as the Eurasian magpie ( Pica pica ) can occupy highly urbanized environments, but within these habitats they exercise microhabitat selection: they preferentially nest in tall trees at great heights to reduce threats from humans and pets (e.g., cats) (Wang et al. ; Jokimäki et al. ; Xu et al. ). Thus, whether human activity exerts a net positive or negative influence on avian nest‐site selection remains an open question (Zhang et al. ).
+
+The barn swallow ( Hirundo rustica ) breeds in the Northern Hemisphere during summer and wintering in the Southern Hemisphere (Tian et al. ) and has long coexisted with humans and enjoys a nearly cosmopolitan distribution (Dor et al. ), making it an ideal species for studying the influence of human activity on avian nest‐site selection. Research in South Korea has shown that barn swallows preferentially nest in inhabited buildings (Jeong et al. ; Kim et al. ) and that nests in areas of high human activity are associated with greater numbers of fledglings and higher overall breeding success (Kim et al. ). In China, a tendency to nest in human structures may be a key reason why barn swallows are rarely parasitized by cuckoos, and nesting indoors has been identified as a particularly effective defensive strategy (Liang et al. ). These observations are consistent with the human proximity hypothesis (Møller ; Liang et al. ), which posits that breeding near human habitation reduces the risk of both brood parasitism and nest predation (Liang et al. ; Møller et al. ). Although Zhao et al.  sampled barn swallow populations across multiple latitudes in China, their study focused on life‐history traits and micro‐environmental exposure rather than on the consistency of physical nest‐site type selection (e.g., eaves vs. indoor sites). Consequently, whether the nest‐site preferences documented in South Korea—such as the preference for inhabited and old buildings—generalize across contrasting climatic and cultural settings remains unknown. By sampling across tropical, subtropical, and temperate zones in China, our study directly tests this hypothesis.
+
+Therefore, in the present study, we aimed to examine nest‐site selection and its geographic variation across multiple barn swallow populations in China. By comparing nesting rates in inhabited versus uninhabited buildings, we investigated the role of human activity in barn swallow nest‐site choice. We also recorded building age, nest height, and nest position (indoor versus outdoor) to characterize nesting preferences. Based on the human proximity hypothesis, we made the following predictions: (1) barn swallows preferentially nest in inhabited buildings (Jeong et al. ; Kim et al. ); (2) given that indoor nesting represents a more effective anti‐predator and anti‐parasite strategy, indoor nests outnumber outdoor nests (Liang et al. ); and (3) because old buildings are more likely to be inhabited and provide ready‐made nesting structures, barn swallows would use old buildings more frequently than new buildings (Chen et al. ).
+
+Materials and Methods
+
+Study Area
+
+To investigate the effects of human activity on nest‐site selection in barn swallows, we selected Danzhou City in Hainan Province, Leishan County in Guizhou Province, and Qiqihar City in Heilongjiang Province as study sites (Figure 1A).
+
+Study area. (A) Study sites for 2023–2024, comprising Danzhou City (Hainan Province), Leishan County (Guizhou Province), and Qiqihar City (Heilongjiang Province) in China. (B) Study site for 2014, comprising 69 villages across multiple municipalities of Hainan Province.
+
+Danzhou City represents a low‐latitude tropical monsoon climate zone. Hainan Province (18°10′–20°10′ N, 108°37′–111°03′E) is located at the southernmost tip of China and has a tropical monsoon climate, with a mean annual temperature of 22°C–27°C and annual precipitation ranging from 1000 to 2600 mm. Summers are hot and rainy, whereas winters are mild and relatively dry. The province has a total land area of 35,400 km2 and a permanent population of approximately 10.48 million. In the 2014 breeding season, our team conducted a baseline survey of barn swallow nest sites across 11 cities and counties on Hainan Province, including Wenchang, Lingao, Changjiang, Danzhou, Dongfang, Ledong, Baoting, Lingshui, Haikou, Qiongzhong, and Tunchang (Figure 1B). Based on this survey, Danzhou City was selected as the tropical study site. Danzhou covers a total area of 3405.39 km2, and the habitats are dominated by tropical rainforest and mangrove wetlands. The proportion of built‐up area is 1.58%, the cultivated land area is 1338.6 km2, and the permanent population is about 1.09 million. The study was conducted during the 2023–2024 breeding seasons.
+
+Leishan County represents a mid‐subtropical humid monsoon climate. Leishan County (26°02′–26°34′N, 107°55′–108°22′E) is located in the southwest of Qiandongnan Miao and Dong Autonomous Prefecture, at an altitude of 480–2178 m, with a mean annual temperature of 14°C–15°C and annual precipitation of 1310 mm. The county covers an area of 1204.36 km2, and the habitats are dominated by montane forests and valley farmland. The proportion of built‐up area is 0.67%, and the population is about 160,000. The study was conducted during the 2023 breeding season.
+
+Qiqihar City in Heilongjiang Province represents a high‐latitude temperate continental monsoon climate. Located on the Songnen Plain (46°13′–48°56′N, 122°24′–126°41′E), the area has a mean annual temperature of 0.7°C–4.2°C and annual precipitation of 400–550 mm (Yan and Liang ). Fieldwork was carried out in Zhalong Town, Tiefeng District. Zhalong Town covers an administrative area of approximately 564.6 km2 and has a population of about 29,000. The built‐up area accounts for less than 0.1% of the total land, and the landscape is dominated by reed marshes and farmland. The study was conducted during the barn swallow breeding season of 2024 (Figure 1A).
+
+Field Surveys
+
+During the 2014 survey in Hainan Province, we selected 10 county‐level municipalities across the eastern, western, southern, northern, and central regions of Hainan Island, taking into account the island's topographic diversity, and sampled coastal villages, lowland foothill villages, and montane forest villages as survey units. Our study was conducted in rural village settlements across three Chinese provinces: Hainan, Guizhou, and Heilongjiang (see Study sites for detailed descriptions). The settlements were predominantly old, established villages. In some cases, residents had relocated to newly built housing, leaving former dwellings unoccupied; in other cases, entire villages had moved to new sites nearby, resulting in large numbers of abandoned buildings. Settlement density remained high in other areas. Consequently, our survey sites included a representative mix of inhabited and uninhabited buildings.
+
+In 2014, we carried out a baseline nest census in 69 villages across Hainan. In each village, we systematically counted all buildings and classified them as inhabited or uninhabited based on daily human presence. We recorded the number of barn swallow nests in each building type (with zero recorded where none were found) and noted whether each nest was located indoors or outdoors. In total, we surveyed 4613 buildings, comprising 3695 inhabited (80.1%) and 918 uninhabited buildings (19.9%), and documented 1288 barn swallow nests.
+
+Between 2023 and 2024, we conducted detailed nest‐site surveys in Danzhou (Hainan), Leishan (Guizhou), and Qiqihar (Heilongjiang), focusing on active nests with confirmed breeding activity. Upon locating an active nest, we recorded a series of nest‐site parameters, including nest height (the vertical distance from the nest floor to the ground), building age, occupancy status, and nest position (indoor versus outdoor). Nest height was measured as the vertical distance from the nest floor to the floor of the balcony or room where the nest was located, rather than from ground level, because ground‐level measurements would conflate nest height with building height. We note that the relationship between nest height and ceiling height differed by building type: modern houses in our study sites were typically single‐storey dwellings with similar indoor and outdoor ceiling heights, whereas traditional buildings tended to have sloping roofs, resulting in higher indoor ceilings than outdoor ceilings. Building age was categorized as “new” (≤ 5 years old) or “old” (> 5 years old) based on the report of the building's occupants. The five‐year threshold was chosen because building materials in the study regions typically undergo noticeable weathering within approximately 5 years, increasing surface roughness and providing superior attachment points for mud nests, and because a five‐year interval provides sufficient time for old nests from previous breeding seasons to accumulate (Chen et al. ). As building age was determined by homeowner report, it should be interpreted as an approximate estimate. At the Heilongjiang site, barn swallows commonly nested in livestock enclosures (e.g., cattle, horse, sheep, and chicken pens) and storage buildings. In this study, livestock enclosures were classified as “inhabited” only when they were physically attached to or immediately adjacent to the family dwelling and were accessed by household members multiple times daily for feeding, cleaning, or herding. This definition was based on sustained daily human presence—the ecologically relevant disturbance regime for nest‐site selection—rather than on sleeping occupancy. To ensure data consistency, all surveyors participated in a pre‐survey training session in which standardized classification criteria were discussed and practised using reference examples. Written operational definitions were provided and applied consistently across all sites and years. All classifications were made following a standardized protocol established during this training. In total, we recorded detailed nest‐site data for 942 nests: 373 in Hainan, 360 in Guizhou, and 209 in Heilongjiang.
+
+The 2014 survey was designed as a village‐level census to document the overall distribution of barn swallow nests across Hainan. It recorded all visible nests, including old, inactive ones that may have persisted from previous breeding seasons. Two methodological differences preclude direct quantitative comparison with the 2023–2024 dataset: first, inactive and active nests were not reliably distinguished in 2014, whereas the 2023–2024 surveys targeted only active nests; second, the 2014 sampling was census‐based at the village level, whereas the 2023–2024 surveys followed a targeted active‐nest protocol. Accordingly, the 2014 data are used here solely as a qualitative baseline for inferring broad, long‐term patterns.
+
+Statistical Analysis
+
+2014 survey (Hainan). Data from all 69 villages were pooled. A 2 × 2 contingency table was constructed for building occupancy status (inhabited vs. uninhabited) and nesting status (with nests vs. without nests), and a Pearson chi‐square test of independence was used to compare nesting rates between inhabited and uninhabited buildings. For nest position, a chi‐square goodness‐of‐fit test was conducted under the null hypothesis that indoor and outdoor nests occur with equal frequency (expected ratio 1:1).
+
+2023–2024 surveys (three regions). To test whether barn swallows exhibited an overall tendency toward particular categories of building age, occupancy status, or nest position, we pooled data from the three regions and performed one‐sample chi‐square goodness‐of‐fit tests on each binary variable, with the null hypothesis that the two categories were equally probable (50% each). To compare nest‐site selection among regions, we used Pearson chi‐square tests of independence on R × C contingency tables for building age, occupancy status, and nest position, respectively. For nest height, we first assessed normality (Shapiro–Wilk test) and homogeneity of variances (Levene's test). When both assumptions were met, independent‐sample t‐tests were used to compare nest heights between inhabited and uninhabited buildings, and between indoor and outdoor nests; when variances were unequal, Welch's corrected t‐test was applied; and when data deviated severely from normality, the Mann–Whitney U test was employed.
+
+All statistical analyses were performed using IBM SPSS 25.0 (IBM Corp., Armonk, NY, USA), with a significance threshold of p < 0.05 (two‐tailed). Descriptive data for continuous variables are presented as mean ± standard deviation (SD); standard error (SE) and coefficient of variation (CV) are also reported where appropriate.
+
+Results
+
+Nest Position
+
+The 2014 Hainan dataset revealed a nest occupancy rate of 34.6% in inhabited buildings (n = 3695) compared with a rate of 0.9% in uninhabited buildings (n = 918). A Chi‐square test confirmed that this difference was significant (χ 2 = 416.7, df = 1, p < 0.001) (Figure 2A). Similarly, analysis of the 2023–2024 data across all three sites showed that barn swallows predominantly nested in inhabited buildings (98.1%, n = 924) rather than uninhabited buildings (1.9%, n = 18), a difference that was also significant (df = 1, χ 2 = 871.4, p < 0.001) (Figure 2B).
+
+Barn swallow nesting rates in inhabited versus uninhabited buildings. (A) Nest occupancy rates in inhabited and uninhabited buildings across 69 Hainan villages in 2014. Percentages indicate the proportion of buildings with nests. Inhabited buildings: 34.6% (with nest) vs. 65.4% (without nest); uninhabited buildings: 0.9% (with nest) vs. 99.1% (without nest). χ
+2 test, p < 0.001. (B) Comparison of the proportion of nests found in inhabited versus uninhabited buildings at the three study sites during 2023–2024.
+
+Chi‐square analysis of the 2023–2024 data showed that barn swallows nested significantly more often in old buildings (91.9%, n = 866) than in new buildings (8.1%, n = 76) (df = 1, χ 2 = 662.5, p < 0.001) (Figure 3A). Furthermore, outdoor nests (75.1%, n = 707) were significantly more common than indoor nests (24.9%, n = 235) (df = 1, χ 2 = 236.5, p < 0.001) (Figure 3B).
+
+Proportions of barn swallow nests by nest‐site category across the three study sites in 2023–2024. (A) Proportion of nests in new versus old buildings. (B) Proportion of indoor versus outdoor nests.
+
+For the 2014 Hainan data, outdoor nests accounted for 57.5% (n = 740) of all nests across both inhabited and uninhabited buildings, significantly outnumbered indoor nests (42.5%, n = 548) (df = 1, χ 2 = 28.6, p < 0.001). In the 2023–2024 Hainan data, outdoor nests were even more predominant (98.9%, n = 369) compared with indoor nests (1.1%, n = 4) (df = 1, χ 2 = 357.2, p < 0.001) (Figure 4).
+
+Proportion of indoor and outdoor barn swallow nests across the three study regions (2023–2024). The 2014 Hainan data are shown for qualitative reference only and are not included in statistical comparisons owing to methodological differences between the two survey periods (see Methods).
+
+Pairwise comparisons of the 2023–2024 data across sites revealed that nesting in inhabited buildings was the predominant pattern in all three provinces, although the proportion was significantly higher in Hainan (99.2%) than in Heilongjiang (96.7%) (χ 2 = 5.14, df = 1, p = 0.023) (Figure 5A). All three sites showed a majority of nests in old buildings; however, pairwise Chi‐square tests revealed significant differences between Hainan (99.2%) and Guizhou (79.7%) (χ 2 = 74.8, df = 1, p < 0.001) and between Guizhou and Heilongjiang (100%) (χ 2 = 48.6, df = 1, p < 0.001), with Hainan and Heilongjiang both having significantly higher proportions of nests in old buildings than Guizhou (Figure 5B). Regarding nest position, Heilongjiang had significantly more indoor nests (97.6%, n = 204) than outdoor nests (2.4%, n = 5) (χ 2 = 189.5, df = 1, p < 0.001), while Hainan and Guizhou were both dominated by outdoor nests. Pairwise comparisons of outdoor nesting proportions revealed significant differences between Hainan (98.9%) and Guizhou (92.5%) (χ 2 = 18.69, df = 1, p < 0.001), between Hainan (98.9%) and Heilongjiang (2.4%) (χ 2 = 543.5, df = 1, p < 0.001), and between Guizhou (92.5%) and Heilongjiang (2.4%) (χ 2 = 445.2, df = 1, p < 0.001), yielding an outdoor nesting gradient of Hainan > Guizhou > Heilongjiang (Figure 4). The proportion of outdoor nests differed significantly among the three regions, following a gradient from Hainan (highest) to Heilongjiang (lowest).
+
+Comparison of nest‐site selection across the three study sites. (A) Proportion of nests in inhabited versus uninhabited buildings. (B) Proportion of nests in new versus old buildings.
+
+Nest Height
+
+Mean nest height was significantly lower for indoor nests (2.64 ± 0.53 m, n = 235) than for outdoor nests (3.46 ± 0.40 m, n = 707) (df = 940, |t| = 21.59, p < 0.001). Nest in inhabited buildings (3.26 ± 0.56 m, n = 924) were placed at significantly higher heights than those in uninhabited buildings (2.98 ± 0.71 m, n = 18) (df = 940, |t| = 2.1, p = 0.036) (Figure 6). Given the highly unbalanced sample sizes, this result should be interpreted with caution.
+
+Differences in nest height between indoor and outdoor nests and between nests in inhabited and uninhabited buildings.
+
+Discussion
+
+Our results show that barn swallows used inhabited buildings more frequently than uninhabited ones and old buildings more frequently than new ones, which is consistent with predictions (1) and (3). However, contrary to prediction (2), outdoor nests were more common than indoor nests. Qualitative observations suggest that outdoor nesting has become more prevalent in Hainan over the past decade, coinciding with rapid urbanization and architectural change, although direct quantitative comparison between periods is precluded by methodological differences (see Methods).
+
+Preference for Inhabited Buildings
+
+The higher nesting rate observed in inhabited buildings may be explained by several non‐mutually exclusive factors. First, human presence may deter nest predators such as snakes, rodents, owls, bats, and raptors (Møller ), and nests in areas of higher human activity have been associated with greater fledgling numbers (Kim et al. ). Second, inhabited buildings tend to be structurally sounder than abandoned ones, potentially offering more stable nesting substrates; in contrast, abandoned buildings are more susceptible to structural deterioration, which may reduce nest persistence (Jeong et al. ). Third, artificial light at night in occupied buildings may allow extended foraging and provisioning (Wang et al. ), a condition unavailable in uninhabited buildings, and nighttime light intensity has been positively associated with nest occurrence probability (Chen et al. ). Fourth, brood parasites may avoid areas of frequent human activity, potentially lowering parasitism risk (Liang et al. ; Møller et al. ). Enhanced food availability near dwellings due to livestock and organic waste could also play a role, but uninhabited buildings with similar surrounding vegetation were rarely used, and outdoor nests were concentrated near doorways regardless of proximity to livestock or light sources. These patterns are more consistent with a deterrence function of human presence than with a purely resource‐based explanation. Furthermore, the few nests in uninhabited buildings were typically situated close to regular human activity (e.g., buildings visited daily for livestock tending), reinforcing the importance of proximity to humans. Accessibility alone (open doors/windows) cannot fully account for the preference, as structurally similar but unoccupied buildings were consistently avoided.
+
+Preference for Old Buildings
+
+The tendency to use old buildings may be attributable to several factors. Old buildings often possess structural features suitable for nesting, such as rough textured surfaces, overhanging elements, and lower story heights, and building age is positively associated with nest occurrence probability (Chen et al. ). Old buildings are also more likely to contain existing nests from prior breeding seasons. Nest reuse is common in barn swallows, with reported rates ranging from 50% to 80% (Barclay ; Safran ; Shields ). Reusing an existing nest is associated with earlier breeding initiation, reduced energetic costs, and higher reproductive success (Safran ; Teglhøj ). Old nests may also function as social cues, signaling a safe site over multiple seasons (Ringhofer and Hasegawa ). Additionally, old buildings are often surrounded by more mature vegetation due to the “legacy effect” (Clarke et al. ; Li et al. ), which may support higher flying insect abundance and provide more reliable foraging opportunities (Navarro et al. ; Campera et al. ).
+
+Why Outdoor Nests Outnumber Indoor Nests
+
+The predominance of outdoor nests contrasts with findings from temperate Denmark, where more than 99% of barn swallows nested indoors (Møller ). This discrepancy may partly reflect climatic differences, as warmer regions impose weaker thermal constraints on outdoor nesting, and Denmark harbors a depauperate predator community compared to southern China. However, we suggest that the pattern primarily reflects a passive response to building accessibility rather than an active preference. Traditional Chinese dwellings with wooden door and window frames provided abundant entry points, but the widespread adoption of glass doors and windows in modern construction has substantially reduced building permeability (Figure 7). Even where indoor access is possible, hygiene concerns and removal of nests by residents limit indoor nesting (Zeng et al. ). Consistent with this interpretation, the indoor nesting rate was highest in Heilongjiang (97.6%), where traditional architecture remains prevalent and residents actively facilitate swallow access (Video S1). Although our Heilongjiang sampling was limited to villages around Zhalong, barn swallows do breed in newer urban buildings elsewhere in the province. Overall, outdoor nesting appears to represent the outcome of a multifactor trade‐off involving building type, access, and resident attitudes, rather than an intrinsic preference. The increase in outdoor nests in Hainan over the past decade, hinted at by qualitative comparisons, coincides with rapid urbanization and architectural change.
+
+Building types at the study sites. (A) Traditional buildings with natural access points that facilitate barn swallow entry for indoor nesting. (B) Modern buildings with sealed doors and windows, restricting barn swallows to outdoor nesting only.
+
+Latitudinal Gradient in Outdoor Nesting
+
+We found a marked latitudinal gradient in the proportion of outdoor nests (highest in tropical Hainan, lowest in temperate Heilongjiang). This pattern corresponds broadly to the climatic and architectural variation across our study sites—from the warm, urbanized landscape of Hainan to the cool, traditional rural setting of Heilongjiang. This pattern likely reflects the combined effects of climate, architecture, and cultural practices across the three study regions. Climatically, warmer regions impose weaker thermal constraints on outdoor nesting; during the breeding season, Hainan temperatures rarely fall below 25°C, while Heilongjiang's spring temperatures frequently approach freezing, favoring enclosed nest sites (Leung and Reid ). Architecturally, traditional dwellings in Heilongjiang have thick walls and resident‐made openings, whereas modern concrete buildings in Hainan with sealed exteriors limit indoor entry opportunities (Chen et al. ). Guizhou, with its mix of building types, occupies an intermediate position. Culturally, tolerating indoor nests and active facilitation are higher in Heilongjiang than in more urbanized and densely populated Hainan.
+
+Height Differences Between Nest Types
+
+Indoor nests were placed at significantly lower heights than outdoor nests. Because outdoor nests are more exposed to predators and brood parasites, higher placement may restrict access by larger birds (Nilsson ; Møller ; Liang et al. ), Indoors, predation and parasitism risks are lower. Moreover, barn swallows can distinguish household members from strangers (Liu et al. ); indoor spaces, occupied primarily by familiar individuals, may be perceived as safer, allowing lower nesting. We also observed that nests in inhabited buildings were placed higher than those in uninhabited buildings. Greater human disturbance could favor elevated placement (Cheng et al. ), but uninhabited buildings in our study were predominantly old structures with lower ceilings, potentially confounding the pattern. The small sample of nests in uninhabited buildings (n = 18) further limits this comparison.
+
+Our study shows that barn swallows nested more frequently in inhabited buildings and in old structures, and that indoor nests were placed at lower heights. These findings are consistent with the human proximity hypothesis and reveal that outdoor nesting, contrary to prediction, is now predominant at lower latitudes, likely due to reduced building accessibility. Key avenues for future research include: (1) systematic measurements of building characteristics, predator assemblages, and microclimatic conditions to disentangle the drivers of geographic variation; (2) multivariate analyses to evaluate multiple predictors; (3) direct measurements of fitness outcomes and predation pressure to assess whether observed patterns reflect adaptive preferences; (4) broader geographic sampling to establish generality; and (5) comparable studies in other synanthropic species, such as the Eurasian tree sparrow ( Passer montanus ) and the red‐rumped swallow ( Cecropis daurica ). Although sampling was not fully synchronous across regions, we consider this a minor limitation given that all fieldwork was conducted during the peak breeding season and inter‐annual variation in nesting phenology is limited in this species.
+
+Author Contributions
+
+Cong Peng: data curation (lead), formal analysis (lead), investigation (equal), methodology (equal), visualization (lead), writing – original draft (equal). Kangning Luo: investigation (equal), methodology (equal), resources (equal). Kui Yan: investigation (equal), methodology (equal), resources (equal). Wei Liang: conceptualization (lead), funding acquisition (lead), supervision (lead), validation (equal), writing – review and editing (equal).
+
+Funding
+
+W.L. was supported by the National Key R & D Program of China (2023YFF1304600) and the specific research fund of the Innovation Platform for Academicians of Hainan Province. C.P. was funded by the Hainan Graduate Student Innovation Research Project (Qhyb2024‐161).
+
+Ethics Statement
+
+The experiments comply with the current laws of China. No special permit was required for this study as it was not involved in animal or plant collection.
+
+Conflicts of Interest
+
+The authors declare no conflicts of interest.
+
+Supporting information
+
+Data Availability Statement
+
+Data used for this study and Video S1 are provided as Supporting Information—S1 and can be found at https://figshare.com/s/e5d9b2038bddde835329 (doi: 10.6084/m9.figshare.31746283).
+
+References
+
+Factors Influencing Nest Site Selection of the Laughing Dove ( Spilopelia senegalensis ) in an Urban Area in Karaj, Iran
+
+Variation in the Costs, Benefits, and Frequency of Nest Reuse by Barn Swallows ( Hirundo rustica )
+
+Yelkouan Shearwater Nest‐Cavity Selection and Breeding Success
+
+Impact of Cropland Management on Invertebrate Richness and Abundance in Agroforestry Systems in Bali, Indonesia
+
+Plasticity in Nest Site Selection of Black Redstart ( Phoenicurus ochruros ): A Response to Human Disturbance
+
+Citizen Science Enabled Planning for Species Conservation in Urban Landscapes: The Case of Barn Swallows  Hirundo rustica  in Southern China
+
+Flexible Nest Site Selection of the Endangered Oriental Storks ( Ciconia boyciana ): Trade‐Off From Adaptive Strategies
+
+The Luxury of Vegetation and the Legacy of Tree Biodiversity in Los Angeles, CA
+
+Phylogeny of the Genus Hirundo and the Barn Swallow Subspecies Complex
+
+The Frontline of Avian Brood Parasite–Host Coevolution
+
+Nests Characteristics and Nest‐Site Selection of Common Cormorant in Longfeng Reserve, China
+
+Risk of Predation and Weather Events Affect Nest Site Selection by Sympatric Pacific ( Gavia pacifica ) and Yellow‐Billed ( Gavia adamsii ) Loons in Arctic Habitats
+
+Do Barn Swallows ( Hirundo rustica gutturalis ) Prefer to Breed in Inhabited Houses in South Korea?
+
+Urbanization and Nest‐Site Selection of the Black‐Billed Magpie ( Pica pica ) Populations in Two Finnish Cities: From a Persecuted Species to an Urban Exploiter
+
+Age‐Related Environmental Sensitivity and Weather Mediated Nestling Mortality in White Storks  Ciconia ciconia
+
+Microclimate and Nest‐Site Selection in Micronesian Kingfishers
+
+The Relationship Between Nest Location Selection of Barn Swallows ( Hirundo rustica ) and Human Activity and Residence
+
+Nesting Ecology of the Barn Swallow on Agricultural Lands in Yukon
+
+Legacy and Luxury Effects: Dual Drivers of Tree Diversity Dynamics in Beijing's Urbanizing Residential Areas (2006–2021)
+
+Avoiding Parasitism by Breeding Indoors: Cuckoo Parasitism of Hirundines and Rejection of Eggs
+
+Breeding Barn Swallows Recognize Householders From Strangers
+
+Costs of Breeding Far Away From Neighbors: Isolated Host Nests Are More Vulnerable to Cuckoo Parasitism
+
+Environmental Influences on Variation in Nest‐Characteristics in a Long‐Term Study Population of the Superb Lyrebird,  Menura novaehollandiae
+
+Avian Life History Evolution in Relation to Nest Sites, Nest Predation, and Food
+
+How Nest Site Characteristics Influence Breeding Success in Red‐Legged Cormorants  Phalacrocorax gaimardi
+
+Intraspecific Nest Parasitism and Anti‐Parasite Behaviour in Swallows,  Hirundo rustica
+
+Intraspecific Nest Parasitism in the Swallow  Hirundo rustica : The Importance of Neighbors
+
+The Fitness Benefit of Association With Humans: Elevated Success of Birds Breeding Indoors
+
+Brood Parasitism and Proximity to Human Habitation
+
+Herbaceous Cover Management in Olive Groves Can Be Important for Aerial‐Feeding Birds. A Case Study in Southern Spain
+
+The Evolution of Nest‐Site Selection Among Hole‐Nesting Birds: The Importance of Nest Predation and Competition
+
+Competition for Nest Sites Between Kelp Gulls ( Larus dominicanus ) and Terns (Sterna maxima and  S. eurygnatha ) in Patagonia
+
+Orientation of Tawny Frogmouth ( Podargus strigoides ) Nests and Their Position on Branches Optimises Thermoregulation and Cryptic Concealment
+
+Multi‐Scale Habitat Modelling and Predicting Change in the Distribution of Tiger and Leopard Using Random Forest Algorithm
+
+Social Cues Are Preferred Over Resource Cues for Breeding‐Site Selection in Barn Swallows
+
+Adaptive Site Selection Rules and Variation in Group Size of Barn Swallows: Individual Decisions Predict Population Patterns
+
+Nest‐Site Selection in the Barn Swallow,  Hirundo rustica : What Predicts Seasonal Reproductive Success?
+
+Factors Affecting Nest and Site Fidelity in Adirondack Barn Swallows ( Hirundo rustica )
+
+Artificial Nests for Barn Swallows  Hirundo rustica : A Conservation Option for a Declining Passerine?
+
+Migration Pattern of a Population of Barn Swallows ( Hirundo rustica ) Breeding in East Asian Tropical Region
+
+Effects of Artificial Light at Night on the Nest‐Site Selection, Reproductive Success and Behavior of a Synanthropic Bird
+
+Black‐Billed Magpies ( Pica pica ) Adjust Nest Characteristics to Adapt to Urbanization in Hangzhou, China
+
+Effect of Urbanization Intensity on Nest‐Site Selection by Eurasian Magpies ( Pica pica )
+
+Recognition and Rejection of Foreign Eggs of Different Colors in Barn Swallows
+
+Nesting Preferences of Two Cavity‐Nesting Passerines in Human Houses
+
+Barn Swallow ( Hirundo rustica ) Transfers Current‐Use Pesticides From Agricultural Fields to Houses
+
+Brood Parasitism Risk Drives Birds to Breed Near Humans
+
+Nest Site Selection and Breeding Success of Daurian Redstart  Phoenicurus auroreus  in Northeast China
+
+The Effect of Urbanization and Exposure to Multiple Environmental Factors on Life‐History Traits and Breeding Success of Barn Swallows ( Hirundo rustica ) Across China
+
+Breeding in a Noisy World: Attraction to Urban Arterial Roads and Preference for Nest‐Sites by the Scaly‐Breasted Munia ( Lonchura punctulata )

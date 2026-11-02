@@ -1,0 +1,39 @@
+import { cookies } from "../../../cookies";
+import { authenticateLogin } from "../../../lib/auth/login";
+import {
+  AUTH_SESSION_COOKIE_NAME,
+  createAuthSession,
+  getAuthSessionCookieOptions,
+} from "../../../lib/auth/session-store";
+
+export async function POST(request: Request) {
+  let payload: unknown = null;
+
+  try {
+    payload = await request.json();
+  } catch {
+    payload = null;
+  }
+
+  const { statusCode, response } = authenticateLogin(payload);
+
+  const cookieStore = cookies(request);
+
+  if (statusCode === 200 && response.assistantAccount) {
+    const { sessionId } = createAuthSession(response.assistantAccount);
+
+    cookieStore.set(
+      AUTH_SESSION_COOKIE_NAME,
+      sessionId,
+      getAuthSessionCookieOptions(),
+    );
+  }
+
+  return cookieStore.apply(Response.json(response, {
+    status: statusCode,
+    headers: {
+      "Cache-Control": "no-store",
+      "Content-Language": "zh-CN",
+    },
+  }));
+}

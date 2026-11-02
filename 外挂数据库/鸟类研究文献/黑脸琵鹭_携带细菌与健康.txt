@@ -1,0 +1,909 @@
+中文鸟名：黑脸琵鹭
+文献标题：Antimicrobial resistance and virulence analysis of Escherichia coli carried by black-faced spoonbill (Platalea minor) in Liaoning, China.
+DOI：10.1371/journal.pone.0339376
+PMCID：PMC12758694
+全文来源：https://pmc.ncbi.nlm.nih.gov/articles/PMC12758694/
+下载日期：2026-11-02
+说明：开放获取论文的全文文本，保留原文语言；论文研究地区不一定是深圳。
+
+Antimicrobial resistance and virulence analysis of Escherichia coli carried by black-faced spoonbill (Platalea minor) in Liaoning, China
+
+To better protect the black-faced spoonbill and explore the transmission and public health risks of drug-resistant pathogenic bacteria carried by this rare migratory bird, 249 fecal samples were collected from the black-faced spoonbills on Shicheng Island, Zhuanghe City, Liaoning Province, China in 2017 and Escherichia coli (E. coli) were isolated and identified. The BD PhoenixTM-100 automated microbial identification system and E-test strips were used to determine the resistance phenotype and minimum inhibitory concentration (MIC) value of the isolates. Whole genome sequencing and analysis were conducted on multidrug resistant (MDR) isolates and an evolutionary tree was constructed. Seventy-four samples had E. coli isolated (29.7%), 43.2% of isolates carried an antimicrobial resistant phenotype and 21.6% isolates were considered to be MDR strains. The tetracycline resistance rate was highest (41.9%), followed by ampicillin (20.3%), chloramphenicol (18.9%) and trimethoprim/sulfamethoxazole (17.6%). The highest MIC values of ampicillin, cefazolin, cefotaxime, ciprofloxacin, levofloxacin, and chloramphenicol were eight to 32 times the cutoff point for antimicrobial resistance. Twenty-one types of resistance genes and 35 virulence-associated genes were detected in the MDR isolates and the main type of plasmid was IncFIB. The mcr-1 gene was detected for the first time in MDR E. coli isolated from the black-faced spoonbill. The astA gene was only detected in nine isolates with undetected antimicrobial resistant phenotype. Genetic diversity analysis showed that nine E. coli isolates were mainly concentrated and clustered in independent evolutionary branches in the phylogenetic tree, with serotypes of O-:H8 and the multilocus sequence typing was ST2077, which were in the same evolutionary branch as habitat domesticated animals and environmental isolates. In summary, E. coli may serve as a reservoir of resistance and virulence genes in migratory birds and may be transmitted to other species during migration, with virulent or multidrug resistant E. coli a potential threat to the rare black-faced spoonbill and to human public health.
+
+Introduction
+
+The black-faced spoonbill (Platalea minor) is a medium-sized wading bird belonging to the Threskiornithidae family and the Platalea genus, which commonly inhabits inland lakes, estuaries, reed swamps and other areas. It feeds on fish, shrimp, and crabs, as well as mollusks and crustaceans and is presently mainly found in nine countries, including South Korea, North Korea, Russia, Cambodia, and China. In China, most black-faced spoonbills live and breed on the bird island of Shicheng, Zhuanghe City and Liaoning Province in the summer and migrate to southern China in the winter. Every November, they migrate along the eastern coast of China, passing through Sushan Island in Shandong, Yancheng in Jiangsu, Chongming Island in Shanghai and Zhoushan Islands in Zhejiang, to pass the winter in Fujian and Taiwan. In February of the following year they migrate to Liaoning and arrive in Shicheng Township between March and April to start nesting and breeding. In the 1830s, with increasing water pollution and habitat destruction, the population decreased sharply and by the 1880s, the population had decreased to fewer than 300 birds. In 1989, the black-faced spoonbill became a globally endangered species and was listed as a second level protected wild animal in China’s National Key Protected Wildlife List. In 2021, it was elevated to a first level protected wild animal. Currently, there are only a thousand black-faced spoonbills in the world.
+
+Members of the class Aves occupy a wide range of niches throughout the world and trillions of microbes live in the intestinal tracts of birds. Through high-throughput sequencing technology, Cao Jian found that the gut bacterial communities in migratory bird populations were distinct from each other, with Pseudomonas, Peptostreptococcaceae nomame and Escherichia shared by all species.
+
+Escherichia coli (E. coli) is one of the most common and important pathogenic bacteria in birds and mainly causes diarrhea in animals including humans. According to the differences in priority colonization sites, the virulence factors and corresponding clinical signs of diarrheal E. coli in the host, it can be divided into enteropathogenic E. coli (EPEC); enterohemorrhagic E. coli (EHEC/STEC); enteroaggregative E. coli (EAEC); enterotoxic E. coli (ETEC); enteroinvasive E. coli (EIEC); diffusely adhesive E. coli (DAEC) and a newly identified type of adhesive invasive E. coli (AIEC). The type of E. coli that causes disease in birds is termed avian pathogenic E. coli (APEC), which is a subgroup of extraintestinal pathogenic E. coli (ExPEC) and can be associated with high mortality.
+
+The long-term use and misuse of antibiotics has increased the resistance of pathogenic bacteria to antibiotics and the emergence of drug-resistant bacteria has caused serious agricultural, animal and human health problems worldwide. Horizontal transmission of antimicrobial resistance genes (ARGs) is one of the main ways by which bacteria obtain drug resistance and plays an important role in the development of bacterial multidrug resistance (MDR). Given that E. coli is considered to be one of the most important bacteria responsible for horizontal transfer of ARGs, drug-resistant E. coli is of public health concern.
+
+Migratory birds are a natural reservoir of drug-resistant bacteria as they are globally abundant in number and have a wide range of activity. They can carry foreign ARGs during migration, which helps to produce MDR bacteria and spread ARGs in the environment and through monitoring, the cross transmission of pathogenic bacteria among wild animals, humans, and livestock has been well characterized.
+
+Research is limited on E. coli carried by black-faced spoonbills worldwide. In this study, a combination of polymerase chain reaction (PCR) and second generation sequencing (SGS) technology was used to verify the results of the minimum inhibitory concentration (MIC) test, with the aim of investigating the antimicrobial resistance spectrum of E. coli isolates from Liaoning Black-faced spoonbills, the drug resistance genes involved, the correlation and distribution of integrase and drug resistance genes and the genetic relationship of E. coli isolates, using SGS technology.
+
+Materials and methods
+
+Sample collection
+
+A total of 249 fecal samples from black-faced spoonbills were randomly collected from Shicheng Township, Zhuanghe City, Liaoning Province from May to June 2017. All samples were collected under the supervision of the Wild Animal Sources and Diseases Inspection Station, National Forestry and Grassland Bureau of China and did not cause any harm to the animals. The swabs were placed in 1 mL physiological saline at 4°C for a short time and transported to the laboratory on ice for further processing.
+
+Isolation and identification of E. coli
+
+Each sample in physiological saline was vortexed and the mixture was left to stand for 5 min at room temperature. The samples were cultured on MacConkey agar (QingDao Hope Bio), with large, flat, red single colonies with dark red centers two to three mm in diameter assumed to be E. coli and subjected to secondary purification on MacConkey agar. The strains were subcultured on brain heart infusion (BHI) agar plates, incubated for 16–18 h at 36 ± 1°C and stored at 80°C in BHI broth with 20% glycerol.
+
+Antimicrobial susceptibility testing
+
+The identification and antimicrobial susceptibility of isolated strains were determined using the NMIC/ID 4 panel of the BD PhoenixTM-100 automated microbial identification system (Becton Dickinson, USA). The antibiotics studied included amikacin, gentamicin, imipenem, meropenem, cefazolin, ceftazidime, cefotaxime, cefepime, aztreonam, ampicillin, piperacillin, amoxicillin–clavulanate, ampicillin–sulbactam, piperacillin–tazobactam, colistin, trimethoprim–sulfamethoxazole, chloramphenicol, ciprofloxacin, levofloxacin, moxifloxacin and tetracycline. The determination of the drug sensitivity results was based on the standards of the American Association for the Clinical and Laboratory Standards Institute (CLSI).
+
+Determination of the minimum inhibitory concentration (MIC)
+
+With reference to the CLSI (2017) enterobacteriaceae susceptibility test technology, the standard E-test strip (Liofilchem, Italy) was used for antimicrobial susceptibility testing on E. coli with a drug resistance phenotype. The zone of inhibition was examined to determine the MIC range according to the CLSI guidelines. The MIC breakpoints of each antibiotic for E. coli and the range of concentration detected by E-test are shown in Table S1 in S1 File and E. coli ATCC25922 was used as the quality control strain.
+
+DNA extraction
+
+The bacterial cells were recovered from 1 mL pure culture of E. coli isolates grown at 37°C for 18 hours, resuspended with an equal volume of ddH2O, boiled for 7 min and centrifuged at 12,000 rpm for 1 min. The recovered supernatant was used for detection of virulence and drug resistance genes.
+
+Detection of virulence genes by PCR assay
+
+Previously reported primers were used for the detection of the virulence genes of four pathogenic E. coli strains, listed in Table S2 in S1 File and the STEC, EPEC, and EAEC were identified by detecting the virulence genes eae, Stx1, Stx2, LT, STa, STb, ST, and astA. The reaction mixtures were dispensed into 96-well PCR tubes (Beijing Dingguo Changsheng Biotechnology Co. Ltd., China) with 25 μL in each well, containing 1 μL DNA template, 12.5 μL 2 × Taq DNA Master Mix (CWBio, Beijing, China), 0.5 μL of each 10 μM primer and 10.5 μL ddH2O. The E. coli isolates used as positive controls were CVCC216 as a positive control for eae, ST, Sta, and Stb; CVCC216 as a positive control for LT and EAST-1 and EDL933 as a positive control for Stx1 and Stx2.
+
+Detection of ARGs and integrons
+
+The PCR reactions were used to detect drug resistance genes of E. coli isolates, including ESBL genes blaCTX-M, blaCTX-M genotype group 1, 2, 9 and blaTEM, tetracycline resistance genes tet (A), tet (B), tet (C), tet (D), tet (M) and tet (W), sulfonamide resistance genes sul1, sul2, sul3, and sulA, chloramphenicol resistance genes cat1, cmlA, and floR, the colistin resistance gene mcr-1, and integrase genes intI1, intI2, and intI3. The PCR system and conditions were as described by Yue Yuan et al..
+
+Whole genome sequencing and bioinformatics analyses
+
+The DNA was extracted from MDR E. coli isolates using a bacterial DNA extraction kit (Omega Bio Tek, USA) and high-throughput sequencing of DNA was performed on the Illumina (USA) platform using NovaSeq PE150. For whole-genome sequence analysis, the phylogenetic tree based on single nucleotide polymorphisms (SNPs) was constructed using RealPhy (CH) and observed using the Interactive Tree Of Life (iTOL v6, https://itol.embl.de/). Antimicrobial resistance genes, virulence genes, plasmids, sequence type (ST) and serotypes were identified using ResFinder 4.1, VirulenceFinder 2.0, PlasmidFinder 2.1, and Serotype Finder 2.0 on the Computable General Equilibrium (CGE) website. Isolates of Escherichia were assigned to phylogroups using ClermonTyping v1.4.1 (USA).
+
+Data availability
+
+The E. coli genomes sequenced in this study have been uploaded to the National Center for Biotechnology Information (NCBI) Sequence Read Archive (SRA) database associated with BioProject under the accession numbers given in Table S3 in S1 File. The draft genomes of 40 E. coli strains distributed in poultry, cows, mink, pigs, migratory birds, cormorants and environmental sources from Japan and Guangzhou, Zhaoqing, Futian, Zhejiang, and Liaoning provinces in China were also downloaded from NCBI and included in the phylogenetic analysis, in Fig 3.
+
+Results
+
+Isolation and resistance phenotypes of E. coli
+
+Seventy-four (29.72%) E. coli strains were isolated with the MDR bacteria resistant to three or more types of antibiotic. Among the isolates, 32 (43.24%) strains were drug-resistant, 16 (21.62%) strains showed multiple drug resistance and only one strain 826red was of the ESBL phenotype. Among the MDR strains, there were six patterns of multiple drug resistance, with TET-AMP-SXT-CHL-GEN accounting for 56.25%, as shown in Table 1. With regard to the antimicrobial resistance rate, tetracycline showed the highest resistance rate (96.88%), followed by AMP, CHL, SXT, GEN and PIP, with rapidly decreasing resistance rates between 20.27% and 13.51%. The resistance rates of the remaining seven antibiotics were below 7%, as shown in Fig 1.
+
+Antimicrobial resistance spectra of strains.
+
+strains	Resistance phenotypes	MIC (μg/mL)	Resistance genes	integrons	 	831	TET	32	tetA	–	 	849	TET	64	tetA,cmlA	–	 	860	TET	64	tetA	–	 	989	TET	96	tetA	–	 	996	TET	64	tetA	–	 	1002	TET	64	tetA	–	 	1006	TET	48	tetA,sul1	intl1	 	1012	TET	2	–	–	 	1030	TET	48	tetA,floR	–	 	1031	TET	96	tetA,cmlA	–	 	1040	TET	48	tetA,sul2,floR	–	 	1047	TET	96	tetA,cmlA	–	 	1053	TET	64	tetA,cmlA	–	 	1063	TET	48	tetA,sul2,floR	–	 	948	AMP PIP	>256−16	blaTEM-1,tetA,sul2,floR	–	 	1024	TET AMP	24−12	blaTEM-1,tetA,cmlA	intl1	 	970	TET SXT CST	2-0.094-1	tetA,cmlA	–	 	937	TET SXT CST	48- > 32- > 8	tetA,sul2,cmlA, mcr-1	intl1	 	958	TET CHL CST	1.5-16-2	–	–	 	830red	TET AMP PIP CHL	64- > 256−64- > 256	blaTEM-1,tetA,sul2,floR	–	 	1018	TET AMP PIP CHL	64- > 256−64- > 256	blaTEM-1,tetA,sul2,floR	–	 	822red	TET AMP SXT CHL GEN	48−32- > 32- > 256−48	tetA,sul2,floR	intl1	 	837red	TET AMP SXT CHL GEN	32−48- > 32- > 256−32	tetA,sul2,floR	intl1	 	848red	TET AMP SXT CHL GEN	48−48- > 32- > 256−48	tetA,sul2,floR	intl1	 	883	TET AMP SXT CHL GEN	48−64- > 32- > 256−48	tetA,sul2,floR	intl1	 	887	TET AMP SXT CHL GEN	48−48- > 32- > 256−64	tetA,sul2,floR	intl1	 	890	TET AMP SXT CHL GEN	64−48- > 32- > 256−48	tetA,sul2,floR	intl1	 	892	TET AMP SXT CHL GEN	32−32- > 32- > 256−48	tetA,sul2,floR	intl1	 	926	TET AMP SXT CHL GEN	48−64- > 32- > 256−48	tetA,sul2,floR	intl1	 	984	TET AMP SXT CHL GEN	64−32- > 32- > 256−48	tetA,sul2,floR	intl1	 	994	TET AMP PIP SXT CHL CIP LVX GEN	48- > 256−24- > 32- > 256- > 32- > 32−32	tetA,sul1,sul2,floR,cmlA	–	 	826red	TET AMP PIP SAM SXT CHL CIP LVX CFZ CTX	64- > 256- > 256−64- > 32- > 256- > 32−24- > 256- > 32	CTX-M9 group, blaTEM-1,tetA,sul2,floR	intl1
+
+Abbreviations: AMP, ampicillin; AZT, aztreonam; CHL, chloramphenicol; CIP, ciprofloxacin; CFZ, cefazolin; CPM, cefepime; CTX, cefotaxime; GEN, gentamicin; LVX, levofloxacin; PIP, piperacillin; SAM, ampicillin–sulbactam; SXT, trimethoprim–sulfamethoxazole; TET, tetracycline.
+
+Antimicrobial resistance rates of E. coli.
+
+MIC of MDR E. coli
+
+The maximum MIC values of different antibiotics for 16 E. coli isolates were as follows: the MICs of AMP, PIP, CHL, SAM, GEN, CTX and CFZ exceeded 256 μg/mL, the MICs of SXT and CIP exceeded 32 μg/mL and the MIC of tetracycline was 96 μg/mL, as seen in Table 2.
+
+Minimum inhibitory concentration test results.
+
+Antibiotic	S	I	R	MIC range (μg/mL)	 	Tetracycline	9.68%(3/31)	0	90.32%(28/31)	96−64	 	Piperacillin	20.00%(1/5)	40.00%(2/5)	20.00%(1/5)	>256--128	 	Ampicillin	0	0	93.33%(14/15)	>256−32	 	Ampicillin- Sulbactam	0	0	100%(1/1)	>256−32	 	Trimethoprim-Sulfamethoxazole	7.70%(1/13)	0	92.31%(12/13)	>32−4	 	Cefazolin	0	0	100%(1/1)	>256	 	Cefotaxime	0	0	100%(1/1)	>256	 	Gentamicin	0	0	100%(10/10)	>256--16	 	Ciprofloxacin	0	0	100%(2/2)	>32−6	 	Levofloxacin	0	0	100%(2/2)	>32−8	 	Chloramphenicol	0	7.14%(1/14)	92.86%(13/14)	>256--48
+
+Assay of ARGs, virulence genes and integrons
+
+The PCR results of ARGs in drug-resistant E. coli showed that the main drug-resistant genes were tet (A), sul2, floR, and cmlA, with positive rates of 93.75% (30/32), 53.15% (17/32), 53.15% (17/32), and 25% (8/32), respectively. Other drug-resistant genes were blaTEM-1, sul1, and mcr-1, with positive rates of 15.63% (5/32), 6.25% (2/32), and 3.13% (1/32), respectively. Only strain 826 belonging to the CTX-M-9 subgroup contained blaCTX-M. Only integron gene intl1 was detected and the positive rate was 40.63% (13/32) and the positive rate of MDR strains was 68.75% (11/16), as shown in Table 3. The astA gene was only detected in non-resistant E. coli, with a positive rate of 12.2% (9/74).
+
+Statistical results of the phylogenetic tree, MLST, plasmid type, and serotype for16 E. coli strains.
+
+Strain	Plasmid pattern	ST typing	ABD typing	H antigen	O antigen	 	822red	IncFIB;	ST2077	B1	H8	–	 	848red	IncFIB;	ST2077	B1	H8	–	 	887	IncFIB;	ST2077	B1	H8	–	 	926	IncFIB;	ST2077	B1	H8	–	 	892	IncFIB;	ST2077	B1	H8	–	 	890	IncFIB;	ST2077	B1	H8	–	 	984	IncFIB;	ST2077	B1	H8	–	 	837red	IncFIB;	ST2077	B1	H8	–	 	883	IncFIB;	ST2077	B1	H8	–	 	1018	IncFIB;	ST441	B1	H10	–	 	830red	IncFIB;	ST441	B1	H10	–	 	826red	IncFIB; IncX4	ST2179	B1	H9	O9; O9a
+
+Phylogenetic analysis
+
+With reference to the migration route of the black-faced spoonbill and possible hosts associated with migratory birds, the genome sequences of 40 E. coli strains were downloaded from NCBI and were combined with 16 multidrug-resistant E. coli strains to construct an SNP Array evolutionary tree, as shown in Fig 2. Sixteen E. coli were derived from migratory birds along the migration route and 24 E. coli from local livestock, poultry and the environment in Liaoning. Thirteen isolates were relatively concentrated and clustered in four independent evolutionary branches including nine strains, two strains, one strain, and one strain, respectively. The remaining three isolates were scattered in different evolutionary branches. Some of the strains from black-faced spoonbill migration routes were close to E. coli strains in Liaoning Province. In terms of host correlation, the isolates 826red, 937, and 930 were closely related to the E. coli strains isolated from chickens, cow manure and mink, respectively. As shown in Table 3, nine ST types of the isolates were ST2077, which might have been isolated from the same family according to the sampling order, while the B1 group (81.25%) was the main phylogenetic group.
+
+Single nucleotide polymorphism (SNP) evolutionary analysis of E. coli strains.
+
+Antimicrobial resistance analysis
+
+Sixteen MDR E. coli isolates were sequenced for whole genome analysis. The antimicrobial resistance genes and types of plasmids were assessed with ResFinder (https://cge.cbs.dtu.dk/services/ResFinder/) using default settings on the CGE website. Twenty-one antimicrobial resistance genes were detected, including four β-lactam resistance genes, five aminoglycoside resistance genes, three quinolone resistance genes, two macrolide resistance genes, two sulfonamide resistance genes, one chloramphenicol resistance gene, one rifampicin resistance gene, one tetracycline resistance gene and two trimethoprim resistance genes, as shown in Fig 3. As shown in Table 3, the main plasmid type was IncFIB (87.5%), which mostly presented in avian pathogens rather than in human and avian symbiotic bacteria.
+
+Analysis of antimicrobial resistance genes in 16 MDR E. coli isolates.
+
+Virulence analysis
+
+A total of 35 virulence-associated genes were identified using VirulenceFinder on the CGE website, shown in Fig 4. The csgA, fimH, gad, hlyE, nlpI, yehA and terC genes had the highest positive rate (100%). The strain 970 contained up to 30 virulence-associated genes and the minimum number of virulence-associated genes was 10, carried by strain 937. As shown in Table 3, five kinds of H antigen were detected, with H8 the most frequent (56.25%). The O-antigen serotypes were detected in only four strains, including O9 (1/4), O8 (2/4) and O11 (1/4).
+
+Analysis of virulence-associated genes.
+
+Discussion
+
+Antibiotics are often used to prevent and treat bacterial infection or as growth promoters in livestock and poultry, which may be the main reasons for bacterial resistance to antibiotics, and the transmission of resistance genes directly threatens human health, wildlife and the environment. In 2019, the Chinese Ministry of Agriculture and Rural Affairs issued Document No. 194, which required feed production enterprises to stop producing commercial feed containing growth promoting drugs and feed additives from July 1, 2020, marking the beginning of the era of non-antimicrobial production in the Chinese feed industry.
+
+In this study, the resistance rate of TET was highest, followed by that of AMP. This resistance pattern is consistent with that of E. coli in most clinical samples, or those from livestock and poultry farms. This finding reflects the importance of One Health, through which bacteria isolated from wild animals can be monitored indirectly for antimicrobial resistance.
+
+A systematic study was conducted on the epidemic and molecular characteristics of E. coli carried by black-faced spoonbill on Shicheng Island, Liaoning Province. Robé’s research shows that E. coli can colonize the intestinal tract of birds within 24 hours. The low isolation rate of E. coli indicated that they do not exist as symbiotic bacteria in the intestine of black-faced spoonbills as they do in humans and were probably obtained from the environment. Most of the black-faced spoonbill’s foraging sites are concentrated in fisheries, on mudflats and on the coasts of wintering sites where aquaculture is often located. Given the abundance of offshore aquaculture and the discharge of sewage and wastewater, there is likely to be a certain degree of pollution with antimicrobial residues in the offshore area, which may be a reason for the emergence of antimicrobial resistant bacteria in wild birds. In this study, the percentage of antimicrobial resistant E. coli was relatively high, at about 43%. Compared with migrant birds in Inner Mongolia, Ningxia, Jiangxi, and Guangzhou, the antimicrobial resistance of E. coli from black-faced spoonbill in Shicheng Island ranked first in five regions. The TET-AMP-SXT-CHL-GEN was the main form of multidrug resistance, accounting for 56.25% and was related to several long-acting antibiotics including TET, AMP and SXT used by the Chinese aquaculture industry in clinical treatment and disease prevention. The resistance rate of E. coli to AMP, SXT, CHL and GEN ranged from 30 to 50% and that of TET was above 96%. This is not surprising, because TET resistance is the most common type of resistance observed in wild small mammal isolates to date and in farming and aquaculture TET is often used as a first-line antibiotic for food animal disease prevention and growth promotion, so its widespread application predisposes to high resistance rates. The highest MIC values of AMP, CFZ, CTX, CIP, LVX and CHL were eight to 32 times the cutoff point for antimicrobial resistance, showing high levels of antimicrobial resistance in the vertical direction and diverse resistance patterns in the transverse direction. The only ESBL E. coli isolate 826red also reflected these characteristics.
+
+Antimicrobial susceptibility testing (AST) is the cornerstone of monitoring the occurrence of antimicrobial resistance (AMR). At present, broth microdilution (BMD) and paper diffusion are considered the gold standards for AST in vitro. In this study, the BD PhoenixTM-100 automated microbial identification system and the E-test were used for antimicrobial susceptibility testing, but the results for some isolates were inconsistent between the two methods. Bortolaia showed that, even when using the same method, inconsistent results may be due to bacterial growth, reagent stability, and environmental conditions, so more than two methods should be used to improve the accuracy of the results. From a clinical perspective, the detection of AMR genes may be more correlated with drug resistance than the phenotypes observed in vitro and they can be used to avoid initiating inappropriate treatment. The association between the genotype and phenotype of antimicrobial resistance was complicated in this study. Three isolates 937, 970, and 958 exhibited colistin resistant phenotypes, but only strain 937 showed an MIC value exceeding 8 μg/mL and carried the mcr-1 gene and it also carried three plasmids, IncFIB, IncI1-I, and p0111. Many studies have shown that AMR genes can be transmitted between different bacterial communities through horizontal gene transfer, leading to the high prevalence of antimicrobial resistance genes and the emergence of multidrug resistance. Integrators especially class 1 integrons play an important role in the horizontal transfer of antimicrobial resistance in environmental bacteria and a high frequency of the intl1 gene was found in resistant isolates, so detecting the integrons in E. coli isolates is crucial for evaluating the potential of the bacteria to become multidrug-resistant and participate in the horizontal transfer of antimicrobial resistance. In this study, only intl1 was detected, and the carrier rate in multidrug-resistant bacteria was significantly higher than that in non-drug-resistant bacteria, which was consistent with Yuan Yue’s conclusion.
+
+In addition to integrators, plasmids are more common mobile elements. The IncFIB plasmid plays a potential role in spreading antimicrobial resistance and virulence genes among various bacteria. In this study, 87.5% (14/16) of MDR E. coli isolates carried IncFIB plasmids, indicating that IncFIB plasmids were important to the presence of antimicrobial resistance genes and their spread among different species.
+
+In this study, the isolates mainly carried tet (A), sul2, and floR resistance genes, consistent with the resistance genotypes found on chicken and pig farms as described by Xue Yang et al.. The PCR results for detection of resistance genes were completely consistent with those of SGS for sul1, sul2, tetA, and blaTEM-1, but Fig 4 showed that SGS was the best technique for detection of drug resistance genes as the details of the resistance genes, such as subtype and location, were more accurate.
+
+Among the MDR isolates, chloramphenicol resistance genes floR and cmlA were detected in some strains by PCR and the MIC values exceeded 256 μg/mL, but no CHL resistance genes were found by SGS. This may be explained by the high custom similarity of floR and cmlA during the comparison of SGS results, which is related to the depth of whole genome sequencing (WGS) data reading. There is no clear threshold for the acceptable reading depth of AMR genes and mutations detected in WGS data. While dealing with low reading depth, we defined most of the parameters ourselves, aware that visualizing the reading depth parameter was extremely important when analyzing sequences.
+
+The preliminary detection of antimicrobial resistance genes through PCR has certain drawbacks, such as gene mutations and partial sequence loss in the target gene sequence in the natural environment. In addition, poor primer specificity, issues with the PCR reaction system, inaccurate DNA polymerase, and Mg2+ concentration can all affect the PCR detection results, so SGS technology can give a better and more comprehensive understanding of bacteria carrying resistance and virulence genes.
+
+In this study, the pathogenic types of 74 E. coli strains were determined based on the virulence factors carried by the pathogenic E. coli. The EAST1 virulence gene was detected in only nine strains, which belonged to the enteroaggregative E. coli (EAEC). These strains did not have antimicrobial resistance, further confirming the negative correlation between some virulence genes and drug resistance. A total of 35 virulence factors (Fig 4) were identified in 16 MDR E. coli strains. The csgA-fimH-tpfA-traJ-gad-hlyE-nlpI-yehA-terC-traT-fdeC complex was the main virulence gene spectrum, accounting for 43.75% (7/16). It is widely believed that the increased serum survival (iss) gene was closely associated with the virulence of avian E. coli and is a well-known virulence marker of extraintestinal pathogenic E. coli (ExPEC) in avian species, but this gene was not found in combination with other virulence markers of avian pathogenic E. coli (APEC). In this study, the iss gene was detected in three E. coli isolates (826red, 994, and 937), but no eae gene was detected. The three strains should be categorized among atypical ExPEC.
+
+With the continuous development of sequencing technology, SGS technology has matured and is the best candidate technology in clinical settings, increasing the theoretical sensitivity of detection of various genes to provide higher coverage. Single nucleotide polymorphism (SNP) analysis is a molecular marker technique developed for use with high-throughput sequencing and as an indicator of the association between strains, can obtain more comprehensive and accurate results than MLST typing and is widely used in current research.
+
+In the phylogenetic tree developed in this study, 16 endemic MDR isolates of E. coli from black-faced spoonbills were closely related to local strains in Liaoning Province, which indicated that the living or breeding habitat was the most important factor influencing the bacteria of migrating birds. Nine isolates were clustered in an independent branch and showed almost the same antimicrobial resistant phenotype, antimicrobial resistant genes, virulence genes, ST type, serotype and other characteristics, suggesting that they might have been obtained from one family of birds and that MDR E. coli was easily transferred among the members of a family. Strain 970 was closely related to strain112, isolated from Liaoning cows, and strain 937 was closely related to strain LNF11, isolated from Liaoning cattle feces, which suggests the possibility of cross infection between a small number of black-faced spoonbill populations and Liaoning cattle farms. Some researchers have proposed the necessity of strengthening the implementation of monitoring plans to detect the spread of zoonotic diseases between wild animals and humans and livestock. The strains 958 and CX144T were both isolated from migratory birds and are in the same evolutionary branch, but the latter was reported in Zhejiang Province, which may indicate the risk of cross transmission of E. coli between the migration route of the black-faced spoonbill and the migration route of East Asian and Australian migratory birds.
+
+Conclusion
+
+With the increasing maturity and decreasing cost of WGS, it can be more comprehensively and conveniently applied to molecular epidemiological research on MDR pathogens. The genetic diversity analysis showed that the E. coli isolates and their genetic elements carried by black-faced spoonbills on Shicheng Island might originate from their habitat and these strains could serve as a reservoir of resistance and virulence genes and spread among migratory birds. These multi-virulent and multi-resistant pathogens pose a potential threat to a rare species, the black-faced spoonbill, as well as to human public health. They should be monitored and evaluated regularly.
+
+Supporting information
+
+References
+
+Black-faced spoonbill: the “black-faced angel” on the coast of China
+
+More than 240 Black-faced spoonbill are expected in Zhuanghe
+
+Metagenomic analysis reveals the microbiome and resistome in migratory birds
+
+Molecular genetic differentiation of avian Escherichia coli by RAPD-PCR
+
+Migratory wild birds carrying multidrug-resistant Escherichia coli as potential transmitters of antimicrobial resistance in China
+
+Effects of in ovo probiotic administration on the incidence of avian pathogenic Escherichia coli in broilers and an evaluation on its virulence and antimicrobial resistance properties
+
+Plasmid-mediated quinolone resistance genes transfer among enteric bacteria isolated from human and animal sources
+
+Genome Assessment of Carbapenem- and Colistin-Resistant Escherichia coli from Patients in a Sentinel Hospital in China
+
+Passive Disease Surveillance of Alpine Chamois (Rupicapra r. rupicapra) in Slovenia between 2000 and 2020
+
+Migratory hosts can maintain the high-dose/refuge effect in a structured host-parasite system: The case of sea lice and salmon
+
+Automated reconstruction of whole genome phylogenies from short sequence reads
+
+Comparative Analysis of Phylogenetic Relationships and Virulence Factor Characteristics between Extended-Spectrum β-Lactamase-Producing Escherichia coli Isolates Derived from Clinical Sites and Chicken Farms
+
+The Clermont Escherichia coli phylo-typing method revisited: improvement of specificity and detection of new phylo-groups
+
+A genomic epidemiological study shows that prevalence of antimicrobial resistance in Enterobacterales is associated with the livestock host, as well as antimicrobial usage
+
+An in-house 45-plex array for the detection of antimicrobial resistance genes in Gram-positive bacteria
+
+Extract of neem (Azadirachta indica) leaf exhibits bactericidal effect against multidrug resistant pathogenic bacteria of poultry
+
+Antimicrobial Resistance Profiles of Escherichia coli from Diarrheic Weaned Piglets after the Ban on Antibiotic Growth Promoters in Feed
+
+Proportion of bacterial isolates, their antimicrobial susceptibility profile and factors associated with puerperal sepsis among post-partum/aborted women at a referral Hospital in Bahir Dar, Northwest Ethiopia
+
+High prevalence and widespread distribution of multi-resistant Escherichia coli isolates in pigs and poultry in China
+
+The challenges of investigating antimicrobial resistance in Vietnam - what benefits does a One Health approach offer the animal and human health sectors?
+
+Prioritizing zoonotic diseases in Ethiopia using a one health approach
+
+Low Dose Colonization of Broiler Chickens With ESBL-/AmpC- Producing Escherichia coli in a Seeder-Bird Model Independent of Antimicrobial Selection Pressure
+
+Antimicrobial resistance in clinical Escherichia coli isolates from poultry and livestock, China
+
+Antibiotics used in livestock and poultry breeding and its environmental and health risks in China: a review
+
+Antimicrobial resistance in Escherichia coli isolates from swine and wild small mammals in the proximity of swine farms and in natural environments in Ontario, Canada
+
+ResFinder 4.0 for predictions of phenotypes from genotypes
+
+Evaluating the Frequency of aac(6’)-IIa, ant(2″)-I, intl1, and intl2 Genes in Aminoglycosides Resistant Klebsiella pneumoniae Isolates Obtained from Hospitalized Patients in Yazd, Iran
+
+Florfenicol and oxazolidone resistance status in livestock farms revealed by short- and long-read metagenomic sequencing
+
+Characterization of an NDM-5 carbapenemase-producing Escherichia coli ST156 isolate from a poultry farm in Zhejiang, China
+
+High prevalence of mcr-1-encoded colistin resistance in commensal Escherichia coli from broiler chicken in Bangladesh
+
+Clinical implementation of comprehensive strategies to characterize cancer genomes: opportunities and challenges
+
+QTL mapping for growth-related traits by constructing the first genetic linkage map in Simao pine
+
+Insights from 20 years of bacterial genome sequencing
+
+Novel small molecules affecting cell membrane as potential therapeutics for avian pathogenic Escherichia coli
+
+10.1371/journal.pone.0339376.r001
+
+Decision Letter 0
+
+Jomehzadeh
+
+Nabi
+
+This is an open access article distributed under the terms of the Creative Commons Attribution License , which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+
+22 Jan 2025
+
+Escherichia coli
+
+Dear Dr. Sun,
+
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+
+Please submit your revised manuscript by Mar 08 2025 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org . When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols . Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols .
+
+We look forward to receiving your revised manuscript.
+
+Kind regards,
+
+Nabi Jomehzadeh, Ph.D (Assistant Professor)
+
+Academic Editor
+
+PLOS ONE
+
+Journal Requirements:
+
+1. When submitting your revision, we need you to address these additional requirements.
+
+Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at
+
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and
+
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+
+2. In your Methods section, please provide additional information regarding the permits you obtained for the work. Please ensure you have included the full name of the authority that approved the field site access and, if no permits were required, a brief statement explaining why.
+
+3. We note that the grant information you provided in the ‘Funding Information’ and ‘Financial Disclosure’ sections do not match.
+
+When you resubmit, please ensure that you provide the correct grant numbers for the awards you received for your study in the ‘Funding Information’ section.
+
+4. When completing the data availability statement of the submission form, you indicated that you will make your data available on acceptance. We strongly recommend all authors decide on a data sharing plan before acceptance, as the process can be lengthy and hold up publication timelines. Please note that, though access restrictions are acceptable now, your entire data will need to be made freely accessible if your manuscript is accepted for publication. This policy applies to all data except where public deposition would breach compliance with the protocol approved by your research ethics board. If you are unable to adhere to our open data policy, please kindly revise your statement to explain your reasoning and we will seek the editor's input on an exemption. Please be assured that, once you have provided your new statement, the assessment of your exemption will not hold up the peer review process.
+
+5. Please include captions for your Supporting Information files at the end of your manuscript, and update any in-text citations to match accordingly. Please see our Supporting Information guidelines for more information: http://journals.plos.org/plosone/s/supporting-information .
+
+Additional Editor Comments:
+
+The manuscript offers an in-depth examination of the antimicrobial resistance and virulence factors associated with Escherichia coli strains found in black-faced spoonbills inhabiting Liaoning, China. The study clearly outlines its objectives, which include identifying specific resistance genes and assessing the potential health risks posed by these bacteria to both wildlife and humans.
+
+Revise the abstract to emphasize the key findings and the broader implications derived from the study.
+
+Enhance the discussion by offering a thorough overview of the study's limitations and any potential biases that may have influenced the results.
+
+Focus on improving the clarity and visual presentation of the figures and tables to facilitate better understanding.
+
+Expand the discussion section to incorporate a detailed analysis of the implications of the findings, as well as an exploration of the potential mechanisms that may explain the observed phenomena.
+
+Finally, meticulously correct any minor errors present in the text, ensuring that all citations are accurate, properly formatted, and complete.
+
+[Note: HTML markup is below. Please do not edit.]
+
+Reviewers' comments:
+
+Reviewer's Responses to Questions
+
+Comments to the Author
+
+1. Is the manuscript technically sound, and do the data support the conclusions?
+
+Reviewer #1: Partly
+
+Reviewer #2: Yes
+
+**********
+
+2. Has the statistical analysis been performed appropriately and rigorously? -->?>
+
+Reviewer #1: Yes
+
+Reviewer #2: Yes
+
+**********
+
+3. Have the authors made all data underlying the findings in their manuscript fully available??>
+
+The PLOS Data policy
+
+Reviewer #1: Yes
+
+Reviewer #2: Yes
+
+**********
+
+4. Is the manuscript presented in an intelligible fashion and written in standard English??>
+
+Reviewer #1: No
+
+Reviewer #2: Yes
+
+**********
+
+Reviewer #1: In general, this paper is interesting, and the authors have made an obvious effort. However, as a reviewer, I find this version of the paper requires more efforts to be valid to gain the attention of other researchers and readers. I have listed some points that could help in that manner (attached).
+
+Reviewer #2: Dear researcher
+
+Thanks for your nice work and interesting manuscript, all stages and processes were step-by-step and gentle, but some considerations exist in any study.
+
+Please check these parts:
+
+- Line 41, 43, 44, 47, 55, 74 each sentence in introduction need reference.
+
+- Line 85 sample collection, clear the main method of fecal collection, the feces collected from the environment, bird, or etc.…?
+
+- Line 97. Mention the incubator name and company and culture media reference number.
+
+- Line 131. tete (M) change to tet.
+
+- All references must be according to guidelines for authors and need for correction.
+
+thank you, best regards.
+
+**********
+
+what does this mean? ). If published, this will include your full peer review and any attached files.
+
+If you choose “no”, your identity will remain anonymous but your review may still be made public.
+
+Do you want your identity to be public for this peer review? For information about this choice, including consent withdrawal, please see our Privacy Policy
+
+Reviewer #1: No
+
+Reviewer #2: Yes:  Reza Nikzad
+
+**********
+
+[NOTE: If reviewer comments were submitted as an attachment file, they will be attached to this email and accessible via the submission site. Please log into your account, locate the manuscript record, and check for the action link "View Attachments". If this link does not appear, there are no attachment files.]
+
+While revising your submission, please upload your figure files to the Preflight Analysis and Conversion Engine (PACE) digital diagnostic tool, https://pacev2.apexcovantage.com/ . PACE helps ensure that figures meet PLOS requirements. To use PACE, you must first register as a user. Registration is free. Then, login and navigate to the UPLOAD tab, where you will find detailed instructions on how to use the tool. If you encounter any issues or have any questions when using PACE, please email PLOS at figures@plos.org . Please note that Supporting Information files do not need this step.
+
+10.1371/journal.pone.0339376.r002
+
+Author response to Decision Letter 1
+
+7 Mar 2025
+
+Dear Editors and Reviewers:
+
+We would like to express our sincere gratitude to the editors and reviewers for their constructive comments on our paper (Submission ID:PONE-D-23-42911). These comments are the guidelines for us to improve our manuscript. After carefully reading the comments and suggestions, we have revised the manuscript that included the requested extra information. The revisions are marked in red in our revised manuscript and our point-by-point responses to the Journal and reviewers are as follows:
+
+Responds to comments:
+
+Journal Requirements:
+
+1. When submitting your revision, we need you to address these additional requirements.
+
+Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf
+
+and
+
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+
+Response: Thank you for pointing this out, I modified the manuscript's style, according to the PLOS ONE's style requirements.
+
+2. In your Methods section, please provide additional information regarding the permits you obtained for the work. Please ensure you have included the full name of the authority that approved the field site access and, if no permits were required, a brief statement explaining why.
+
+Response: Thank you for pointing this out, I ensure that the name of the authority that approved the field site access we were granted is the full name of the organization. As the sampling personnel are veterinary professionals, after professional training, they have the ability to collect fecal samples independently under the supervision of the Wild Animal Sources and Diseases Inspection Station, National Forestry and Grassland Bureau of China.
+
+3. We note that the grant information you provided in the ‘Funding Information’ and ‘Financial Disclosure’ sections do not match.
+
+Response: Thank you for pointing this out, the Funding Information has been revised.
+
+4. When completing the data availability statement of the submission form, you indicated that you will make your data available on acceptance. We strongly recommend all authors decide on a data sharing plan before acceptance, as the process can be lengthy and hold up publication timelines. Please note that, though access restrictions are acceptable now, your entire data will need to be made freely accessible if your manuscript is accepted for publication. This policy applies to all data except where public deposition would breach compliance with the protocol approved by your research ethics board. If you are unable to adhere to our open data policy, please kindly revise your statement to explain your reasoning and we will seek the editor's input on an exemption. Please be assured that, once you have provided your new statement, the assessment of your exemption will not hold up the peer review process.
+
+Response: Thank you for your constructive suggestion. When completing the data availability statement on the submission form, I did not take into account the publication timelines or the journal's open data policy. Here, I declare that all authors decide on a data sharing plan before acceptance.
+
+Additional Editor Comments:
+
+The manuscript offers an in-depth examination of the antimicrobial resistance and virulence factors associated with Escherichia coli strains found in black-faced spoonbills inhabiting Liaoning, China. The study clearly outlines its objectives, which include identifying specific resistance genes and assessing the potential health risks posed by these bacteria to both wildlife and humans.
+
+1.Revise the abstract to emphasize the key findings and the broader implications derived from the study.
+
+Response: Thank you for your constructive suggestion. Based on the suggestions of Reviewer 1, I have made revisions to the text. The final modification is as follows: In summary, black faced Spoonbill may become a reservoir of E. coli resistance and virulence genes, and interact with the ecological environment of its habitat during migration, seriously threatening the health of black faced Spoonbill and the public health and safety of its habitat.
+
+2.Enhance the discussion by offering a thorough overview of the study's limitations and any potential biases that may have influenced the results.
+
+Response: Thank you for your constructive suggestion. I will strengthen the impact of the limitations of this study on the results in the discussion section.
+
+3.Focus on improving the clarity and visual presentation of the figures and tables to facilitate better understanding.
+
+Response: Thank you for pointing this out, I will improve the clarity and visual presentation of the figures and tables.
+
+4.Expand the discussion section to incorporate a detailed analysis of the implications of the findings, as well as an exploration of the potential mechanisms that may explain the observed phenomena.
+
+Response: Thank you for your constructive suggestion. In this study, in the SNP evolutionary tree, 970 is closely related to 112 and 937 is closely related to LNF11, further verifying the convergence of gut microbiota and habitat microbiota in migratory birds, as well as the high plasticity of gut microbiota in ecological adaptation. I have supplemented this part in the discussion section.
+
+5.Finally, meticulously correct any minor errors present in the text, ensuring that all citations are accurate, properly formatted, and complete.
+
+Response: Thank you for pointing this out, I will seriously correct the small mistakes in the text to ensure that all quotations are accurate, correct and complete.
+
+Reviewer #1�
+
+In general, this paper is interesting, and the authors have made an obvious effort. However, as a reviewer, I find this version of the paper requires more efforts to be valid to gain the attention of other researchers and readers. I have listed some points that could help in that manner.
+
+1.Manuscript in general requires English writing enhancement
+
+Response: Thank you for pointing this out, I will let a professional English native speaker with a doctor's degree polish the manuscript again.
+
+Abstract
+
+1.Line 20: This sentence is not clear:
+
+“Seventy-four samples has E. coli isolated (29.7%), 43.2% of isolates carried an antimicrobial resistant phenotype and 21.6% isolates were considered to be MDR strains.”
+
+Response: According to your valuable suggestion, I will revise this sentence to express its meaning clearly. Specifically revised as follows: “The results showed that the isolation rate of E. coli was 29.7% (74/249), with 43.2% (32/74) of isolates with drug-resistant phenotype and 21.6% (16/74) of isolates with multidrug resistance.”
+
+2.Lines 30-35: This paragraph needs to be rewritten in a way that would highlight the importance and relevance of their findings to public health and to the reader's knowledge:
+
+“In summary, E. coli may serve as a reservoir of resistance and virulence genes in migratory birds and may be transmitted to other species during migration, with virulent or multidrug resistant E. coli a potential threat to the rare black-faced spoonbill and to human public health”.
+
+Response: According to your valuable suggestion, I will further modify the conclusion as follows:
+
+In summary, black faced Spoonbill may become a reservoir of Escherichia coli resistance and virulence genes, and interact with the ecological environment of its habitat during migration, seriously threatening the health of black faced Spoonbill and the public health and safety of its habitat.
+
+Introduction
+
+1.The introduction should describe the main pathogen first (E. coli) and its importance as a main reservoir for transmission of ARGs to other pathogens. Then, a short but informative few paragraphs about migratory birds and black-faced spoonbills would provide a strong introduction to the proposed role of black-faced spoonbills in spreading pathogens and antibiotic-associated genes.
+
+Response: Thank you for your constructive suggestion. I will readjust the description of the introduction.
+
+Materials and methods
+
+Over all, the authors clearly put in a lot of efforts to finalise this paper. However, crucial questions have been raised about their methodologies.
+
+1: Using boiling method for DNA extraction:
+
+For some researchers, it is accepted once the boiling method is used for bacterial DNA extraction. It would provide a low-cost method. However, it may provide low-quality DNA that may affect the results of the detection of virulence and drug-resistant associated genes.
+
+Response: Thank you for your constructive suggestion. Although this method for extracting DNA has certain drawbacks, it is feasible for epidemiological studies involving a large number of isolates, as listed in the references. Although the quality of DNA extracted by this method is not as good as that extracted by the reagent kit, it is suitable for PCR identification of pure isolated cultures.
+
+1.Elbediwi M, Shi D, Biswas S, Xu X, Yue M. Changing Patterns of Salmonella enterica Serovar Rissen From Humans, Food Animals, and Animal-Derived Foods in China, 1995-2019. Front Microbiol. 2021 Jul 29;12:702909. doi: 10.3389/fmicb.2021.702909[frontiers in microbiology]
+
+2.Carrasco G, Valdezate S, Garrido N, Villalón P, Medina-Pascual MJ, Sáez-Nieto JA. Identification, typing, and phylogenetic relationships of the main clinical Nocardia species in spain according to their gyrB and rpoB genes. J Clin Microbiol. 2013 Nov;51(11):3602-8. doi: 10.1128/JCM.00515-13[journal of clinical microbiology]
+
+3.Salah FD, Soubeiga ST, Ouattara AK, Sadji AY, Metuor-Dabire A, Obiri-Yeboah D, Banla-Kere A, Karou S, Simpore J. Distribution of quinolone resistance gene (qnr) in ESBL-producing Escherichia coli and Klebsiella spp. in Lomé, Togo. Antimicrob Resist Infect Control. 2019 Jun 18;8:104. doi: 10.1186/s13756-019-0552-0[antimicrobial resistance and infection control]
+
+4.Ibrahim DR, Dodd CER, Stekel DJ, Meshioye RT, Diggle M, Lister M, Hobman JL. Multidrug-Resistant ESBL-Producing E. coli in Clinical Samples from the UK. Antibiotics (Basel). 2023 Jan 13;12(1):169. doi: 10.3390/antibiotics12010169[ANTIBIOTICS BASEL ]
+
+5.Liu Q, Ma A, Wei L, Pang Y, Wu B, Luo T, Zhou Y, Zheng HX, Jiang Q, Gan M, Zuo T, Liu M, Yang C, Jin L, Comas I, Gagneux S, Zhao Y, Pepperell CS, Gao Q. China's tuberculosis epidemic stems from historical expansion of four strains of Mycobacterium tuberculosis. Nat Ecol Evol. 2018 Dec;2(12):1982-1992. doi: 10.1038/s41559-018-0680-6[ Nature ecology & evolution ]
+
+6.Shen Y, Zhou H, Xu J, Wang Y, Zhang Q, Walsh TR, Shao B, Wu C, Hu Y, Yang L, Shen Z, Wu Z, Sun Q, Ou Y, Wang Y, Wang S, Wu Y, Cai C, Li J, Shen J, Zhang R, Wang Y. Anthropogenic and environmental factors associated with high incidence of mcr-1 carriage in humans across China. Nat Microbiol. 2018 Sep;3(9):1054-1062. doi: 10.1038/s41564-018-0205-8[Nature microbiology]
+
+7.Yuan Y, Liang B, Jiang BW, Zhu LW, Wang TC, Li YG, Liu J, Guo XJ, Ji X, Sun Y. Migratory wild birds carrying multidrug-resistant Escherichia coli as potential transmitters of antimicrobial resistance in China. PLoS One. 2021 Dec 15;16(12):e0261444. doi: 10.1371/journal.pone.0261444[PLOS ONE]
+
+2: Using an automated microbial and antimicrobial identification system
+
+It is well known (the authors have also stated that clearly in their discussion) that the commercially available automated microbial and antimicrobial identification systems are providing results with variable and inconsistent accuracies. Therefore, authors should describe the obtained accuracy rate following using that system for identification of E. coli.
+
+Response: Thank you for your constructive suggestion. I have supplemented the accuracy in the text. The supplementary content is as follows: According to the BD Phoenix TM-100 automated microbial identification system, the bacteria has been confirmed as E. coli with over 99% similarity.
+
+3: The authors decided to use conventional PCR assay to detect virulence and antibiotic resistant associated genes in the first place, then they moved to use SGS assay to screen only 16 isolates under just one term which is the MDR phenotype.
+
+This provides an impression about that the authors might not be quite sure about the primary results of E. coli identification and MDR phenotypes. Therefore, it would be a good suggestion if the authors would change the story of this paper to describe the conventional methods at first and then describe the addition of the SGS assay to unravelling the mysteries behind some inconsistent results.
+
+Response: Thank you for pointing out this point. In the article, we first performed PCR detection on the major virulence and resistance genes, with the aim of using them as screening markers to screen all isolates and ultimately selecting 16 strains of Escherichia coli for SGS.
+
+4: Why have the authors were decided to use SGS over NGS or WGS? The SGS system has some issues with sequence depths that may affect the perfect annotations and sequence closing.
+
+Response: Thank you for raising this question. After careful consideration, we believe that although SGS does not have the depth of NGS or WGS in reading sequences, it can accurately detect most of the resistance genes and virulence genes. Secondly, considering the overall funding, we have chosen SGS.
+
+Results
+
+Visualise the phylogenetic tree of the 16 isolates with adding the host and sample location to each isolate was very nice and informative. It is a good choice from the authors.
+
+It seems that isolates number 937 and 970 were the only two significant isolates that have been chosen to be sequenced so far. They share significant similarity and close relationship with two other isolates from cattle and Mink, respectively. The authors are encouraged to pay more effort to generate genome comparison between isolate 937 and LNF11 and between isolate 970 and 112 as well. This would make the story more interesting.
+
+Response: Thank you for your valuable suggestion. In this study, the SNP evolutionary tree revealed a significant correlation between strain 937 and strains LNF11, strain 970 and strain 112. However, through cgMLST comparison, significant allelic differences were found between strain 937 and the strains LNF11, strain 970 and strain 112. We plan to conduct in-depth research on the genomic relevance between strain 937 and the strains LNF11, strain 970 and strain 112 in future studies.
+
+Discussion
+
+1: The discussion clearly showed that the authors were not biased about their methodology and findings.As mentioned earlier (section 3 – Material and Methods), the discussion section needs to be rewritten in a more confident way about the results. The current version of discussion provides an impression of uncertainty about the results.
+
+Response: Thank you for your valuable feedback. I will revise the discussion section to ensure it is presented with greater confidence and to provide a more definitive analysis of the discussion's outcomes where possible.
+
+2: In line 332, the authors have mentioned that strain 112 was isolated from Liaoning cows but in the figure of phylogenetic tree it was noted as isolated from Mink. They need to correct that using the proper source please.
+
+Response: I have confirmed that the isolate 112 was obtained from mink in Liaoning Province, and I have made the necessary modifications in this paper.
+
+3: In line 336: The authors mentioned some relationship between strains 958 and CX144T due to their localisation in a same branch. The phylogenetic tree does not imply this statement.
+
+Response: Thank you for your constructive suggestion. Due to my oversight, 958 and CX144T were mistakenly classified as being on the same evolutionary branch. I have removed the discussion section pertaining to 958 and CX144T. I am deeply sorry for any inconvenience this may have caused you.
+
+Reviewer #2:
+
+Please check these parts:
+
+1.- Line 41, 43, 44, 47, 55, 74 each sentence in introduction need reference.
+
+Response: Thank you for your valuable suggestion. Although the "Introduction" paragraph has been revised, I have added references where requested.
+
+2.- Line 85 sample collection, clear the main method of fecal collect
+
+10.1371/journal.pone.0339376.r003
+
+Decision Letter 1
+
+Jomehzadeh
+
+Nabi
+
+This is an open access article distributed under the terms of the Creative Commons Attribution License , which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+
+22 Jun 2025
+
+Dear Dr. Sun,
+
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+
+Please submit your revised manuscript by Aug 06 2025 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org . When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols . Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols .
+
+We look forward to receiving your revised manuscript.
+
+Kind regards,
+
+Nabi Jomehzadeh, Ph.D (Assistant Professor)
+
+Academic Editor
+
+PLOS ONE
+
+Journal Requirements:
+
+Please review your reference list to ensure that it is complete and correct. If you have cited papers that have been retracted, please include the rationale for doing so in the manuscript text, or remove these references and replace them with relevant current references. Any changes to the reference list should be mentioned in the rebuttal letter that accompanies your revised manuscript. If you need to cite a retracted article, indicate the article’s retracted status in the References list and also include a citation and full reference for the retraction notice.
+
+[Note: HTML markup is below. Please do not edit.]
+
+Reviewers' comments:
+
+Reviewer's Responses to Questions
+
+Comments to the Author
+
+Reviewer #2: All comments have been addressed
+
+Reviewer #3: (No Response)
+
+**********
+
+2. Is the manuscript technically sound, and do the data support the conclusions??>
+
+Reviewer #2: Yes
+
+Reviewer #3: Yes
+
+**********
+
+3. Has the statistical analysis been performed appropriately and rigorously? -->?>
+
+Reviewer #2: Yes
+
+Reviewer #3: Yes
+
+**********
+
+4. Have the authors made all data underlying the findings in their manuscript fully available??>
+
+The PLOS Data policy
+
+Reviewer #2: Yes
+
+Reviewer #3: Yes
+
+**********
+
+5. Is the manuscript presented in an intelligible fashion and written in standard English??>
+
+Reviewer #2: Yes
+
+Reviewer #3: Yes
+
+**********
+
+Reviewer #2: (No Response)
+
+Reviewer #3: Introduction
+
+Lines 48 and 50: Are these dates correct? (1830, 1880 and 1989?)
+
+Lines 54 and 55: This sentence needs a reference
+
+Lines 73 and 74: This sentence also needs a reference.
+
+Lines 78 to 83: This paragraph should be rewritten with a focus on the objective of the work. The way it is written, it is quite confusing and does not make the objective of the work clear. I suggest starting with the research of the microorganism in the feces and then the tests that will be performed.
+
+General comment on the introduction:
+
+The introduction of the work is extensive, with a broad revision. In principle, I do not see a problem with this. The final paragraph should be rewritten with a focus on the objectives, and should be written in the sequential order of the research.
+
+Material and methods
+
+Sample collection
+
+The collection of the sample should be mentioned, whether it was collected in the environment or if it was handled by the animal, and in this case, there should be some document from the animal ethics committee. It is assumed that it was collected by handling the animal, since it is mentioned that it did not “cause harm to the animal”. This must be documented through official authorization, either by the institution carrying out the research or by environmental agencies.
+
+Bacterial isolation
+
+The reference to the microbial isolation protocol and the procedures (step by step) for microbiological isolation were not mentioned.
+
+Antimicrobial susceptibility test
+
+The experimental protocol was missing. Was the one recommended by the equipment used? It must be mentioned.
+
+DNA extraction
+
+It must be written that the supernatant was used as a template
+
+Results
+
+No comments.
+
+Discussion
+
+Line 281: include the observation by the authors Yuan Yue´s (25) to corroborate the results of the study.
+
+Lines 295 to 297: Could the lack of detection of genes related to chloramphenicol be related to some loss in the trimming?
+
+Lines 301 to 306: This discussion between the comparison between the two techniques of PCR and SGS does not seem appropriate to me, given the finding of the presence of the chloramphenicol resistance gene, as well as the high MIC value and non-detection in SGS. Taking into account the costs between one and the other, perhaps a discussion addressing the uses of the tools in a collaborative and not antagonistic way would be more appropriate, taking into account the flaws that SGS can present.
+
+General comment
+
+The work is relevant because it verifies the presence of Escherichia coli with virulence factors and antimicrobial resistance in the black-faced spoonbill (Platalea minor), which in turn is in danger of extinction. The results contribute to the monitoring of the microorganism in relation to pathogenicity and antimicrobial resistance in the world.
+
+**********
+
+what does this mean? ). If published, this will include your full peer review and any attached files.
+
+If you choose “no”, your identity will remain anonymous but your review may still be made public.
+
+Do you want your identity to be public for this peer review? For information about this choice, including consent withdrawal, please see our Privacy Policy
+
+Reviewer #2: No
+
+Reviewer #3: Yes:  Angela Patricia Santana
+
+**********
+
+[NOTE: If reviewer comments were submitted as an attachment file, they will be attached to this email and accessible via the submission site. Please log into your account, locate the manuscript record, and check for the action link "View Attachments". If this link does not appear, there are no attachment files.]
+
+While revising your submission, please upload your figure files to the Preflight Analysis and Conversion Engine (PACE) digital diagnostic tool, https://pacev2.apexcovantage.com/ . PACE helps ensure that figures meet PLOS requirements. To use PACE, you must first register as a user. Registration is free. Then, login and navigate to the UPLOAD tab, where you will find detailed instructions on how to use the tool. If you encounter any issues or have any questions when using PACE, please email PLOS at figures@plos.org
+
+10.1371/journal.pone.0339376.r004
+
+Author response to Decision Letter 2
+
+11 Nov 2025
+
+Dear Editors and Reviewers:
+
+We would like to express our sincere gratitude to the editors and reviewers for their constructive comments on our paper (Submission ID:PONE-D-23-42911). These comments are the guidelines for us to improve our manuscript. After carefully reading the comments and suggestions, we have revised the manuscript that included the requested extra information. The revisions are marked in red in our revised manuscript and our point-by-point responses to the Journal and reviewers are as follows:
+
+Responds to comments:
+
+Journal Requirements:
+
+1. Please review your reference list to ensure that it is complete and correct. If you have cited papers that have been retracted, please include the rationale for doing so in the manuscript text, or remove these references and replace them with relevant current references. Any changes to the reference list should be mentioned in the rebuttal letter that accompanies your revised manuscript. If you need to cite a retracted article, indicate the article’s retracted status in the References list and also include a citation and full reference for the retraction notice.
+
+Response: Thank you for pointing this out, I have checked the list of references and confirmed their completeness and correctness. The revised references have been marked in the revised manuscript with track changes.
+
+2. Lines 48 and 50: Are these dates correct? (1830, 1880 and 1989?)
+
+Response: Thank you for pointing this out, but in this article, the 1830s refers to the 30s of the 19th century; the 1880s refers to the 80s of the 19th century; and 1989 is the numerical representation of the year nineteen hundred and eighty-nine.
+
+3. Lines 54 and 55: This sentence needs a reference
+
+Response: Thank you for your valuable suggestion. I have added references where requested.
+
+4. Lines 73 and 74: This sentence also needs a reference.
+
+Response: Thank you for your valuable suggestion. I have added references where requested.
+
+5. Lines 78 to 83: This paragraph should be rewritten with a focus on the objective of the work. The way it is written, it is quite confusing and does not make the objective of the work clear. I suggest starting with the research of the microorganism in the feces and then the tests that will be performed.
+
+Response: Thank you for your constructive suggestion. I will readjust the expression of the last paragraph of the introduction. The readjust content is as follows:
+
+This study systematically analyzes E. coli strains isolated from black-faced spoonbills (Platalea minor) in Liaoning Province, China. We aim to (1) comprehensively characterize the virulence factor profiles and antimicrobial resistance spectra of these isolates, (2) investigate the distribution patterns of integrase genes and their potential associations with resistance genes, and (3) employ whole-genome single-nucleotide polymorphism (SNP) analysis to assess genetic relatedness among strains. These analyses will elucidate the transmission dynamics and ecological implications of E. coli carried by this avian host, providing insights into its public health and environmental significance.
+
+6. The introduction of the work is extensive, with a broad revision. In principle, I do not see a problem with this. The final paragraph should be rewritten with a focus on the objectives, and should be written in the sequential order of the research.
+
+Response: Thank you for your constructive suggestion. We have re-described the last paragraph of the introduction, with the focus of the description being primarily on the research objectives.
+
+7. The collection of the sample should be mentioned, whether it was collected in the environment or if it was handled by the animal, and in this case, there should be some document from the animal ethics committee. It is assumed that it was collected by handling the animal, since it is mentioned that it did not “cause harm to the animal”. This must be documented through official authorization, either by the institution carrying out the research or by environmental agencies.
+
+Response: Thank you for your constructive suggestion. I have included in the article the approval from the Experimental Animal Welfare and Ethics Committee of Changchun Veterinary Research Institute, Chinese Academy of Agricultural Sciences, with the approval number: AMMS-11-2020-11.
+
+8.The reference to the microbial isolation protocol and the procedures (step by step) for microbiological isolation were not mentioned.
+
+Response: Thank you for your constructive suggestion. This study does not mention the microbial isolation protocol nor describe the procedures of microbial isolation step by step. However, the isolation and identification of Escherichia coli in this study adopted conventional isolation methods, and several references are provided here for corroboration.
+
+[1] Wibisono FJ, Effendi MH, Tyasningsih W, Rahmaniar RP, Khairullah AR, Kendek IA, Budiastuti B, Rianto V, Nico DC, Kurniasih DAA, Salwa S, Diningrum DP, Moses IB, Ahmad RZ. Antibiotic resistance profiles of Escherichia coli and Salmonella spp. isolated from chicken meat sold in traditional markets in Gresik District, East Java, Indonesia. Open Vet J. 2025 May;15(5):2160-2170. doi: 10.5455/OVJ.2025.v15.i5.34.
+
+[2] Sharew SG, Weldehanna DG, Gebreyes DS, Sahile Z, Abebe TA, Shibabaw A. Extended spectrum betalactamase and carbapenemase producing gram negative bacteria from mobile phones of healthcare workers at Debre Berhan Hospital, Ethiopia. Sci Rep. 2025 May 26;15(1):18427. doi: 10.1038/s41598-025-03191-5.
+
+[3] Byarugaba I, Nabatanzi A, Muhumuza E, Kyambadde J. Impact of heavy metals on antibiotic resistance of Escherichia coli from slum wastewater in Kawempe division, Kampala district, Uganda: a case study. BMC Microbiol. 2025 May 21;25(1):310. doi: 10.1186/s12866-025-04024-1.
+
+[4] Al-Groom R. Incidence of extended spectrum beta-lactamase (ESBL) producing Escherichia coli isolated from women with urinary tract infections in Jordan. Iran J Microbiol. 2025 Feb;17(1):41-50. doi: 10.18502/ijm.v17i1.17800.
+
+9. The experimental protocol was missing. Was the one recommended by the equipment used? It must be mentioned.
+
+Response: It was recommended by the equipment used. The BD Phoenix™-100 automated microbial identification system mentioned in this study complies with a set of antimicrobial susceptibility testing established by CLSI, and several references are provided here for corroboration.
+
+[1] Wang G, Zhu Y, Feng S, Wei B, Zhang Y, Wang J, Huang S, Qin S, Liu X, Chen B, Cui W. Extended-spectrum beta-lactamase-producing Enterobacteriaceae related urinary tract infection in adult cancer patients: a multicenter retrospective study, 2015-2019. BMC Infect Dis. 2023 Mar 6;23(1):129. doi: 10.1186/s12879-023-08023-3.
+
+[2] Jian X, Du S, Zhou X, Xu Z, Wang K, Dong X, Hu J, Wang H. Development and validation of nomograms for predicting the risk probability of carbapenem resistance and 28-day all-cause mortality in gram-negative bacteremia among patients with hematological diseases. Front Cell Infect Microbiol. 2023 Jan 5;12:969117. doi: 10.3389/fcimb.2022.969117.
+
+[3] Stanley IJ, Kajumbula H, Bazira J, Kansiime C, Rwego IB, Asiimwe BB. Multidrug resistance among Escherichia coli and Klebsiella pneumoniae carried in the gut of out-patients from pastoralist communities of Kasese district, Uganda. PLoS One. 2018 Jul 17;13(7):e0200093. doi: 10.1371/journal.pone.0200093.
+
+[4] Liu K, Xu H, Sun J, Liu Y, Li W. Investigation and analysis of carbapenem-resistant gram-negative bacterial infection rates across hospitals in Shandong Province in China. Front Public Health. 2022 Nov 7;10:1014995. doi: 10.3389/fpubh.2022.1014995.
+
+10. It must be written that the supernatant was used as a template and several references are provided here for corroboration.
+
+Response: According to your valuable suggestion, I have specifically stated in the article that the supernatant was used as a template.
+
+11. Line 281: include the observation by the authors Yuan Yue´s (25) to corroborate the results of the study.
+
+Response: Thank you for your constructive suggestion. I've already refined the sentence based on your reminders.
+
+12. Lines 295 to 297: Could the lack of detection of genes related to chloramphenicol be related to some loss in the trimming?
+
+Response: Thank you for your constructive suggestion. Thank you for your valuable suggestions. In addition to the reasons analyzed in the text, the read length of next-generation sequencing (NGS) is typically around several hundred base pairs, which may lead to sequence bias. Moreover, since next-generation sequencing primarily relies on PCR amplification, it is characterized by long sequencing time, short read length, and poor end-sequence quality. All these factors may affect the detection results.
+
+13. Lines 301 to 306: This discussion between the comparison between the two techniques of PCR and SGS does not seem appropriate to me, given the finding of the presence of the chloramphenicol resistance gene, as well as the high MIC value and non-detection in SGS. Taking into account the costs between one and the other, perhaps a discussion addressing the uses of the tools in a collaborative and not antagonistic way would be more appropriate, taking into account the flaws that SGS can present.
+
+Response: Thank you for your constructive suggestion. The necessary modifications have been made in the text.
+
+14. The work is relevant because it verifies the presence of Escherichia coli with virulence factors and antimicrobial resistance in the black-faced spoonbill (Platalea minor), which in turn is in danger of extinction. The results contribute to the monitoring of the microorganism in relation to pathogenicity and antimicrobial resistance in the world.
+
+Response: Thank you for your recognition of this research.
+
+15. While revising your submission, please upload your figure files to the Preflight Analysis and Conversion Engine (PACE) digital diagnostic tool, https://pacev2.apexcovantage.com/. PACE helps ensure that figures meet PLOS requirements. To use PACE, you must first register as a user. Registration is free. Then, login and navigate to the UPLOAD tab, where you will find detailed instructions on how to use the tool. If you encounter any issues or have any questions when using PACE, please email PLOS at figures@plos.org. Please note that Supporting Information files do not need this step.
+
+Response: Thank you for pointing out this point. I have uploaded the image to the Preflight Analysis and Conversion Engine (PACE) and downloaded the graphics that meet PLOS's requirements.
+
+10.1371/journal.pone.0339376.r005
+
+Decision Letter 2
+
+Jomehzadeh
+
+Nabi
+
+This is an open access article distributed under the terms of the Creative Commons Attribution License , which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+
+7 Dec 2025
+
+Antimicrobial resistance and virulence analysis of Escherichia coli carried by black-faced spoonbill (Platalea minor) in Liaoning, China
+
+PONE-D-23-42911R2
+
+Dear Dr. Sun,
+
+We’re pleased to inform you that your manuscript has been judged scientifically suitable for publication and will be formally accepted for publication once it meets all outstanding technical requirements.
+
+Within one week, you’ll receive an e-mail detailing the required amendments. When these have been addressed, you’ll receive a formal acceptance letter and your manuscript will be scheduled for publication.
+
+An invoice will be generated when your article is formally accepted. Please note, if your institution has a publishing partnership with PLOS and your article meets the relevant criteria, all or part of your publication costs will be covered. Please make sure your user information is up-to-date by logging into Editorial Manager at Editorial Manager®  and clicking the ‘Update My Information' link at the top of the page. For questions related to billing, please contact billing support .
+
+If your institution or institutions have a press office, please notify them about your upcoming paper to help maximize its impact. If they’ll be preparing press materials, please inform our press team as soon as possible -- no later than 48 hours after receiving the formal acceptance. Your manuscript will remain under strict press embargo until 2 pm Eastern Time on the date of publication. For more information, please contact onepress@plos.org.
+
+Kind regards,
+
+Nabi Jomehzadeh, Ph.D (Associate Professor)
+
+Academic Editor
+
+PLOS One
+
+Additional Editor Comments (optional):
+
+Reviewers' comments:
+
+Reviewer's Responses to Questions
+
+Comments to the Author
+
+Reviewer #3: All comments have been addressed
+
+**********
+
+2. Is the manuscript technically sound, and do the data support the conclusions??>
+
+Reviewer #3: Yes
+
+**********
+
+3. Has the statistical analysis been performed appropriately and rigorously? -->?>
+
+Reviewer #3: Yes
+
+**********
+
+4. Have the authors made all data underlying the findings in their manuscript fully available??>
+
+The PLOS Data policy
+
+Reviewer #3: Yes
+
+**********
+
+5. Is the manuscript presented in an intelligible fashion and written in standard English??>
+
+Reviewer #3: Yes
+
+**********
+
+Reviewer #3: The suggestions for corrections, as well as the inclusion of bibliographic references, were accepted; therefore, I consider the article to be suitable for publication.
+
+**********
+
+what does this mean? ). If published, this will include your full peer review and any attached files.
+
+If you choose “no”, your identity will remain anonymous but your review may still be made public.
+
+Do you want your identity to be public for this peer review? For information about this choice, including consent withdrawal, please see our Privacy Policy
+
+Reviewer #3: Yes:  Angela Patricia Santana
+
+**********
+
+10.1371/journal.pone.0339376.r006
+
+Acceptance letter
+
+Jomehzadeh
+
+Nabi
+
+This is an open access article distributed under the terms of the Creative Commons Attribution License , which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+
+PONE-D-23-42911R2
+
+PLOS One
+
+Dear Dr. Sun,
+
+I'm pleased to inform you that your manuscript has been deemed suitable for publication in PLOS One. Congratulations! Your manuscript is now being handed over to our production team.
+
+At this stage, our production department will prepare your paper for publication. This includes ensuring the following:
+
+* All references, tables, and figures are properly cited
+
+* All relevant supporting information is included in the manuscript submission,
+
+* There are no issues that prevent the paper from being properly typeset
+
+You will receive further instructions from the production team, including instructions on how to review your proof when it is ready. Please keep in mind that we are working through a large volume of accepted articles, so please give us a few days to review your paper and let you know the next and final steps.
+
+Lastly, if your institution or institutions have a press office, please let them know about your upcoming paper now to help maximize its impact. If they'll be preparing press materials, please inform our press team within the next 48 hours. Your manuscript will remain under strict press embargo until 2 pm Eastern Time on the date of publication. For more information, please contact onepress@plos.org.
+
+You will receive an invoice from PLOS for your publication fee after your manuscript has reached the completed accept phase. If you receive an email requesting payment before acceptance or for any other service, this may be a phishing scheme. Learn how to identify phishing emails and protect your accounts at https://explore.plos.org/phishing.
+
+If we can help with anything else, please email us at customercare@plos.org.
+
+Thank you for submitting your work to PLOS ONE and supporting open access.
+
+Kind regards,
+
+PLOS ONE Editorial Office Staff
+
+on behalf of
+
+Dr. Nabi Jomehzadeh
+
+Academic Editor
+
+PLOS One

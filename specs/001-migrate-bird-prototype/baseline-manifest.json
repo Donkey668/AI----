@@ -1,0 +1,1601 @@
+{
+  "source": "F:/VibeCoding/watch_the_bird",
+  "commit": "9ba9f18e18e29826ac6fc6694b5a873d015bbdf8",
+  "initialStatus": " M data/notebooks/57544254455354.json\n",
+  "entries": [
+    {
+      "path": ".agents/skills/amap-jsapi-skill/SKILL.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "f203a12228d57a3a7824826ac6f26cc3fc6b8317"
+    },
+    {
+      "path": ".agents/skills/amap-jsapi-skill/references/api/common.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "4d841e60441c83ce57d6757eb34539bb2c5927fa"
+    },
+    {
+      "path": ".agents/skills/amap-jsapi-skill/references/api/context-menu.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "b2c211334d10e764869314f2e41bd21e73feb6ad"
+    },
+    {
+      "path": ".agents/skills/amap-jsapi-skill/references/api/controls.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "bf36265c818739a4a6233b27982c8d233b49899e"
+    },
+    {
+      "path": ".agents/skills/amap-jsapi-skill/references/api/events.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "afb9bb37105fa4dda7d6d10c8b7c6db8cca36ebc"
+    },
+    {
+      "path": ".agents/skills/amap-jsapi-skill/references/api/foundation.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "67bf74942420fb3c77dedca108b0ea4a202017fb"
+    },
+    {
+      "path": ".agents/skills/amap-jsapi-skill/references/api/geocoder.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "eb68bb2725532832b592860826ba373a31339432"
+    },
+    {
+      "path": ".agents/skills/amap-jsapi-skill/references/api/geolocation.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "3279d76787ab3439cc8f0893fa0ba3dd2bf9f938"
+    },
+    {
+      "path": ".agents/skills/amap-jsapi-skill/references/api/info-window.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "a735ddd865e1bda28ed8fbca9bf56772bf0d239b"
+    },
+    {
+      "path": ".agents/skills/amap-jsapi-skill/references/api/layers-custom.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "b500538f5e5dd4cff7b31d9c4dbce884ce2be4e0"
+    },
+    {
+      "path": ".agents/skills/amap-jsapi-skill/references/api/layers-official.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "4d286195d631a2008aede003c1a9f4909087db9c"
+    },
+    {
+      "path": ".agents/skills/amap-jsapi-skill/references/api/layers-standard.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "513c9921162a787903dd3c910689ca386589e08a"
+    },
+    {
+      "path": ".agents/skills/amap-jsapi-skill/references/api/map.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "3b6d983bffae564e086a2805318056ac6f40e839"
+    },
+    {
+      "path": ".agents/skills/amap-jsapi-skill/references/api/marker.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "52c54566ecd919a8ce73d45b531a45f1b1eeb237"
+    },
+    {
+      "path": ".agents/skills/amap-jsapi-skill/references/api/overlay-group.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "a564adf76bae58f939da067102b99dbfd315c4af"
+    },
+    {
+      "path": ".agents/skills/amap-jsapi-skill/references/api/routing.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "e5f3d3ff4b6a83fb12eca6174931e5cbf14af206"
+    },
+    {
+      "path": ".agents/skills/amap-jsapi-skill/references/api/search.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "45305082498dd1c2e9ba7122e90ad948a6058787"
+    },
+    {
+      "path": ".agents/skills/amap-jsapi-skill/references/api/services-other.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "21e4be87a2bbca828db89bd6d5307bbd73e3715c"
+    },
+    {
+      "path": ".agents/skills/amap-jsapi-skill/references/api/services.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "34dd8329bcacb9bb5198839151c782ea745e29aa"
+    },
+    {
+      "path": ".agents/skills/amap-jsapi-skill/references/api/tools.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "1be5d1debc091b4a284b1c1020e457731136f0db"
+    },
+    {
+      "path": ".agents/skills/amap-jsapi-skill/references/api/vector-graphics.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "94a9b808b5067315baa6815fa5faec40e7932b93"
+    },
+    {
+      "path": ".agents/skills/amap-jsapi-skill/references/context-menu.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "9d86722ff1996bc4164521d294dbc4b3d86638a4"
+    },
+    {
+      "path": ".agents/skills/amap-jsapi-skill/references/custom-layers.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "8048cba1962b6cbf6422ddb1926f70aa750387d0"
+    },
+    {
+      "path": ".agents/skills/amap-jsapi-skill/references/events.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "aea0edda2c0173d2d798ed53e15d804cb6a278bf"
+    },
+    {
+      "path": ".agents/skills/amap-jsapi-skill/references/geocoder.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "3a1259b7a2ae46e2a9da94315054c369fbb88777"
+    },
+    {
+      "path": ".agents/skills/amap-jsapi-skill/references/info-window.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "0019c70106993aed5f4c860038ae6e74aa28b1c9"
+    },
+    {
+      "path": ".agents/skills/amap-jsapi-skill/references/layers.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "84af2d2661a615df2317f5eb68ab54b6ffd0c070"
+    },
+    {
+      "path": ".agents/skills/amap-jsapi-skill/references/map-init.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "e27087f707542407c81d514abf52a7677d5890aa"
+    },
+    {
+      "path": ".agents/skills/amap-jsapi-skill/references/marker.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "0ed83eadd1652da2f8887f100508f067b0703f53"
+    },
+    {
+      "path": ".agents/skills/amap-jsapi-skill/references/routing.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "7fa6f0e3b39f7cbd99a5a5863fba1c4c01ce8edf"
+    },
+    {
+      "path": ".agents/skills/amap-jsapi-skill/references/search.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "4018799018823c3734c2785f310124ea8505443e"
+    },
+    {
+      "path": ".agents/skills/amap-jsapi-skill/references/security.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "202920c1a3beb494749f3fe333d861d92ea9afc6"
+    },
+    {
+      "path": ".agents/skills/amap-jsapi-skill/references/vector-graphics.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "9024ae8db41998f007d86bb837afd54e891a1baa"
+    },
+    {
+      "path": ".agents/skills/amap-jsapi-skill/references/view-control.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "09381cf2c17ee5c12c6de7ba328461fc143eb990"
+    },
+    {
+      "path": ".agents/skills/speckit-analyze/SKILL.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "48893e6f04703978bb48d6a37d04386803a4bab0"
+    },
+    {
+      "path": ".agents/skills/speckit-checklist/SKILL.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "b189119edcb9fcafbf0b2780b93ed7c9f489f481"
+    },
+    {
+      "path": ".agents/skills/speckit-clarify/SKILL.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "0e690b41ccb0b96877c56afdf325e20f9bd3d110"
+    },
+    {
+      "path": ".agents/skills/speckit-constitution/SKILL.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "23b2a175192e932009afb53f13cf54b04e9bd192"
+    },
+    {
+      "path": ".agents/skills/speckit-implement/SKILL.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "00c81ae83914cf6608aaec60f95e5b18398c214a"
+    },
+    {
+      "path": ".agents/skills/speckit-plan/SKILL.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "49a35c8e616eae87a3686bda89e65060aeca1340"
+    },
+    {
+      "path": ".agents/skills/speckit-specify/SKILL.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "0781cd93dd2a721dd325ddfd4ed88c6a7a0e4970"
+    },
+    {
+      "path": ".agents/skills/speckit-tasks/SKILL.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "932952ef4366122ed122bb8ae8a3bb874c1fe058"
+    },
+    {
+      "path": ".agents/skills/speckit-taskstoissues/SKILL.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "6eb7629bcbe7d4c568533b4866912b50a22edfe8"
+    },
+    {
+      "path": ".gitignore",
+      "mode": "100644",
+      "type": "blob",
+      "object": "c5e8b4ffbb7d8c2e706d319bb7df65d8e58d7bd6"
+    },
+    {
+      "path": ".specify/memory/constitution.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "ee050d24c47ba85682a22a8a0983d6fb9bc4e73d"
+    },
+    {
+      "path": ".specify/scripts/powershell/check-prerequisites.ps1",
+      "mode": "100644",
+      "type": "blob",
+      "object": "91667e9ef1da000559671c4c5e268d57b54ccd4b"
+    },
+    {
+      "path": ".specify/scripts/powershell/common.ps1",
+      "mode": "100644",
+      "type": "blob",
+      "object": "7a96d3fac861de3b6e4d33d90fbd993d7291914a"
+    },
+    {
+      "path": ".specify/scripts/powershell/create-new-feature.ps1",
+      "mode": "100644",
+      "type": "blob",
+      "object": "b1ca0ac82af09cd074afb27cd279de84e50b5425"
+    },
+    {
+      "path": ".specify/scripts/powershell/setup-plan.ps1",
+      "mode": "100644",
+      "type": "blob",
+      "object": "ee09094bf7c2c08e21fe329e7b37c5b2b042c4d3"
+    },
+    {
+      "path": ".specify/scripts/powershell/update-agent-context.ps1",
+      "mode": "100644",
+      "type": "blob",
+      "object": "c495d3c74dde722eb0a7e7d34b800232008194f1"
+    },
+    {
+      "path": ".specify/templates/agent-file-template.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "4cc7fd66783f4b0d6a89eed7ac3eaf5f77b69dba"
+    },
+    {
+      "path": ".specify/templates/checklist-template.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "806657da09d1058823923e346a323b633114971a"
+    },
+    {
+      "path": ".specify/templates/constitution-template.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "a4670ff46919b276a4c9663b4ca51830108fcfc0"
+    },
+    {
+      "path": ".specify/templates/plan-template.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "3665bcaa05050067b6bd21ed08fb96bc87b8c1b9"
+    },
+    {
+      "path": ".specify/templates/spec-template.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "78581b069dbe6bac16ba50df33e112b36f2d619e"
+    },
+    {
+      "path": ".specify/templates/tasks-template.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "8145f6d1385828b7393ff4ab1c58e69591f9aed6"
+    },
+    {
+      "path": "AGENTS.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "13524f50b68f61248eda683c24a378ade4d764ae"
+    },
+    {
+      "path": "CLAUDE.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "43c994c2d3617f947bcb5adf1933e21dabe46bb5"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "e215bc4ccf138bbc38ad58ad57e92135484b3c0f"
+    },
+    {
+      "path": "app/_components/analysis-birding-outlook.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "object": "28217e7a85a7f875edde783d0d2a68ce8e0e5158"
+    },
+    {
+      "path": "app/_components/analysis-forecast-warning-modal.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "object": "f5f74450825fdd336612d191fa598d23a93369e6"
+    },
+    {
+      "path": "app/_components/analysis-habitat-species-reference.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "object": "6854b95c7f4c5a24e854f1cdc3478df3287e1bc7"
+    },
+    {
+      "path": "app/_components/analysis-map-panel.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "object": "eb52170975260716b006d6bc3b22dc61e5d88e84"
+    },
+    {
+      "path": "app/_components/analysis-overview-panel.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "object": "526cfac6c770e8ec3a41a605c9bb828bc4faff92"
+    },
+    {
+      "path": "app/_components/analysis-screen.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "object": "be3b4ffd68b2dc2e91b68814f390ed63f6688bbf"
+    },
+    {
+      "path": "app/_components/auth-entry.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "object": "12ec6c2414cc16ad10d427577fddbb4192cf7eb3"
+    },
+    {
+      "path": "app/_components/identify-encyclopedia-card.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "object": "0342cb0f067e0652a4caa0e7630910a6237dbff2"
+    },
+    {
+      "path": "app/_components/identify-result-card.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "object": "de750463dcc1305a41901a40612706a676e9bf99"
+    },
+    {
+      "path": "app/_components/identify-screen.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "object": "db8fc5e8e6f17d806e6eecb19d8fa1f5bc17eb44"
+    },
+    {
+      "path": "app/_components/identify-upload-card.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "object": "edf1858a4074dcd707adea043648e5b36ea05fb9"
+    },
+    {
+      "path": "app/_components/login-register-dialog.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "object": "78c882e8206759fedfea74a01b68713b03876fc5"
+    },
+    {
+      "path": "app/_components/mobile-shell.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "object": "bf2b13a94c83af7f56d70e3ab8cede7e19298cba"
+    },
+    {
+      "path": "app/_components/record-editor-dialog.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "object": "57638a4daab9df03ba52140f8e7873ce65b7f4c5"
+    },
+    {
+      "path": "app/_components/record-map-picker-dialog.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "object": "b1788a54999d3046a80aa9d7df7059f961337ab5"
+    },
+    {
+      "path": "app/_components/records-auth-required-dialog.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "object": "d5e5bcf59a2af298e61e1cb636b5daa5c8bd6fa9"
+    },
+    {
+      "path": "app/_components/records-notebook-panel.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "object": "aca1756374a8cd634f1aa7a7c44fa1b8da177b13"
+    },
+    {
+      "path": "app/_components/records-screen.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "object": "33e4e386e7abafacbc260496f62e27a02a1ff920"
+    },
+    {
+      "path": "app/_components/screen-frame.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "object": "fdc0f427130cc4bd18c7bea3275d1012a8b964fe"
+    },
+    {
+      "path": "app/_components/top-nav.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "object": "07423a50849ebfb0b9a06428556f8f3755e6c044"
+    },
+    {
+      "path": "app/_components/wtb-logo-footer.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "object": "7abb9470aad36c1326e8c44dea74fd1cfc5ca860"
+    },
+    {
+      "path": "app/api/analysis/birding-outlook/route.ts",
+      "mode": "100644",
+      "type": "blob",
+      "object": "dafabd13ff73c771382da9d1003ac18a91948686"
+    },
+    {
+      "path": "app/api/analysis/forecast-warning/route.ts",
+      "mode": "100644",
+      "type": "blob",
+      "object": "abd4dc497dd6297aade0e2a47bdf40129d3f995c"
+    },
+    {
+      "path": "app/api/analysis/habitat-species-reference/route.ts",
+      "mode": "100644",
+      "type": "blob",
+      "object": "1542a96958acc77a95501b46ae9f7ffd920decf6"
+    },
+    {
+      "path": "app/api/auth/login/route.ts",
+      "mode": "100644",
+      "type": "blob",
+      "object": "4413761cb29da4b6e1c1ac90f6a36fed5d4e1383"
+    },
+    {
+      "path": "app/api/auth/logout/route.ts",
+      "mode": "100644",
+      "type": "blob",
+      "object": "ec43c9c8dd60ab68988db38bb14084500c1fc008"
+    },
+    {
+      "path": "app/api/identify/bird-recognition/route.ts",
+      "mode": "100644",
+      "type": "blob",
+      "object": "4f1e146edbd28a54595e69695e8bef754bac605e"
+    },
+    {
+      "path": "app/api/records/location/resolve/route.ts",
+      "mode": "100644",
+      "type": "blob",
+      "object": "46b6ba031d42b6b1ed5fd6c2644f312ca6588e7a"
+    },
+    {
+      "path": "app/api/records/notebook/[recordId]/route.ts",
+      "mode": "100644",
+      "type": "blob",
+      "object": "c438979d678e36ede461c25639e4cc729cc68f1d"
+    },
+    {
+      "path": "app/api/records/notebook/route.ts",
+      "mode": "100644",
+      "type": "blob",
+      "object": "40ef7e0830b0f3170ec1bfcf68e21ba59cac43cb"
+    },
+    {
+      "path": "app/favicon.ico",
+      "mode": "100644",
+      "type": "blob",
+      "object": "718d6fea4835ec2d246af9800eddb7ffb276240c"
+    },
+    {
+      "path": "app/globals.css",
+      "mode": "100644",
+      "type": "blob",
+      "object": "88e1ca77bda22aac15d384bea53b23835beed339"
+    },
+    {
+      "path": "app/layout.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "object": "5ea98d13f24f275262e8d5df35a9d4656be67b2b"
+    },
+    {
+      "path": "app/page.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "object": "559b769efd6525e0931c57b0457239620b715be8"
+    },
+    {
+      "path": "components/ui/button.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "object": "f2c8a191e9af503026163e03321b5eb0582c6eb1"
+    },
+    {
+      "path": "components/ui/card.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "object": "dacc1a51b46e8ac435419788909bdb59caf1ee30"
+    },
+    {
+      "path": "components/ui/dialog.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "object": "735a8af4024f26540f2673bea4c52fc6b913f643"
+    },
+    {
+      "path": "components/ui/input.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "object": "3f92033e490debaa238d665d60f11d976f10dc37"
+    },
+    {
+      "path": "components/ui/select.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "object": "765ea5a7f2dd4cb0e1d73ead65691623f451a481"
+    },
+    {
+      "path": "components/ui/separator.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "object": "16a9b4f56875116ce1f5507d7a42ec6dae75d28c"
+    },
+    {
+      "path": "components/ui/textarea.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "object": "88438ff7a3904f701fd93640d707e4763a720d27"
+    },
+    {
+      "path": "data/auth/account-password-library.json",
+      "mode": "100644",
+      "type": "blob",
+      "object": "505341d5641194242e3f9415efb57eb69ccf8d28"
+    },
+    {
+      "path": "data/notebooks/.gitkeep",
+      "mode": "100644",
+      "type": "blob",
+      "object": "8b137891791fe96927ad78e64b0aad7bded08bdc"
+    },
+    {
+      "path": "data/notebooks/57544254455354.json",
+      "mode": "100644",
+      "type": "blob",
+      "object": "f7f7db767a0e1bd916c61e3eb8f91ca875c4c085"
+    },
+    {
+      "path": "eslint.config.mjs",
+      "mode": "100644",
+      "type": "blob",
+      "object": "1e1edc56bef81bbf2cf367bcf7171740dfe9a90f"
+    },
+    {
+      "path": "lib/ai/birding-index.ts",
+      "mode": "100644",
+      "type": "blob",
+      "object": "051b654904596578a8844d3dbd428cbf9e9cfc07"
+    },
+    {
+      "path": "lib/ai/dashscope-client.ts",
+      "mode": "100644",
+      "type": "blob",
+      "object": "7ce87afb0448fa0a83c1120e7f5551308005c904"
+    },
+    {
+      "path": "lib/analysis/analysis-overview.ts",
+      "mode": "100644",
+      "type": "blob",
+      "object": "c7175a9bd65acdb136d7bb7ccf81d67f3274993b"
+    },
+    {
+      "path": "lib/auth/login.ts",
+      "mode": "100644",
+      "type": "blob",
+      "object": "ce8578bca60e1d9bf92225afbba6568393008e87"
+    },
+    {
+      "path": "lib/auth/session-resolver.ts",
+      "mode": "100644",
+      "type": "blob",
+      "object": "16f0fad92ca012f225d719a1d1de9208117c6abd"
+    },
+    {
+      "path": "lib/auth/session-store.ts",
+      "mode": "100644",
+      "type": "blob",
+      "object": "307c8f85b1f9b50d70799edbb5cffc1ddb180203"
+    },
+    {
+      "path": "lib/identify/bird-encyclopedia.ts",
+      "mode": "100644",
+      "type": "blob",
+      "object": "4b911b395a5939492a8cb65b757e7066def08e48"
+    },
+    {
+      "path": "lib/identify/bird-recognition.ts",
+      "mode": "100644",
+      "type": "blob",
+      "object": "3dcf419f004955a84b82872b4be1b86461b45640"
+    },
+    {
+      "path": "lib/identify/identify-contract.ts",
+      "mode": "100644",
+      "type": "blob",
+      "object": "2b6f395065c142caca38c1d7aca82eea4d99aba9"
+    },
+    {
+      "path": "lib/identify/image-upload.ts",
+      "mode": "100644",
+      "type": "blob",
+      "object": "e624a86809b7cf4f50aef0a5e301f5414d515104"
+    },
+    {
+      "path": "lib/maps/amap-loader.ts",
+      "mode": "100644",
+      "type": "blob",
+      "object": "7a6b80a2ea42c12f6b7c363c15fe64535aaf97b3"
+    },
+    {
+      "path": "lib/maps/park-options.ts",
+      "mode": "100644",
+      "type": "blob",
+      "object": "4d57f1a556918e9ac34aaa1d394bde103d143ada"
+    },
+    {
+      "path": "lib/records/location-resolver.ts",
+      "mode": "100644",
+      "type": "blob",
+      "object": "9cd7b462f9b50f69b4051f299415ab7601e1f0ee"
+    },
+    {
+      "path": "lib/records/notebook-export.ts",
+      "mode": "100644",
+      "type": "blob",
+      "object": "ba8eb50d1adf992fc5bda6ce2a375cf98cef53dc"
+    },
+    {
+      "path": "lib/records/notebook-presenter.ts",
+      "mode": "100644",
+      "type": "blob",
+      "object": "8bdf6fcbd1f8d52c3e2441e6e0bcea0dfff9879b"
+    },
+    {
+      "path": "lib/records/notebook-repository.ts",
+      "mode": "100644",
+      "type": "blob",
+      "object": "2cfbe0e1a803674b04cd989e9ddbeeb08a215edf"
+    },
+    {
+      "path": "lib/records/notebook.ts",
+      "mode": "100644",
+      "type": "blob",
+      "object": "d4ef0c3b04bab5d1e1bc260043044c8888f27d8b"
+    },
+    {
+      "path": "lib/species/habitat-species-reference.ts",
+      "mode": "100644",
+      "type": "blob",
+      "object": "d105c6afa93d7dcc02e05d106261e6c91364c0da"
+    },
+    {
+      "path": "lib/species/park-species-sources.ts",
+      "mode": "100644",
+      "type": "blob",
+      "object": "9f500edf2a3313c7a70503b68085c0daa27c37d5"
+    },
+    {
+      "path": "lib/species/park-species-workbooks.ts",
+      "mode": "100644",
+      "type": "blob",
+      "object": "05c01e97b0ccf8a37e4b3c33547794eb13df819a"
+    },
+    {
+      "path": "lib/time/beijing-time.ts",
+      "mode": "100644",
+      "type": "blob",
+      "object": "db88569b4e63185a5b7d4aec3e1f0ebb53aa3f77"
+    },
+    {
+      "path": "lib/utils.ts",
+      "mode": "100644",
+      "type": "blob",
+      "object": "a5ef193506d07d0459fec4f187af08283094d7c8"
+    },
+    {
+      "path": "lib/weather/amap-weather.ts",
+      "mode": "100644",
+      "type": "blob",
+      "object": "512c249b968b772b870a138a3e5939189892f500"
+    },
+    {
+      "path": "lib/weather/birding-outlook.ts",
+      "mode": "100644",
+      "type": "blob",
+      "object": "a6ee1fd3a21cf5b899350a596da2443e460fb233"
+    },
+    {
+      "path": "lib/weather/sz-forecast-warning.ts",
+      "mode": "100644",
+      "type": "blob",
+      "object": "8b2974ebedd15f8ca6038362560d2eedcb76b594"
+    },
+    {
+      "path": "next.config.ts",
+      "mode": "100644",
+      "type": "blob",
+      "object": "e9ffa3083ad279ecf95fd8eae59cb253e9a539c4"
+    },
+    {
+      "path": "package-lock.json",
+      "mode": "100644",
+      "type": "blob",
+      "object": "7f766b025a740bd3b06a0b952c2ebe44db4d1984"
+    },
+    {
+      "path": "package.json",
+      "mode": "100644",
+      "type": "blob",
+      "object": "092eee62c39b0a7c0bdc287ca56ae0eee82eb51c"
+    },
+    {
+      "path": "parkinfo/Bijiashan Park.json",
+      "mode": "100644",
+      "type": "blob",
+      "object": "8c54a41ac579d935a342f7300e8bf40f9ac99c59"
+    },
+    {
+      "path": "parkinfo/Fairylake Botanical Garden.json",
+      "mode": "100644",
+      "type": "blob",
+      "object": "76f94fa7be4afe5b84b00f90c4ac6308d082972f"
+    },
+    {
+      "path": "parkinfo/Shenzhen Bay Park.json",
+      "mode": "100644",
+      "type": "blob",
+      "object": "9e4d8edcdacb2accf7a510feb77c47c1d8ee3ac5"
+    },
+    {
+      "path": "parkinfo/Shenzhen Donghu Park.json",
+      "mode": "100644",
+      "type": "blob",
+      "object": "3b3f821b2a31d51803b762f59f794d3b4c1191fe"
+    },
+    {
+      "path": "pnpm-lock.yaml",
+      "mode": "100644",
+      "type": "blob",
+      "object": "8d6308fda012b14046404a38214263295eba374f"
+    },
+    {
+      "path": "pnpm-workspace.yaml",
+      "mode": "100644",
+      "type": "blob",
+      "object": "dd1b4fd58b1208ac3bc2302b4060b8c320c96628"
+    },
+    {
+      "path": "postcss.config.mjs",
+      "mode": "100644",
+      "type": "blob",
+      "object": "61e36849cf7cfa9f1f71b4a3964a4953e3e243d3"
+    },
+    {
+      "path": "public/file.svg",
+      "mode": "100644",
+      "type": "blob",
+      "object": "004145cddf3f9db91b57b9cb596683c8eb420862"
+    },
+    {
+      "path": "public/globe.svg",
+      "mode": "100644",
+      "type": "blob",
+      "object": "567f17b0d7c7fb662c16d4357dd74830caf2dccb"
+    },
+    {
+      "path": "public/images/default-admin-avatar.png",
+      "mode": "100644",
+      "type": "blob",
+      "object": "0bb503a8defcfa3cf75376a4285c30c71e325e8c"
+    },
+    {
+      "path": "public/next.svg",
+      "mode": "100644",
+      "type": "blob",
+      "object": "5174b28c565c285e3e312ec5178be64fbeca8398"
+    },
+    {
+      "path": "public/vercel.svg",
+      "mode": "100644",
+      "type": "blob",
+      "object": "77053960334e2e34dc584dea8019925c3b4ccca9"
+    },
+    {
+      "path": "public/window.svg",
+      "mode": "100644",
+      "type": "blob",
+      "object": "b2b2a44f6ebc70c450043c05a002e7a93ba5d651"
+    },
+    {
+      "path": "scripts/read_park_species_workbook.py",
+      "mode": "100644",
+      "type": "blob",
+      "object": "139586654d63725b0dea0c40636d8deb2cf116b6"
+    },
+    {
+      "path": "scripts/verify-amap-env.mjs",
+      "mode": "100644",
+      "type": "blob",
+      "object": "4a9f890d92b858a6bb6c16bc891a18ab062d9de4"
+    },
+    {
+      "path": "scripts/verify-identify-env.mjs",
+      "mode": "100644",
+      "type": "blob",
+      "object": "d3c3c79e26f9461fa5db05ee8e595a6d4b010100"
+    },
+    {
+      "path": "specs/001-watch-bird-mobile/checklists/requirements.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "5303f7985fc36f6c2543d2b133ae2e1d8d2a3766"
+    },
+    {
+      "path": "specs/001-watch-bird-mobile/contracts/mobile-shell-ui-contract.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "148a7ca9c85ca0a37bd33e8a165d3c24b89b45b1"
+    },
+    {
+      "path": "specs/001-watch-bird-mobile/data-model.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "179c8e5d94b54386641f0792f679ca6c5fbb84d9"
+    },
+    {
+      "path": "specs/001-watch-bird-mobile/plan.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "02f59195fe4266fa524ddcab7ddaada989c25a26"
+    },
+    {
+      "path": "specs/001-watch-bird-mobile/quickstart.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "b1e22772ef8ea9462bcdb3f7d372668c6cbd3383"
+    },
+    {
+      "path": "specs/001-watch-bird-mobile/research.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "62101635c292fb420ee4b73d54c7c223b85bf0a9"
+    },
+    {
+      "path": "specs/001-watch-bird-mobile/spec.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "694b993eb1a3ded594ce8879c872445f0b28c36e"
+    },
+    {
+      "path": "specs/001-watch-bird-mobile/tasks.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "c886bcc5140b58c6213557c9672dcfbb3ffb988c"
+    },
+    {
+      "path": "specs/002-analysis-park-map/checklists/requirements.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "5b14a1c865d24818159d516bd8ea23f96e96fa69"
+    },
+    {
+      "path": "specs/002-analysis-park-map/contracts/analysis-map-ui-contract.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "ba03b8782be06ab2adccf3e158e20f110f60f728"
+    },
+    {
+      "path": "specs/002-analysis-park-map/data-model.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "5b07502b9f95b5e76fc8ce92bb41cb510b76f54a"
+    },
+    {
+      "path": "specs/002-analysis-park-map/plan.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "e80a1b42f5a5027cb018faed6c476a2b2f1b0ade"
+    },
+    {
+      "path": "specs/002-analysis-park-map/quickstart.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "1a93c8fb9ccd7ef2523ef90aa9e194684846085b"
+    },
+    {
+      "path": "specs/002-analysis-park-map/research.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "3512b3fd9c986895707e86cdae9072f0a68aa341"
+    },
+    {
+      "path": "specs/002-analysis-park-map/spec.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "d4cc192a7c5ade24b43a6281c06d4093e19158e9"
+    },
+    {
+      "path": "specs/002-analysis-park-map/tasks.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "b507dc289e52603ebf1f63af08f14caa586e2a8b"
+    },
+    {
+      "path": "specs/003-weather-birding-index/checklists/requirements.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "5006ba6f4b8c995474779a840d831768d65a474b"
+    },
+    {
+      "path": "specs/003-weather-birding-index/contracts/analysis-birding-outlook-api-contract.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "e24501c438de7c2fcee825db295b31528e5a51c6"
+    },
+    {
+      "path": "specs/003-weather-birding-index/contracts/analysis-birding-outlook-ui-contract.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "f99d594c8087db4cbf2cde85bdbeb9a9e74a12cf"
+    },
+    {
+      "path": "specs/003-weather-birding-index/data-model.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "a4cbff612f3d974bbdab5d04e049a40ce1672bf4"
+    },
+    {
+      "path": "specs/003-weather-birding-index/plan.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "db2a0eeb5eca6a0c3d548e25b9b04062c3b68194"
+    },
+    {
+      "path": "specs/003-weather-birding-index/quickstart.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "4ca4f308e4a27abe43c5a7460bb12ab15518d13c"
+    },
+    {
+      "path": "specs/003-weather-birding-index/research.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "03dbd9661935ced8325e9b45f397143e8d0e6bdf"
+    },
+    {
+      "path": "specs/003-weather-birding-index/spec.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "ddd24eb961561e94b7122a540157397f8ca51d3f"
+    },
+    {
+      "path": "specs/003-weather-birding-index/tasks.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "2b033b0fb4e3e6c61d5eebe5a9ce002fc7d189b8"
+    },
+    {
+      "path": "specs/004-analysis-overview/checklists/requirements.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "6bc426e0c2e7e316f056235ef45e8d24d9c7de05"
+    },
+    {
+      "path": "specs/004-analysis-overview/contracts/analysis-overview-api-contract.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "7d95a428931285fb99cc0f14af642316197d7055"
+    },
+    {
+      "path": "specs/004-analysis-overview/contracts/analysis-overview-ui-contract.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "fea29a3aa15ec273d6197fc7d5bb6129b98fd057"
+    },
+    {
+      "path": "specs/004-analysis-overview/data-model.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "513aaab224fcbedddd5d22af4f4bca1253f6da5a"
+    },
+    {
+      "path": "specs/004-analysis-overview/plan.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "7eaa9a0f34ee31cbbdee9ecde9dcbc21abccea34"
+    },
+    {
+      "path": "specs/004-analysis-overview/quickstart.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "8b1828357a14276ae34dd5bb1c54b2f45547fde5"
+    },
+    {
+      "path": "specs/004-analysis-overview/research.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "79c3cf8af84feb6e2e9a7cd8f4042154573d0664"
+    },
+    {
+      "path": "specs/004-analysis-overview/spec.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "c5d59b27d6f07e6d2f52f24b9a779b579267ad5f"
+    },
+    {
+      "path": "specs/004-analysis-overview/tasks.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "437db337987af1b84352a37b6830c57eb403f1e3"
+    },
+    {
+      "path": "specs/005-park-species-reference/checklists/requirements.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "f9ccb9165781e1c5c4ed6703f2a5b60d91d6a5ee"
+    },
+    {
+      "path": "specs/005-park-species-reference/contracts/habitat-species-reference-api-contract.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "02a497eedbbf64f69db428370bdf0b0c9138fa6b"
+    },
+    {
+      "path": "specs/005-park-species-reference/contracts/habitat-species-reference-ui-contract.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "044e42be11544c96379b39bc4723253fad054a7e"
+    },
+    {
+      "path": "specs/005-park-species-reference/data-model.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "2b6c3570709c7cd5a8f293b5fc103684b03c88af"
+    },
+    {
+      "path": "specs/005-park-species-reference/plan.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "ba64243b464d7ee41abe695191e4959a86fa7ec7"
+    },
+    {
+      "path": "specs/005-park-species-reference/quickstart.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "f276b5aa84e8d6c9d48b1b37cf06660ea1054a3c"
+    },
+    {
+      "path": "specs/005-park-species-reference/research.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "9fd9b548d328818bc88878df8098fa1552b5ba90"
+    },
+    {
+      "path": "specs/005-park-species-reference/spec.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "01844c06b9a64acab808b4cc582a0c7bee84c65f"
+    },
+    {
+      "path": "specs/005-park-species-reference/tasks.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "06029de4c4519e34f4c5d3be2fbf714e2cd0e33e"
+    },
+    {
+      "path": "specs/006-login-register/checklists/requirements.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "2c8f0acf8be4f30ec4152831b543ebf1505d1883"
+    },
+    {
+      "path": "specs/006-login-register/contracts/auth-entry-ui-contract.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "44a6fd73b01538cda907502a960922837ea8819d"
+    },
+    {
+      "path": "specs/006-login-register/contracts/auth-login-api-contract.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "80cf370c7e54b17835f26555b1ae72d9295dac3f"
+    },
+    {
+      "path": "specs/006-login-register/data-model.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "b3a85e60aed800a3ded9ef53370bafae777ab020"
+    },
+    {
+      "path": "specs/006-login-register/plan.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "39843d9422af6e79daceab7d9a0604d652a4e90e"
+    },
+    {
+      "path": "specs/006-login-register/quickstart.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "547bf0d3afd84a1e0ce5cdd94fc4c21c33d09db4"
+    },
+    {
+      "path": "specs/006-login-register/research.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "b46970c231c9931cc715a4a1a8399679882eb737"
+    },
+    {
+      "path": "specs/006-login-register/spec.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "92bdb4c2c5ff6eeda44c56591139876ca604f24d"
+    },
+    {
+      "path": "specs/006-login-register/tasks.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "6ac0a71fa95b772166b611314f81b9ada5f0a5f8"
+    },
+    {
+      "path": "specs/007-records-notebook/checklists/requirements.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "967b0dad8893784c1fe7264f2549bbf2ee89f83a"
+    },
+    {
+      "path": "specs/007-records-notebook/contracts/records-location-api-contract.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "3dc2f75a3f82a8e34988a9ed49c4e236b94465dd"
+    },
+    {
+      "path": "specs/007-records-notebook/contracts/records-notebook-api-contract.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "3a5e52a6db7323e139d697af9219334a95a41094"
+    },
+    {
+      "path": "specs/007-records-notebook/contracts/records-notebook-ui-contract.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "855a8b15ec93f6215e10a256d4a8f08e7ce30f5d"
+    },
+    {
+      "path": "specs/007-records-notebook/data-model.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "56f593e7f84ad746cc8f11b0ea6b5af477cbc798"
+    },
+    {
+      "path": "specs/007-records-notebook/plan.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "050457ff0ba806209de8430f5727b60b36c08c1a"
+    },
+    {
+      "path": "specs/007-records-notebook/quickstart.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "6d02e25d8a7b24523b47347b07d30c7e1948ef7d"
+    },
+    {
+      "path": "specs/007-records-notebook/research.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "e190a0129b0f4eb02fe2320e103a946fc83ef9a9"
+    },
+    {
+      "path": "specs/007-records-notebook/spec.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "5650a6328bbfc8a5a1eb10a1bca88c2114a7a408"
+    },
+    {
+      "path": "specs/007-records-notebook/tasks.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "8ec6a34458175e7c96ec63349539edd3a9e51c77"
+    },
+    {
+      "path": "specs/008-bird-image-identify/checklists/requirements.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "ea23d83f0ff344ac0912333fcf9d74bca5ffd6c1"
+    },
+    {
+      "path": "specs/008-bird-image-identify/contracts/bird-identify-api-contract.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "ee63affdb72cfdbd8d37f53fbd15b85b4da3722e"
+    },
+    {
+      "path": "specs/008-bird-image-identify/contracts/identify-screen-ui-contract.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "dffa80021e9d67302178c6c87d72842431950fed"
+    },
+    {
+      "path": "specs/008-bird-image-identify/data-model.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "577e789d9dc26d05dae60a9b965b92c0e4796988"
+    },
+    {
+      "path": "specs/008-bird-image-identify/plan.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "68ccd6b25b9d005e8719b888e81e27cc5e5e70db"
+    },
+    {
+      "path": "specs/008-bird-image-identify/quickstart.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "3f2dba9fd6325c89d503a7856b27c14cf5296d7d"
+    },
+    {
+      "path": "specs/008-bird-image-identify/research.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "767395f5ab9ef1d451ddba08d9ded263cc511432"
+    },
+    {
+      "path": "specs/008-bird-image-identify/spec.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "a3a58460f96fcb596f08d18af5b84237c0dfc6ad"
+    },
+    {
+      "path": "specs/008-bird-image-identify/tasks.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "e5ce8e32a33dbf30eeabce820d4490d8e4caaa6a"
+    },
+    {
+      "path": "specs/009-add-forecast-warning-modal/checklists/requirements.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "58bb7efc7d9ed3b8e26447feb7a64835d8e2b527"
+    },
+    {
+      "path": "specs/009-add-forecast-warning-modal/contracts/analysis-forecast-warning-api-contract.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "75dd76a8f1d8793c9ba2f7ee2c82a3eaa53ae578"
+    },
+    {
+      "path": "specs/009-add-forecast-warning-modal/contracts/analysis-forecast-warning-ui-contract.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "170452df4d7daa6b5da5f587aa66af6076cd45b0"
+    },
+    {
+      "path": "specs/009-add-forecast-warning-modal/data-model.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "f9e5e7b4dfb37f4756324b75af361e98d31d4f89"
+    },
+    {
+      "path": "specs/009-add-forecast-warning-modal/plan.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "ad659c16280df326c00eaa37186b2ee95794a48f"
+    },
+    {
+      "path": "specs/009-add-forecast-warning-modal/quickstart.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "1a210d50b5adc185b0b690ff3ef623bc0e4ad546"
+    },
+    {
+      "path": "specs/009-add-forecast-warning-modal/research.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "9a9aa22a05c4fb1ce58e67cf742684e1838fa3c1"
+    },
+    {
+      "path": "specs/009-add-forecast-warning-modal/spec.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "090bcb70a80dfe8c70bed881b005dbe7a4602b1d"
+    },
+    {
+      "path": "specs/009-add-forecast-warning-modal/tasks.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "a2e08e4b7b745d6be016a3caa7d3b743ebd39955"
+    },
+    {
+      "path": "specs/010-download-bird-notes/checklists/requirements.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "d0eb6da83e8c83f1cedcb38ecee683a6dfe4f3f9"
+    },
+    {
+      "path": "specs/010-download-bird-notes/contracts/analysis-notebook-export-api-contract.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "f8ef2400d2583146e669b7371051a18acfbd083f"
+    },
+    {
+      "path": "specs/010-download-bird-notes/contracts/analysis-notebook-export-ui-contract.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "87ca23b4da5829225f4b48661298ef381f3bd796"
+    },
+    {
+      "path": "specs/010-download-bird-notes/data-model.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "3ec0d20f7f628547cdb5aad2be62d3c37aa80495"
+    },
+    {
+      "path": "specs/010-download-bird-notes/plan.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "3851599f277becd51dd859b41a8f349074813d41"
+    },
+    {
+      "path": "specs/010-download-bird-notes/quickstart.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "ff0580702f42b4cd65dea0fb98647a4fd7159c54"
+    },
+    {
+      "path": "specs/010-download-bird-notes/research.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "752021dde204fd5f13cd52b7c7fdc3ba3767ac06"
+    },
+    {
+      "path": "specs/010-download-bird-notes/spec.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "420390b2b10958fa074366d89960904606eaf6bf"
+    },
+    {
+      "path": "specs/010-download-bird-notes/tasks.md",
+      "mode": "100644",
+      "type": "blob",
+      "object": "de69bacfe2e84b7299376b05e1f4da90aeb31fde"
+    },
+    {
+      "path": "tsconfig.json",
+      "mode": "100644",
+      "type": "blob",
+      "object": "3a13f90a773b0facb675bf5b1a8239c8f33d36f5"
+    }
+  ],
+  "exported": [
+    "app/_components/analysis-birding-outlook.tsx",
+    "app/_components/analysis-forecast-warning-modal.tsx",
+    "app/_components/analysis-habitat-species-reference.tsx",
+    "app/_components/analysis-map-panel.tsx",
+    "app/_components/analysis-overview-panel.tsx",
+    "app/_components/analysis-screen.tsx",
+    "app/_components/auth-entry.tsx",
+    "app/_components/identify-encyclopedia-card.tsx",
+    "app/_components/identify-result-card.tsx",
+    "app/_components/identify-screen.tsx",
+    "app/_components/identify-upload-card.tsx",
+    "app/_components/login-register-dialog.tsx",
+    "app/_components/mobile-shell.tsx",
+    "app/_components/record-editor-dialog.tsx",
+    "app/_components/record-map-picker-dialog.tsx",
+    "app/_components/records-auth-required-dialog.tsx",
+    "app/_components/records-notebook-panel.tsx",
+    "app/_components/records-screen.tsx",
+    "app/_components/screen-frame.tsx",
+    "app/_components/top-nav.tsx",
+    "app/_components/wtb-logo-footer.tsx",
+    "app/api/analysis/birding-outlook/route.ts",
+    "app/api/analysis/forecast-warning/route.ts",
+    "app/api/analysis/habitat-species-reference/route.ts",
+    "app/api/auth/login/route.ts",
+    "app/api/auth/logout/route.ts",
+    "app/api/identify/bird-recognition/route.ts",
+    "app/api/records/location/resolve/route.ts",
+    "app/api/records/notebook/[recordId]/route.ts",
+    "app/api/records/notebook/route.ts",
+    "app/favicon.ico",
+    "app/globals.css",
+    "app/layout.tsx",
+    "app/page.tsx",
+    "components/ui/button.tsx",
+    "components/ui/card.tsx",
+    "components/ui/dialog.tsx",
+    "components/ui/input.tsx",
+    "components/ui/select.tsx",
+    "components/ui/separator.tsx",
+    "components/ui/textarea.tsx",
+    "lib/ai/birding-index.ts",
+    "lib/ai/dashscope-client.ts",
+    "lib/analysis/analysis-overview.ts",
+    "lib/auth/login.ts",
+    "lib/auth/session-resolver.ts",
+    "lib/auth/session-store.ts",
+    "lib/identify/bird-encyclopedia.ts",
+    "lib/identify/bird-recognition.ts",
+    "lib/identify/identify-contract.ts",
+    "lib/identify/image-upload.ts",
+    "lib/maps/amap-loader.ts",
+    "lib/maps/park-options.ts",
+    "lib/records/location-resolver.ts",
+    "lib/records/notebook-export.ts",
+    "lib/records/notebook-presenter.ts",
+    "lib/records/notebook-repository.ts",
+    "lib/records/notebook.ts",
+    "lib/species/habitat-species-reference.ts",
+    "lib/species/park-species-sources.ts",
+    "lib/species/park-species-workbooks.ts",
+    "lib/time/beijing-time.ts",
+    "lib/utils.ts",
+    "lib/weather/amap-weather.ts",
+    "lib/weather/birding-outlook.ts",
+    "lib/weather/sz-forecast-warning.ts",
+    "next.config.ts",
+    "package-lock.json",
+    "package.json",
+    "parkinfo/Bijiashan Park.json",
+    "parkinfo/Fairylake Botanical Garden.json",
+    "parkinfo/Shenzhen Bay Park.json",
+    "parkinfo/Shenzhen Donghu Park.json",
+    "postcss.config.mjs",
+    "public/file.svg",
+    "public/globe.svg",
+    "public/images/default-admin-avatar.png",
+    "public/next.svg",
+    "public/vercel.svg",
+    "public/window.svg",
+    "tsconfig.json"
+  ],
+  "worktreeHashes": {
+    "app/_components/analysis-birding-outlook.tsx": "37307e96f81e2d5c47b3e3b5357f93d6dd8316167bef844b95ff4d0396d71c35",
+    "app/_components/analysis-forecast-warning-modal.tsx": "300516604fcedbee67f9e6b95fcacf310ac9d9cf33b78269dcf0cf414c27b6e6",
+    "app/_components/analysis-habitat-species-reference.tsx": "3692da320e30ef5dfcc3900360341ca3e5c44156e92eb782e021a2e0e82c9546",
+    "app/_components/analysis-map-panel.tsx": "115809a6876119b713627929a51193f9e16b51344601ccebc7cecb45acc4cada",
+    "app/_components/analysis-overview-panel.tsx": "7a63181c3d29f7a9f787d9e29a12b29ebad1287f53967eb86dba119135979714",
+    "app/_components/analysis-screen.tsx": "5124141acb42160a3bfd43d27d92eeb58006f9c031485510f01410b761bab535",
+    "app/_components/auth-entry.tsx": "f29c7baf13b175cf688429a18cc34c380595989994ed3b8ceb9397185f57caa0",
+    "app/_components/identify-encyclopedia-card.tsx": "77fb54ba403a6ebb5c6e54f2646495a4b19f21f641893c73b0c8a64e09e41c9f",
+    "app/_components/identify-result-card.tsx": "65b44da3d1ff99e0ee3cea3a8204a16a0a672975fa9e180ba871258bf1d67294",
+    "app/_components/identify-screen.tsx": "8754d76c37cddb2bda4823a84c62428e4709505180c92e38423c28883f4aea2e",
+    "app/_components/identify-upload-card.tsx": "7845b3563e33289b3495300b62ea95a30678354860592b7573a5bdf7626e2511",
+    "app/_components/login-register-dialog.tsx": "faf7a0e116d9435a34555ea0dddcc7ff6eefb1cdbfb9ed8537d72359fcc5f855",
+    "app/_components/mobile-shell.tsx": "e250e4bcf394077cf4cb3be779abd22d5f5510f5713b6e47aa717b33a8e64fb6",
+    "app/_components/record-editor-dialog.tsx": "8196c872c101db63daddc9af07fa5da8dd25c2468740c99d1a09b7b1bf361ac0",
+    "app/_components/record-map-picker-dialog.tsx": "a524f5036cb66377265dace492ed1c1282d3effe6860283a28a8ea9cc3a540f0",
+    "app/_components/records-auth-required-dialog.tsx": "4754138080884e7a5c6b2f8413a0078545828fa01aa00a83d5b483218c219706",
+    "app/_components/records-notebook-panel.tsx": "98958bf8ee4d7ba57537c2324690d3f20c33bf02760bc1cb8789f301034dddef",
+    "app/_components/records-screen.tsx": "bb01a6293e7ce5aedbe2770f6421e92d7d892331bbe0a78e6abae90ad1f9a309",
+    "app/_components/screen-frame.tsx": "46285db54401f9c968a84e503ee2028086039b906dfadca390d59c9012ba5dae",
+    "app/_components/top-nav.tsx": "12af228414ba1ebffa7d117ca94eeedc7d1fc808363c82a531e78ea2c8f3f4ae",
+    "app/_components/wtb-logo-footer.tsx": "457ee700943576b2a39e7567c87d00cf9c676dcea979a9624ecfd7b39f86af4b",
+    "app/api/analysis/birding-outlook/route.ts": "da217ce439464645045cfafbb7dc9e16eb7c145ec724f0e3c90f8eb33acee894",
+    "app/api/analysis/forecast-warning/route.ts": "f8a6c7bc0363d7cffab248690a0badfbdbe70add0937a44c2b10e5f5d8478e8d",
+    "app/api/analysis/habitat-species-reference/route.ts": "20d792bb5c72ce1113df2a1d731263d2e695542f7436841925671bc4acc6300d",
+    "app/api/auth/login/route.ts": "e6f69699acade6780b861b85e8ec4091258071e803e13896db2d5ad751774bd5",
+    "app/api/auth/logout/route.ts": "ead95a7376dfb772b70b98ddefd0914479ed318b550a0e752627f061a57de26f",
+    "app/api/identify/bird-recognition/route.ts": "fecf335712c1b8f191ffbff0d05b06c497161e1342b80b0504e9506621d7820d",
+    "app/api/records/location/resolve/route.ts": "5b5bdb0ce9f46fa9b7a1d522ca4888d6f1c25fec8a4526d877896762e37cb520",
+    "app/api/records/notebook/[recordId]/route.ts": "1d5ea9a50df034d8a94f027eed6e75708d3955c4f5700654776c55052174aa3a",
+    "app/api/records/notebook/route.ts": "280483a608dc0448cca50fb1c2a9c5cb00853a73c67c6745e4d490934679c4e4",
+    "app/favicon.ico": "2b8ad2d33455a8f736fc3a8ebf8f0bdea8848ad4c0db48a2833bd0f9cd775932",
+    "app/globals.css": "07e7152aaaf8acc5fa4eb6ba9ec4eb8247bdd955510f24ef136ba4926992e0cb",
+    "app/layout.tsx": "58763228e9649a7898304f2cde0077b4be286f4a225bf7dbb8ac44c38018a212",
+    "app/page.tsx": "859d5d22c31d2eff0acf8fa54d26ebc602ba2233293fb16857655fef4e5ab459",
+    "components/ui/button.tsx": "99186d4f063d93073e920264aed6bce431c02d2138dbea873cb6feeb4ae664c9",
+    "components/ui/card.tsx": "ce9b8a18bc888db670ae01f3897b9beeb78c4b8e626ffe156e5dd12928e1929f",
+    "components/ui/dialog.tsx": "47d1e6fcf0508b89d542b208a757aa6ee14af4d552cd6650040cac2e88c2045f",
+    "components/ui/input.tsx": "2dadadd5df3bd104eb549d273bde999cdc94791d4ef8daac624ad7923bf09bb0",
+    "components/ui/select.tsx": "cf8b7a2d013b77e4ef9991dd64be53c36ef4b5f32215960e5d472f7ea5821d55",
+    "components/ui/separator.tsx": "d3a345e5d7af8c6d123cbd62bc72253ef048b6e1ccd499458f5e80b81f0415a9",
+    "components/ui/textarea.tsx": "0896cce00997103a1490bb02de62893a0b4406d0deea3ae597b840ef2ea2b0bc",
+    "lib/ai/birding-index.ts": "dbd6635f0f569ae9d86cf7671337f824ac4a3ea34cc01b6956625e3c96cd6b8f",
+    "lib/ai/dashscope-client.ts": "a84e957f656184c0ebf1d47d0a3317a6d003bb462d21af915e29d3ce31da10b0",
+    "lib/analysis/analysis-overview.ts": "467d1d20fdeebff4b3746016b6b729712c8a929b9d2d0723665ee337d9ff9282",
+    "lib/auth/login.ts": "7b588bc2ce397782b3e4217634d769d338cf147302493709559f723b05253363",
+    "lib/auth/session-resolver.ts": "f348def911fbfa7844a4bd41d6504c48bfbba072d5b799b803bea5e54d94baf4",
+    "lib/auth/session-store.ts": "3dcb72f77eeca8199083c46829412b8dbb9961df170aa4870921a3366c9de3d1",
+    "lib/identify/bird-encyclopedia.ts": "ef3b2a318ce6b8725457d78365ad48aca9d2dbf2f86fecc9ab4ab471484f505e",
+    "lib/identify/bird-recognition.ts": "928f3ca8f719aec7e7e43196e3b8ce492b64b71a7e2a81f1af4b122f80ad0b71",
+    "lib/identify/identify-contract.ts": "18bb4ae74b498e77fec57e015044e890e610519a931969e41683e1bef67833a9",
+    "lib/identify/image-upload.ts": "95108b87b2421e439d1f7539225f326f8d71b343d51a5c303623f7637aef81a6",
+    "lib/maps/amap-loader.ts": "4534693c4b03294bf6f0e26c7da41dc12c71413424b87f0e692762ea27f9ad3b",
+    "lib/maps/park-options.ts": "fd4061f2eef5969fc9247a9bc33ce678e0879481cda7a3bcbeaf5b0266e5afa5",
+    "lib/records/location-resolver.ts": "552c1e13cc264b2b564fd482cd8e5fbae83e15d58164b22d7adcb97231e42ad0",
+    "lib/records/notebook-export.ts": "6083e832792904b30d56efab2f68fec63c9412f64325ec0243fa49953088f689",
+    "lib/records/notebook-presenter.ts": "958c9749ec0879b9f1cd7761c19bc78d62a4eea20fc1a245352fad7717460ff9",
+    "lib/records/notebook-repository.ts": "d6a1c55cf16fe63cfb7d76c496a546c29ad28528e384f22bde43e2f89fa59f2b",
+    "lib/records/notebook.ts": "7dab81be506d8461652c86caa3518436fc30c12242f26969aded77450ce60f29",
+    "lib/species/habitat-species-reference.ts": "2675c8cb51a39d65b0ea41855e6043f9e1ca9c6c408b1f6dad0e9ac4dc391e17",
+    "lib/species/park-species-sources.ts": "1a75caafb2f22184a75f3b9bc92b92aa61c5034d62d47351b840c9ee9ea1b35a",
+    "lib/species/park-species-workbooks.ts": "15513042c79bd26034e826ed99a1dd994bec8154ad2e3f33ed8c412e6c7dff49",
+    "lib/time/beijing-time.ts": "cc9444dc053b0ecc2892beec5c419752d256a29ebde9231898343b69132ba6a6",
+    "lib/utils.ts": "d1f1e0d62cb8d8d1e04c26e14de842d8a151f75812d81b046c65b5d1fe8e4b27",
+    "lib/weather/amap-weather.ts": "1a16a59872e995b1503b4cc165296202d4f63fe0dd93df216880a34afa24538d",
+    "lib/weather/birding-outlook.ts": "195e0fe2e5d784cbd197f1b17df1cb4e86f5f048835cf84da7848cbb808c58cc",
+    "lib/weather/sz-forecast-warning.ts": "d02dce4efb085104bc809dd445376a18ac8591beb1891b58b06978089c2afd9c",
+    "next.config.ts": "614bce25b089c3f19b1e17a6346c74b858034040154c6621e7d35303004767cc",
+    "package-lock.json": "f504e717377aca6e90787998c1a27dd313db5fef30d43fcbeafe33c8b532ac34",
+    "package.json": "5465ea7b5a0ac8b08f2d180742ac8c364258ddff594ff25c3f2c77f1956a96af",
+    "parkinfo/Bijiashan Park.json": "6b0caf97d2b9ca1d307a9a94079eeceb6f3c6d6d1a46460f91cef27c4b897acf",
+    "parkinfo/Fairylake Botanical Garden.json": "fcb7e259075a5649eb95fa04e6fb69d1916172232ea1ac451cffcd10a7d036c2",
+    "parkinfo/Shenzhen Bay Park.json": "178a2e603ea15721543c41bda8dd0ea3023a412e0aacf997aeb3e0f3aeb466ad",
+    "parkinfo/Shenzhen Donghu Park.json": "28c6ff0067a1118f57e2d6d1318800a45aad4182bc0f1170718e5290ceddfc5c",
+    "postcss.config.mjs": "dfac7ac2d86d326a0e5adb024e7943c181393ed17a5fcb8f0315b24c7da6ddde",
+    "public/file.svg": "2b67812c325c199a02536cdbeea0c593a72f707d323b72ee3e08dbab06753bd4",
+    "public/globe.svg": "b614b9bf183925957661ac851498fe1d8029fd43a62fbfed86f9e2624a57e7cf",
+    "public/images/default-admin-avatar.png": "9cb6fadf0eb80b16d62efbda0c4ce73cf089f92f95adff87da8d48a103f23f93",
+    "public/next.svg": "55995dfad6ecb4945a1e856ddca03c5e16aa5bf13fd21b4df6a74ae79357bcfc",
+    "public/vercel.svg": "f081337b2fee635b455b63275406a3e7f39d6a014e25ad90dab5a67e62a12ac4",
+    "public/window.svg": "644768c4aaeb4767bce293344eeb0c125fb804a94d801440424072202d85e3a1",
+    "tsconfig.json": "be18523b23b78b6e1a876ddd107d330f0168bddf09d751b57e0b5edce69c66f3"
+  }
+}

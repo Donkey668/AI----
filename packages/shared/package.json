@@ -1,0 +1,1 @@
+{"name":"@bird/shared","private":true,"type":"module","exports":{"./*":"./src/*.ts"},"dependencies":{"clsx":"^2.1.1","tailwind-merge":"^3.3.1"}}

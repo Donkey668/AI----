@@ -1,0 +1,389 @@
+中文鸟名：反嘴鹬
+文献标题：Identification and conservation of critical nodes for shorebirds based on migration network perspective.
+DOI：10.1186/s40462-025-00599-6
+PMCID：PMC12502238
+全文来源：https://pmc.ncbi.nlm.nih.gov/articles/PMC12502238/
+下载日期：2026-11-02
+说明：开放获取论文的全文文本，保留原文语言；论文研究地区不一定是深圳。
+
+Identification and conservation of critical nodes for shorebirds based on migration network perspective
+
+Background
+
+The degradation and loss of critical nodes in the East Asian–Australasian Flyway (EAAF) migration network could have implications for the migration of shorebirds. The conservation of critical nodes along the EAAF is important for maintaining the stability of migratory networks. However, identifying these nodes remains a major challenge.
+
+Methods
+
+We used a network method that integrates GPS tracking data and remote sensing data to identify critical nodes for three shorebird species (Black-tailed Godwit (Limosa limosa), Eurasian Curlew (Numenius arquata), and Pied Avocet (Recurvirostra avosetta)) in migratory networks along the EAAF and priority conservation areas to facilitate the development of conservation and management plans.
+
+Results
+
+A total of 111, 37, and 81 nodes in the migratory networks were identified for the Black-tailed Godwit, Eurasian Curlew, and Pied Avocet, respectively; these included 25, 13, and 16 critical nodes, respectively. Node importance (node betweenness) was higher in the migration period than in the breeding and wintering periods. Habitat loss was observed in most stopover nodes. A total of 23 unprotected critical nodes were identified as priority conservation areas.
+
+Conclusions
+
+Habitat loss was observed in most of the unprotected critical nodes in stopover regions for all three species. The inclusion of these sites such as Haoyao sumu forest farm and Tianjin coast, into flyway site networks (the East Asian–Australasian Flyway Partnership (EAAFP)) should be prioritized, and the habitat quality of nearby alternative nodes should be improved. Future studies should focus on developing new node indexes that integrate ecological variables with each node’s role in maintaining network connectivity using data from a larger number of tracked individuals and birdwatching data. Such studies could help identify currently unknown regions with critical habitats.
+
+Supplementary Information
+
+The online version contains supplementary material available at 10.1186/s40462-025-00599-6.
+
+Background
+
+Billions of animals migrate between breeding and non-breeding sites, and stopover areas are key components of migratory networks that link breeding, stopover, and wintering sites. The stopover areas that provide migrating animals with sources of energy to support their activities and maintain migratory network connectivity are defined as network nodes. The extent to which migratory species are connected to each other through migration paths between different nodes is defined as network connectivity, which mainly depends on the size and shape of the nodes as well as the distance between nodes.
+
+The loss or degradation of critical nodes can compromise the integrity of the migration network if alternative habitats are absent, and this could pose a threat to the long-term persistence of populations. For example, the decrease in functional connectivity caused by the loss of important nodes has been associated with reductions in non-breeding population sizes for eight waterfowl species along the East Asian–Australasian flyway (EAAF). The loss of stopover sites in the Yellow Seas along the EAAF has led to declines of seven shorebird species at rates of up to 8% per year. Future sea level rise is estimated to result in the inundation of 23%–40% of intertidal habitat along the EAAF and cause a 72% reduction in the population flow of migratory shorebirds. These regions provide rich food sources or are located in critical nodes that connect breeding and wintering regions. Therefore, the identification and conservation of critical nodes in the migration network are important for the conservation of migratory species.
+
+Most previous studies have assessed the importance of sites for migratory waterbirds using variables such as population size, diversity indexes, conservation status, and habitat suitability at certain life stages or for specific migratory routes. However, the connectivity between habitat patches throughout the whole migratory network has not been widely assessed, and only a few studies have focused on geese and ducks. Most studies have identified the role of key habitat patches in maintaining regional network connectivity based on landscape structure using citizen science data and environmental variables at specific life stages.
+
+Previous studies indicate that the conservation of all nodes that make an important contribution to network connectivity will lead to increases in taxonomic, functional, and phylogenetic diversity of 433.3%, 271.7%, and 182.7%, respectively; however, the observed increases in diversity are less than 100% when the same number of nodes ranked by diversity values are conserved. The conservation of these nodes will also help meet the Convention on Biological Diversity (CBD) Aichi target 11 and the draft Post-2020 Global Biodiversity Framework targets, which aim to expand protected area networks and improve network connectivity.
+
+The Black-tailed Godwit (Limosa limosa), Eurasian Curlew (Numenius arquata), and Pied Avocet (Recurvirostra avosetta) are flagship species of the EAAF; differences in their migration ranges might lead to differences in the distribution of nodes. The first two species are listed as Near Threatened in the IUCN Red List of Threatened Species, and populations of these species have declined in recent years. The 62% reduction in salt marsh habitat between 1950 and 2015 highlights the urgency with which the loss of habitat for the Pied Avocet needs to be mitigated. Additionally, all three species are larger-bodied shorebirds that can be easily tracked, which makes them ideal model organisms for studies of shorebird migration networks. Here, we used GPS tracking data and a network approach to construct migratory networks for these three species. Next, we identified critical nodes on the basis of their contribution to the migratory networks. We then identified priority conservation sites using data on node importance, habitat loss, and conservation status. The methods used in our study could be applied to other shorebird species and migratory routes.
+
+Methods
+
+Data
+
+GPS tracking data
+
+From 2017 to 2025, a total of 24 Black-tailed Godwits (Limosa limosa) (Tracker models: HQBG2009P, HQBG1206H), 15 Eurasian Curlews (Numenius arquata) (Tracker model: HQBG2512L), and 11 Pied Avocets (Recurvirostra avosetta) (Tracker model: HQBG1206H) were marked with satellite trackers. All the Black-tailed Godwits and Eurasian Curlews were captured in Tianjin, China; seven of the Pied Avocets were captured in Tianjin; and four were marked in Poyang Lake, China. The HQ series of micro-wildlife trackers manufactured in Changsha by Hunan Xinshi Technology Co., Ltd., were used, which weighed no more than 3% of the body weight of the tracked individuals. The trackers were set to return signals every 1 to 6 h. Data on migration cycles were only obtained for 18 Black-tailed Godwits, 11 Eurasian Curlews, and 6 Pied Avocets, as some satellite trackers failed as a consequence of battery depletion, satellite malfunction, or bird mortality. These data are stored in Movebank (https://www.movebank.org/) under ID 7,039,278,320 and 407,401,692.
+
+All GPS data needed to be cleaned before they could be used in subsequent analyses. To ensure accuracy of the data, only points with acceptable levels of coordinate uncertainty (< 20 m of ground distance between the localization coordinates and actual coordinates) were retained; points with < 5 m, 5 to 10 m, and 11 to 20 m of distance between localization coordinates and actual coordinates were classified as A, B, and C, respectively (i.e., the accuracy decreased from A to C). These criteria were used to exclude points with errors greater than 20 m, which helped avoid distortion in the habitat distribution and node identification and ensured that spatial errors were within acceptable thresholds. Additionally, we excluded fixes indicating bird movements with non-zero speeds to ensure that retained locations corresponded exclusively to resting or foraging activities. As a result, we retained 219,055 valid GPS fixes for Black-tailed Godwits, 828,077 for Eurasian Curlews, and 18,745 for Pied Avocets. These data included coordinates (longitude and latitude) and timestamps, which were used in subsequent analyses (Supplementary Fig. 1).
+
+Birds accumulate different energy reserves during spring and autumn migrations, which influence their flight capability, behavior, and migration routes under varying seasonal climatic conditions. In this study, we defined the breeding season as June to August, autumn migration as September to November, wintering as December to the following March, and spring migration as March to May, according to GPS tracking data from our study birds and published literature. Migratory network nodes were identified for each period, including the breeding, stopover, and wintering periods.
+
+To characterize the full migratory cycle without artificially separating continuous phases, we combined data from the breeding and autumn migration periods to represent southward migration, and data from the wintering and spring migration periods to represent northward migration. This allowed connectivity between nodes to be analyzed more accurately. We obtained a total of 37 complete northward and 42 complete southward migration tracks for subsequent analysis. We used ArcGIS 10.8 to visualize the flight trajectories of different species in both directions (Supplementary Fig. 2). Furthermore, the migration period of each individual used in subsequent analyses and the corresponding southward and northward migration periods are provided in Supplementary Table 1.
+
+Land cover data
+
+To assess habitat loss at each migratory network node, we mapped the habitat distributions for each species at various stages in their annual cycles. Because detailed habitat information along migration routes is limited and knowledge of variation in habitat use among life stages is incomplete for some species, we defined habitats based on classifications provided by the IUCN and relevant literature with land cover data in 2017 and 2022 from the European Space Agency’s CCI 300 m annual global land cover product (esa-landcover-cci.org). We used land cover data from 2017 to 2022 because our tracking data spanned 2017 to 2025. To ensure the accuracy of the subsequent results in the habitat change analysis, we used the 2017 land cover data to represent the habitat conditions in 2017 and the land cover data from 2022, the latest year of the same series of data products currently available, to represent the land cover conditions in 2025.
+
+Breeding habitats for Black-tailed Godwits and Eurasian Curlew included forests, shrubs, grasslands (including sparse grasslands), and water bodies. The breeding habitats for Pied Avocets included grasslands, sparse grasslands, and water bodies. In the non-breeding period, farmland, grasslands (including sparse grasslands), and water bodies were classified as habitat for Black-tailed Godwits and Pied Avocets. Eurasian Curlews primarily utilized grasslands, sparse grasslands, and water bodies. The category “water bodies” included inland wetlands, intertidal marine zones, and other wetland types.
+
+Migratory network construction
+
+We constructed the migration network in three steps: home-range identification, node detection via the Space–Time Permutation Model (STPM), and network construction using a shortest-path algorithm. First, we computed individual utilization distributions (UDs) from cleaned tracking data to delineate each individual’s activity area (home range) across the annual cycle. Because UDs are smoothed and may be spatially extrapolative, home range boundaries commonly extend beyond the true clustering of GPS locations and therefore are not appropriate to use directly as node units. To obtain more accurate core-use areas, we re-extracted the GPS fixes that fell within each home range and incorporated temporal information; we then applied the STPM to identify statistically significant space–time clusters that account for dwell time; these clusters were defined as migration-network nodes. Finally, using diffusion rates and feasible connecting paths between nodes, we applied a shortest-path algorithm to build directed/weighted migration networks that reflect movement flows and potential connectivity among nodes.
+
+Home range identification
+
+We calculated these ranges using kernel density estimation, a widely applied method for identifying areas frequently utilized by animals. The utilization distribution (UD) was computed using the ‘kernelUD’ function from the adehabitatHR package in R according to valid GPS fixes. The getverticeshr function was used to extract the home range within the UD. We used the 90% UD for Pied Avocets and Black-tailed Godwits to balance capturing core habitat use with occasional peripheral activity, which is suitable for these species’ long-distance migratory patterns. For Eurasian Curlews, whose migratory movements were comparatively shorter, we used the 95% UD. The 95% UD was used to capture Eurasian Curlew movements, as its migratory routes were shorter than those of other species. The extracted home ranges were converted into an sf object using the st_as_sf function in the ‘sf’ package. Data analyses were performed using R 4.4.0.
+
+Node identification
+
+The STPM is a nonparametric statistical method designed to detect significant clusters of events in space and time without predefined assumptions. The model constructs a Log Likelihood Ratio (LLR) distribution under non-aggregation conditions by iteratively and randomly replacing the timestamps of GPS fixes (preserving their spatial locations and global temporal distribution). The LLR of each window was used as a measure of the aggregation strength, with larger LLR values representing a higher degree of aggregation in that region during the corresponding time period. Ultimately, the scanning window with the largest LLR value was defined as the maximum-likelihood cluster (i.e., the most significant hotspot region for a given spatial and temporal edge distribution), and the window that does not overlap with the maximum-likelihood cluster and with the next highest LLR value was defined as the second-likelihood cluster. We defined stopover places (nodes) as areas where individuals remained stationary for at least 48 h. To ensure nodes represented consistent, meaningful aggregation zones rather than dispersed events, each node needed a minimum of 50 GPS fixes, with cumulative use by all individuals of at least one week across multiple migration seasons.
+
+The maximum-likelihood aggregation areas and the second-likelihood cluster in the output of the STPM were considered space-time aggregation areas and defined as nodes in the migratory network (Supplementary Fig. 1). In SaTScan’s design, the “window” used for space-time scan statistics is a cylinder with an elliptical base (this allows for the use of elliptical scan windows in space). Therefore, in the exported core area .shp file, each cluster is represented as an elliptical polygon. SaTScan selects the ellipse that best matches the point data clustering among all possible combinations of ellipse shape, size, and rotation angle.
+
+To more clearly visualize the home ranges and the boundaries of the calculated nodes, we used different colors to visualize each species’ valid points, the sf objects calculated on the basis of the home ranges, and the node boundaries output by the STPM model in ArcGIS 10.8. For each species, three areas were selected for closer inspection, and detailed information was presented on the right using thematic mapping for ease of reference. Finally, the detailed home range and node distribution are presented in Supplementary Fig. 1.
+
+The centroid coordinates of these clusters were used as node locations. STPM analyses were conducted in SaTScan software (v10.2.5). Detailed node coordinates and identifiers are provided in Supplementary Table 2.
+
+Network construction
+
+Using the predefined northward migration data and southward migration data, we first built separate networks for northward and southward migration by linking nodes that birds traveled between in each direction.
+
+Migration lag was used as an indicator of the migratory ability of the three species. The geodesic distance between two adjacent space–time aggregation areas was defined as the migration lag value. To calculate the maximum migration lag and average migration lag for a species across different migration networks, we first computed the STPM results for each individual of each species under each migration network, obtaining the distance between each adjacent node to represent the migration lag value of the individual (Supplementary Table 3). Next, we extracted the maximum and average migration lag values for all individuals of the species in that network. We then considered any pair of nodes separated by a distance less than or equal to the maximum lag as directly connected. The probability of a species migrating from one location to another tends to decrease as the distance between the two locations increases. The diffusion probability (Pij) between nodes was calculated using the diffusion distance between nodes and the principle of exponential decay. Dij is the distance between the center coordinates of locations i and j; k is a constant with a value of Dij equal to the average of the migration lag of the target species, which corresponds to the value of k when Pij is 50%.
+
+The diffusion probability represents the connection likelihood between location i and location j. Moreover, the reciprocal of the diffusion rate was used to represent the weighted length between nodes. This weighted length takes into account the migration lag value, flight ability, and diffusion probability to quantify the cost of migration to a certain degree. The inverse of the diffusion probability as a weighted path length means that when the probability of dispersal between a pair of sites is high, birds are more likely to migrate via that path, with a lower “migration cost”; however, a lower probability of dispersal corresponds to a larger path length, which means that the path is more costly and the likelihood of migration is lower.
+
+For each pair of sites within the migration network, the Dijkstra algorithm was used to determine the shortest path, which was defined as the minimum weighted path length between two nodes. The Dijkstra algorithm is a classic shortest path search method that starts from a source node and iteratively explores nodes with the minimum cumulative weight value, which eventually yields the shortest path to the target node. The shortest_paths() function of the igraph package was used to calculate the shortest path between each pair of nodes in the graph and count the nodes (including endpoints) passed in each shortest path. Ultimately, the shortest paths between all site pairs together formed the entire migration network. To facilitate interpretation of the migration network, we used Microsoft Visio to draw a schematic diagram of the network (Fig. 1).
+
+Schematic diagram of migration networks and critical nodes. The circles represent nodes and their size corresponds to their importance in the migratory network. The paths connected by the red circles correspond to the shortest weighted paths from the breeding site to the wintering site
+
+Node importance assessment
+
+In network analysis, node importance is commonly quantified by indices characterizing a node’s connectivity and role, with degree and betweenness centrality being two of the most widely used metrics. Degree represents the number of direct connections a node has, representing its local importance. Node betweenness, by contrast, is a network topological feature that reflects the extent to which a node acts as a “mediator” or “bridge” in a network. It is calculated as the proportion of shortest paths between all pairs of nodes in the network passing through that node; it thus highlights the nodes that play a regulatory role in global connectivity and helps identify bottlenecks along migratory paths. Node degree only considers the correlation between a node and its connected neighbors and thus represents the local importance of nodes, whereas node betweenness centrality characterizes the regulatory role of a node in the global network structure, thus enabling “bottleneck nodes” critical for connecting migration pathways to be identified. In this study, we normalized the number of shortest paths passing through each node by the total number of paths in the network. The normalized betweenness values were used as node betweenness scores for each node in subsequent studies.
+
+To further determine which metric better represents the influence of nodes on network connectivity and confirm the robustness of the results, we conducted node removal simulations on six migration networks. Nodes were sequentially removed in descending order of betweenness and degree, and network robustness was evaluated by monitoring changes in the average shortest path length and global efficiency as nodes were removed. The area under the curve (AUC) was used to quantify the robustness of a network when nodes were gradually removed. A lower AUC value indicates that the network fragments more quickly, and therefore is more sensitive to removal strategies. A smaller AUC corresponds to a metric that is more suitable for characterizing node importance. Across networks, the average AUC values of removal methods based on betweenness were significantly lower than those of removal methods based on degree (t = -2.607, df = 5, p = 0.048, 95% CI = [-0.245, -0.002]) (Supplementary Table 4). Betweenness was thus selected as the primary metric for evaluating node importance in our subsequent connectivity analyses.
+
+To evaluate node importance, we used the natural breaks method (Jenks optimal classification) to classify betweenness in the migratory networks of each bird species. Natural breaks (also known as Jenks optimal classification) is a statistical method commonly used to classify continuous data into distinct classes. Nodes were classified for each migration direction for each of the three bird species. We used an iterative approach to minimize the variance within each class (within-class variance) and maximize the variance between classes (between-class variance), which ultimately yielded the two optimal locations of the breakpoints and divided the nodes into three groups. Nodes with betweenness values in the top two intervals were classified as critical nodes, whereas nodes with betweenness values in the lowest interval were classified as substitutable nodes (Fig. 1).
+
+We compared node betweenness across the three important annual cycle stages (breeding, stopover, wintering) for each species. Because the distributions of the data were not normal, betweenness among stages was evaluated using a non-parametric one-way ANOVA, along with effect-size calculations (η²) and post hoc Tukey HSD tests. Additionally, we applied generalized linear models (GLM) with a gamma distribution and log link function to evaluate betweenness as a function of life-cycle period; significance was assessed using Type II Wald chi-square tests. Data analyses were performed using R 4.4.0, and the threshold for statistical significance was p < 0.05. Figures were made using Origin 2025.
+
+We used ArcGIS 10.8 to visualize node distributions for each species, with circle size representing node importance and colors distinguishing life-cycle stages (e.g., breeding, stopover, and wintering periods). Comparative diagrams of node degree across stages, generated using Origin 2025, were embedded into the species diagrams using ArcGIS 10.8 to provide a comprehensive view of node importance across species and migration stages.
+
+Habitat changes for critical nodes
+
+We characterized habitat changes for critical nodes between 2017 and 2022. The extracted habitat types for the different stages of the life cycle in the nodes are provided in the section “Land cover data.” We obtained habitat information in 2017 and 2022 by clipping extracted habitat layers on the basis of the node boundaries generated by the STPM in ArcGIS 10.8. We calculated the corresponding habitat area in 2017 and 2022 and quantified habitat change using the rate of habitat change from 2017 to 2022 (Formula 2).
+
+For each species, the percentage of critical nodes with a declining habitat trend was calculated. The percentage of critical nodes with habitat declines was then calculated for different life cycle stages.
+
+To visualize the rate of habitat change within critical nodes for different species, we created a scatter plot of habitat change at each species’ key node. Furthermore, for nodes experiencing habitat loss, we compiled statistics on their life history cycles and created pie charts. All visualizations were created in Origin 2025.
+
+Priority conservation areas
+
+We obtained the importance of each node and the rate of habitat change from the analyses described above. To identify priority conservation areas, we considered not only node importance and habitat loss but also existing conservation coverage. Specifically, we overlaid the distribution of key nodes with the boundaries of the World Conservation Areas Database (as of August 2024, accessible at protectedplanet.net) to assess the conservation status of the nodes. We collected relevant information on key nodes, including node importance, longitude, latitude, and the conservation status of the three species (Supplementary Table 2). We defined unprotected critical nodes that have experienced habitat loss as priority conservation areas. Ultimately, we obtained a directory of priority conservation areas, which included specific location information and the conservation status of habitats.
+
+For nodes within priority conservation areas, we combined their 2022 habitat area, habitat loss rate, and node betweenness to calculate an importance index I (Formula 3) for ranking sites. Because smaller sites are more vulnerable to higher ratios of LULC change, we normalized the 2022 habitat area for each site using maximum value normalization to calculate the normalized area index Ai. The habitat area and Ai values corresponding to each conservation priority area site are shown in Supplementary Table 5. Node betweenness and habitat change rates are dimensionless and were therefore directly used for calculation. In general, larger Betweenness values, larger habitat change rate, and smaller habitat areas correspond to higher importance indexes I.
+
+To identify priority conservation areas, distribution maps were created on the basis of node centroid coordinates. Additionally, thematic mapping techniques were used to depict existing habitats and habitat loss within each priority conservation area, which provided a visual representation of the extent of habitat loss within each area. In ArcGIS 10.8, the two maps were combined to fully illustrate the distribution of all protected priority areas and the extent of habitat loss within each protected priority area.
+
+We used Microsoft Visio to construct a detailed flowchart of the data processing workflow and annotated key parameters (Fig. 2).
+
+Flowchart of the data processing procedure. Diamonds show the methods used, cylinders show the input or output data or results, the rectangles show descriptions of the results, and the rounded rectangles show the analytical procedures used for data processing
+
+Results
+
+Nodes in the migratory networks
+
+We identified 39, 14, and 34 nodes in northward migration networks and 72, 23, and 47 nodes in southward migration networks for the Black-tailed Godwit, Eurasian Curlew, and Pied Avocet, respectively (Fig. 3). For the Black-tailed Godwit, average northward and southward migration lags between node sites were 352.40 ± 873.19 km (SD) and 234.87 ± 804.13 km (SD), respectively, with maximum lags of 4,884.82 km and 5,807.52 km. For the Eurasian Curlew, average northward and southward migration lags between node sites were 114.10 ± 384.84 km (SD) and 84.07 ± 258.27 km (SD), respectively, with maximum values of 1,916.35 km and 1,584.31 km, respectively. The Pied Avocet had northward and southward migration lags of 84.04 km ± 163.94 km (SD) and 173.41 ± 335.55 km (SD), respectively, with maximum values of 869.15 km and 1,065.98 km (Table 1).
+
+Migratory networks and nodes for three species and differences in node betweenness among the breeding, stopover, and wintering periods. From left to right are the Black-tailed Godwit, Eurasian Curlew, and Pied Avocet. The layer in the lower left corner for the Eurasian Curlew and Pied Avocet is consistent with the spatial range in the Black-tailed Godwit layer, which was used to compare the size of the migration ranges of the three species. The dots in the figure represent nodes, and different colors correspond to different periods (the specific colors are shown in the legend). The size of the dots indicates the different node betweenness classes. The large dots are critical nodes, and the small dots are substitutable nodes. The red numbers correspond to the node IDs. The box plots in the lower right corner of the three layers show the differences in node betweenness in different periods. Significant differences are inferred when the P-value is less than 0.05 (indicated by *). The hollow circles in the box plot represent the mean of the node betweenness corresponding to that period. The boxes in the box plot indicate the maximum and minimum values of the data respectively. The black solid circles in the violin plot represent the node betweenness values corresponding to all nodes in that period
+
+Average migratory distance between nodes and maximum migration lag for the three species
+
+Species	Average distance between nodes (km)	Maximum migration lag (km)	 	Northward migration network	Southward migration network	Northward migration network	Southward migration network	 	Black-tailed Godwit	352.40 ± 873.19	234.87 ± 804.13	4884.82	5807.52	 	Eurasian Curlew	114.10 ± 384.84	84.07 ± 258.27	1916.35	1584.31	 	Pied Avocet	84.04 ± 163.94	173.41 ± 335.55	869.15	1065.98
+
+We classified 25 nodes as critical for Black-tailed Godwits, including the Lena River basin (130), Tianjin coast (165), and Gulf of Thailand between the Mekong River and Kolok River (188) (Fig. 3). A total of 13 and 24 nodes were classified as critical and substitutable, respectively, for Eurasian Curlews, which included the Tianjin coast (1), Lake Baikal basin (3), and Lena River basin (32). For Pied Avocets, 16 critical nodes and 65 substitutable nodes were identified, and these were primarily located along the Tianjin coast (43,86), Binzhou coast (57), and Weifang coast (88).
+
+Node betweenness did not significantly differ among periods for Black-tailed Godwits (χ² = 5.09, df = 2, p = 0.079), although wintering values tended to be lower than stopover values (Tukey: p = 0.073). Significant differences in node betweenness among periods were observed for the Eurasian Curlew (χ² = 7.87, df = 2, p = 0.020), and betweenness was lower for the wintering period than for the stopover period (Tukey: p = 0.013). Similarly, significant differences were observed for the Pied Avocet (χ² = 9.32, df = 2, p = 0.009), and betweenness values were higher during the stopover period than during other periods (Tukey: p = 0.009) (Fig. 3).
+
+Habitat changes in critical nodes
+
+We quantified the change in habitat area between 2017 and 2022 at critical nodes (Fig. 4). Habitat loss was observed in 44% of critical nodes for the Black-tailed Godwit, including a marked 5% loss at Minle nao lake (ID: 200). Habitat loss was observed in 53.85% of nodes for the Eurasian Curlew, including the Amur River basin (-2.43%, ID: 33) and Huludao coast (-2.24%, ID: 35). Approximately 50% habitat loss was observed in all 16 critical Pied Avocet nodes, including a significant 21.49% reduction at Haoyao Sumu Forest Farm (ID: 40). Over half of the nodes with habitat loss were stopover areas (81.82%, 71.43%, and 75.00% for the Black-tailed Godwit, Eurasian Curlew, and Pied Avocet, respectively).
+
+The percentage change in habitat area for critical nodes for the three species. From left to right are the Black-tailed Godwit, Eurasian Curlew, and Pied Avocet. The circles in the figure represent the node betweenness of critical nodes and the corresponding habitat loss. The numbers represent the proportion of nodes with habitat loss among all critical nodes, and the distribution of critical nodes with habitat loss in each period is shown in the pie charts. Different colors in the pie chart indicate different periods (as shown in the legend, orange indicates the stopover period and green indicates the wintering period), where the numbers indicate the percentage of nodes with habitat loss in the corresponding period as a percentage of all nodes with habitat loss
+
+Identification of priority conservation sites
+
+A total of 23 critical nodes (comprising 10.04% of all nodes) were identified as priority conservation sites, and these were primarily located in Russia, Thailand, and China (Fig. 5; Table 2). Sites with most significant importance index included the Haoyao Sumu Forest Farm (40), Tianjin coast (43) and Minle nao lake (200). Sites with the most significant habitat loss included the Haoyao Sumu Forest Farm (40), Tianjin coast (43), and Sumoyin Nuur (95). The Tianjin coast was particularly critical for Black-tailed Godwit and Eurasian Curlew connectivity, but substantial habitat loss was observed in this region.
+
+Priority conservation sites and habitat loss. Numbers from 1 to 23 show the importance index for the 23 priority conservation sites from highest to lowest. The red area represents lost habitat, and the green area represents habitat within the 2022 node. Other colors represent land types other than habitat, which were not included in the analysis
+
+The identified priority conservation sites along the migratory routes
+
+Node ID	Species	Latitude	Longitude	Located regions	Habitat change (%)	I	 	40	Pied Avocet	44.3713	122.2200	Haoyao sumu forest farm, Inner Mongolia Autonomous Region, China	-21.49	21.76	 	43	Pied Avocet	39.1614	117.6350	Tianjin coast, Tianjin, China	-17.46	18.10	 	200	Black-tailed Godwit	41.8554	114.0891	Minle nao lake, Inner Mongolia Autonomous Region, China	-5.00	6.44	 	7	Eurasian Curlew	52.8587	111.7203	Lena River basin, Buryatia Republic, Russia	-1.07	3.96	 	150	Black-tailed Godwit	14.1780	100.9508	Basins draining into Gulf of Thailand between Mekong River and Kolok River, Nakhon Nayok, Thailand	-1.86	2.67	 	220	Black-tailed Godwit	45.5833	117.9153	Sumoyin nuur, Inner Mongolia Autonomous Region, China	-4.35	2.40	 	35	Eurasian Curlew	40.7956	120.9690	Huludao coast, Liaoning Province, China	-2.24	1.93	 	95	Pied Avocet	45.5680	118.1694	Sumoyin nuur, Inner Mongolia Autonomous Region, China	-5.19	1.50	 	86	Pied Avocet	39.2573	117.9192	Tianjin coast, Tianjin, China	-2.90	1.45	 	155	Black-tailed Godwit	45.5624	117.6107	Ulagai gobi, Inner Mongolia Autonomous Region, China	-2.08	1.27	 	1	Eurasian Curlew	39.1853	117.9204	Tianjin coast, Tianjin, China	-2.12	1.03	 	14	Eurasian Curlew	45.5862	117.7757	Ulagai gobi, Inner Mongolia Autonomous Region, China	-1.29	0.99	 	175	Black-tailed Godwit	43.2969	116.9345	Gangengnur lake, Inner Mongolia Autonomous Region, China	-0.71	0.92	 	188	Black-tailed Godwit	13.4757	101.1631	Basins draining into Gulf of Thailand between Mekong River and Kolok River, Pachunthani Province, Thailand	-2.26	0.74	 	83	Pied Avocet	44.2267	122.7676	Ruyi lake, Inner Mongolia Autonomous Region, China	-0.35	0.66	 	213	Black-tailed Godwit	37.3094	118.8863	Yellow River delta, Shandong Province, China	-0.47	0.34	 	191	Black-tailed Godwit	39.2184	118.2471	Tangshan coast, Hebei Province, China	-0.21	0.32	 	59	Pied Avocet	34.8041	119.2384	Lianyungang coast, Jiangsu Province, China	-0.31	0.28	 	114	Pied Avocet	34.8038	119.2309	Tianjin coast, Tianjin, China	-0.37	0.18	 	87	Pied Avocet	37.1767	118.9620	Weifang coast, Shandong Province, China	-0.30	0.16	 	28	Eurasian Curlew	39.0300	118.2936	Tangshan coast, Hebei Province, China	-0.35	0.10	 	127	Black-tailed Godwit	38.1968	117.8128	Lena River basin, Sakha Republic, Russia	-0.26	0.07	 	165	Black-tailed Godwit	38.6122	117.5894	Tianjin coast, Tianjin, China	-0.76	0.05
+
+Discussion
+
+A well-connected migration network reduces risks and enhances species’ ability to complete their annual cycles by linking breeding, stopover, and wintering habitats. Networks with diverse routes and multiple nodes provide greater resilience to environmental changes. Identifying and protecting critical nodes thus enhances the effectiveness of conservation strategies. Here, we applied a network-based approach using graph theory and migration cost analyses to identify these critical nodes and help policymakers prioritize unprotected areas for conservation.
+
+Node importance in migratory networks
+
+Previous studies assessing habitat importance have often relied on single metrics such as population size or habitat suitability during specific life-cycle stages. For example, most previous studies have focused on identifying coastal habitats of international importance for waterbirds using bird count data from multiple species. However, these approaches overlook the spatial configurations of migratory networks for specific species, including migration distance and flyway breadth, and may underestimate the significance of interconnected habitats throughout the entire migratory route. In this study, we used the betweenness metric to determine critical nodes from a species-specific migration network perspective. By incorporating the internal connectivity of habitat patches between breeding and non-breeding periods, this approach identifies nodes that enable birds to complete their migrations with minimal energy expenditure.
+
+Most of the critical nodes for the Black-tailed Godwit, Eurasian Curlew, and Pied Avocet identified by our study were located in boundary areas identified by BirdLife International, such as Inner Mongolia, Bohai Bay, Poyang Lake, and Thailand Bay. Our findings further revealed previously undocumented nodes or changes in habitat use. For example, the Tianjin coastal wetlands were identified not only as stopover sites but also as critical wintering habitats for Eurasian Curlews, which potentially reflects a northward range shift caused by climate change. Our study generated the first migratory network and node distribution for Eurasian Curlews along the EAAF, which included key nodes in Russia, Mongolia, and Inner Mongolia, China. Additionally, we highlighted previously overlooked critical breeding sites for Black-tailed Godwit in the Lena River basin, Russia. The discovery of breeding nodes for Pied Avocets in Northeast Inner Mongolia (Sumoyin Nuur) also expanded our knowledge beyond known breeding sites in Bohai Bay and Northwest Inner Mongolia.
+
+The betweenness metric in this study measured site importance via the least-cost paths between breeding and wintering sites across the entire migratory network. This differs from other network metrics, such as node degree, which quantifies the total strength of connections between a focal site and its surrounding nodes. The identification of critical node based on betweenness metric actual considering least energy consumption to complete annual migration, which has been reported for migratory geese and swans. While betweenness metric provides valuable insights, it only captures one dimension of node importance. Ecological parameters, including habitat area, availability of alternative sites, food resources, human disturbance, and predation pressure, also significantly influence site importance, especially at smaller nodes that are disproportionately vulnerable to the deleterious effects of habitat loss. It is possible to integrate ecological variables with connectivity metrics, developing weighted indices for more comprehensive assessments.
+
+Habitat loss in critical nodes
+
+Nodes identified as critical during stopover periods experienced the highest rates of habitat loss. This is consistent with the findings of previous studies indicating that stopover sites are some of the most vulnerable sites in migratory networks. Most of these critical habitat losses are located in coastal wetlands and regions in northern and northeastern China. These regions located the overlapping hotspots between human population and waterbird movement, which could contribute to frequent habitat reduction in stopover periods. China experienced extensive land reclamation and urbanization before 2015, this trend has been obviously relieved attribute to the formulation of ecological conservation and restoration policies since 2015. For example, the relevant laws and regulations prohibiting land reclamation such as the ‘Circular of the State Council on Strengthening the Protection of Coastal Wetlands and Strictly Regulating Sea Enclosure and Reclamation’ has effectively alleviated the coastal wetlands loss. Additionally, in inland areas, wetland restoration such as ecological water replenishment improved wetland functional connectivity and slowed wetland degradation. These could explain that why the overall decrease rate remains relatively low between 2017 and 2022 in our study.
+
+Frequent reuse of specific stopover sites by shorebirds increases their relative importance, which is indicated by their higher betweenness values during migration. It has been reported that crucial node loss could reduce overall network resilience cause to population decrease or mobility reduce for migration birds. Therefore, it is very necessary to implement program protection measures for these important nodes.
+
+Critical nodes in the stopover period support multiple least cost paths, and their removal may also force individuals to use substitutable nodes. For example, the population size of two Red Knot subspecies along the EAAF increased from 13% in 2007 to 62% in 2010 on the north Tangshan coast because of land reclamation on the Tianjin coast. Additionally, from 1996 to 2014, the area of tidal flats in the Yellow Seas decreased by 35.6%, and shorebird population size only decreased by 7.8%. This suggests that most shorebird individuals colonized nearby habitats when an important stopover node was lost. It is worth noting that longer distance to alternative nodes could decrease the migration probability. For example, Great Knots shifted to alternative sites only when they were located nearby. Therefore, maintaining the network connectivity and habitat quality of nearby stopover sites is essential when critical nodes are lost.
+
+The status of nodes in other periods than the stopover period is often overlooked. Although betweenness in breeding nodes were lower than that in stopover ones, the number of breeding node is least at all periods. This suggests that migratory birds have fewer opportunities to shift to nearby substitutable nodes if a critical breeding node is lost in the breeding period. For example, two subspecies of the Black-tailed Godwit in Asia, L. l. bohaii and L. l. melanuroides, are projected to experience major reductions in their current breeding ranges under future climate change and undergo northward range shifts. Such shifts will result in increased energy expenditure, higher mortality risks, and potentially reduced reproductive success.
+
+Habitat loss at a stopover site is difficult to compensate for by conserving other sites. It is therefore essential to protect existing unprotected critical nodes (Table 2), including those in the Haoyao Sumu Forest Farm, Tianjin coast, Minle nao lake and Lena River basin. These sites should be considered for inclusion in flyway site networks, such as those of the East Asian–Australasian Flyway Partnership (EAAFP).
+
+For substitutable nodes (Supplementary Table 2), long-term monitoring of birds and their habitats in these regions is needed to develop conservation grounded in evidence-based management. For example, many saltpans near critical nodes in coastal wetlands in Bohai Bay (Node ID: 2, 10, 15, 16, 17, 18, 24, 26, 125, 136, 139, 140, 141, 146, 173, 193, 207, 212) provide high-tide habitat and foraging sites . Monitoring bird diversity and habitat quality at these alternative nodes, alongside adjacent critical sites, is essential for refining protection strategies for specific priority areas.
+
+Limitations and future work
+
+The primary limitation of this study is the relatively small number of GPS-tracked individuals, which may have introduced bias and led to incomplete node identification. For example, limited tracking data for Pied Avocets likely explained our failure to detect them in known important wintering areas along the coasts of Zhejiang and Guangdong. Information on the two Asian Black-tailed Godwit subspecies (L. l. limosa and L. l. melanuroides) was also insufficient. Consequently, generalization of our findings across entire species ranges requires caution.
+
+Ecological variables such as habitat conditions and water levels were broadly classified using IUCN categories and remote-sensing products, lacking detailed ecological specificity. Seasonal variability in remote-sensing data also introduces uncertainty that potentially affects habitat characterization. In future studies, high-resolution ecological data should be used, and habitat changes should be characterized over the same periods as the tracking data to reduce uncertainty.
+
+Continued tracking over broader geographic areas and the development of integrated metrics represent essential next steps. Public sharing of raw and intermediate datasets (e.g., via Movebank or supplementary materials) will enhance transparency, enable robustness checks, and facilitate broader comparative analyses. In addition, integrating open birdwatching data from the Global Biodiversity Information Facility (GBIF) and eBird to expand data sources can better obtain unknow nodes.
+
+Conclusion
+
+This study identified critical nodes for three common shorebird species along EAAF and their habitat variation using a network-based approach integrating limited GPS tracking and habitat information. Node importance was generally highest during the stopover period, which also showed the greatest habitat loss (over 50% of critical stopover nodes). Conserving unprotected critical stopover nodes such as Haoyao sumu forest farm and Tianjin coast, and maintaining both the network structure and habitat quality of nearby substitutable nodes is essential. In the future, expanded GPS tracking across full annual cycles and combined birdwatching data will be crucial for identifying additional critical sites. Moreover, developing integrated node metrics that combine network connectivity with ecological attributes (habitat area, food availability, water levels, disturbance, and predation pressure) will enable more comprehensive assessments and help prioritize migratory shorebird conservation.
+
+Supplementary Information
+
+Below is the link to the electronic supplementary material.
+
+Publisher’s note
+
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+Author contributions
+
+H.L. D. and Q. X. planned and designed the research; H.L. D., Q. X., X.B. Y. and S.X. X collected data; H.L. D. and Q. X. analyzed data and wrote the manuscript; and H.L. D., Q. X., B.R. Zhu. and Z.W. Z collaboratively revised the manuscript.
+
+Funding
+
+This research was jointly supported by the National Key Research and Development Program of China (No. 2022YFF0802400), the National Natural Science Foundation of China (No. 42101105, 32270518), and the Science and Technology Basic Resources Survey Project (2021FY101002).
+
+Data availability
+
+Data will be made available on request.
+
+Declarations
+
+Ethics approval and consent to participate
+
+Not applicable.
+
+Consent for publication
+
+Not applicable.
+
+Competing interests
+
+The authors declare no competing interests.
+
+References
+
+The migration ecology of birds [Internet]. Elsevier. 2007. Available from: https://linkinghub.elsevier.com/retrieve/pii/B9780125173674X50001. Accessed 10 Mar 2025.
+
+Migratory animals couple biodiversity and ecosystem functioning worldwide
+
+A Meta‐Analytic review of corridor effectiveness
+
+A well-connected earth: the science and conservation of organismal movement
+
+Loss of functional connectivity in migration networks induces population decline in migratory birds
+
+Rapid population decline in migratory shorebirds relying on yellow sea tidal mudflats as stopover sites
+
+Migratory connectivity magnifies the consequences of habitat loss from sea-level rise for shorebird populations
+
+A systematic network-based migratory bird monitoring and protection system is needed in China
+
+Conserving unprotected important sites for shorebirds on china’s Coasts
+
+Identifying conservation priority sites and gap for the waterbirds’ habitat in the yellow river Basin, China
+
+Priority sites and conservation gaps of wintering waterbirds in the Yangtze river floodplain
+
+Identifying priority sites and gaps for the conservation of migratory waterbirds in china’s coastal wetlands
+
+Crosby M, Wee SQW, Yong DL, Allport G, Chowdhury S, Xiaojing G et al. An innovative approach in identifying a network of priority wetland sites in the East Asian-Australasian flyway for a new sustainable management investment programme [Internet]. 2025. Available from: http://biorxiv.org/lookup/doi/10.1101/2025.03.05.641701. Accessed 21 June 2025.
+
+Integrating maxent model and landscape ecology theory for studying Spatiotemporal dynamics of habitat: suggestions for conservation of endangered Red-crowned crane
+
+Habitat suitability and potential biological corridors for waterbirds in Yancheng coastal wetland of China
+
+Species-dependent effects of habitat degradation in relation to seasonal distribution of migratory waterfowl in the East Asian–Australasian flyway
+
+A network approach to prioritize conservation efforts for migratory birds
+
+Habitat networks simulation and sustainable optimization policies for sectional functional impairments based on land – Species coupling
+
+Land use-driven shifts in shorebird habitat connectivity along the yellow and Bohai sea coasts: dynamics and scenario predictions
+
+Prioritizing global conservation of migratory birds over their migration network
+
+IUCN Red List of Threatened Species [Internet]. Available from: https://www.iucnredlist.org/. Accessed 4 Feb 2025.
+
+Tidal flats of the Y Ellow S ea: A review of ecosystem status and anthropogenic threats
+
+Movement and habitat selection of a large carnivore in response to human infrastructure differs by life stage
+
+Temporal and Spatial evolution of herbivorous waterbird habitat in floodplain wetland driven by hydrology
+
+A method to predict connectivity for nomadic waterbird species from tracking data
+
+Reconstruction of Population-Level migration trajectories of Black-Faced spoonbill (Platalea minor) based on citizen science data
+
+BirdLife DataZone [Internet]. BirdLife DataZone. Available from: https://datazone.birdlife.org/. Accessed 11 June 2025.
+
+Zhu B. Asian Black-tailed Godwits as new players in comparative approaches to morphology, sexual size dimorphism and flyway ecology: [Internet]. University of Groningen; 2023. Available from: http://hdl.handle.net/11370/b422d61d-1a56-44ba-afbb-f18a3bbae3c1. Accessed 12 Jun 2025.
+
+Current breeding distributions and predicted range shifts under climate change in two subspecies of Black‐tailed godwits in Asia
+
+Identification of breeding grounds and annual routines of the newly discovered subspecies of Black-tailed godwits
+
+Combining satellite tracking and remote sensing to identify activity pattern and habitat selection of coastal shorebirds: A case study of pied avocets in Bohai Bay, China
+
+Differences in dietary specialization, habitat use and susceptibility to human disturbance influence feeding rates and resource partitioning between two migratory Numenius curlew species
+
+Tracking data demonstrate plasticity in migration behaviour of the East Asian pied Avocet Recurvirostra Avosetta
+
+A multi-perspective Understanding of population change in migratory species: A case study with pied avocets (Recurvirostra avosetta) in East Asia
+
+Age-dependent dispersal and habitat choice in black‐tailed godwits Limosa limosa limosa across a mosaic of traditional and modern grassland habitats
+
+Impacts of forest extent, configuration and landscape context on presence of declining breeding Eurasian curlew Numenius arquata and implications for planning new woodland
+
+Engelmoer M, Roselaar CS. Geographical variation in waders [Internet]. Dordrecht: Springer Netherlands; 1998. Available from: http://link.springer.com/10.1007/978-94-011-5016-3. Accessed 12 Jun 2025.
+
+Leprince R, Debenest E, Lartigau C, Turpaud-Fizzala V, Poirel C, Lachaussée N et al. Influence of habitat quality and diversity on two populations of Eurasian curlew (Numenius arquata) with contrasting dynamics in Western France. Ornis Fenn. 2022;00–00.
+
+Del Hoyo J. Handbook of the Birds of the World. Hoyo J del, editor. Ort nicht ermittelbar: Verlag nicht ermittelbar; 1996.
+
+Residency and space use Estimation methods based on passive acoustic telemetry data
+
+Ettwein A, Lanz M, Pasinelli G. Seasonal variation in home-range size of the white-backed woodpecker. J Ornithol [Internet]. 2024; Available from: https://link.springer.com/10.1007/s10336-024-02240-6. Accessed 16 Dec 2024.
+
+Calenge C. The package adehabitat for the R software: a tool for the analysis of space and habitat use by animals. Ecol Modell. 2006;197.
+
+Martin K. SaTScan_Users_Guide.pdf [Internet]. 2022. Available from: https://www.satscan.org/cgi-bin/satscan/register.pl/SaTScan_Users_Guide.pdf?todo=process_userguide_download. Accessed 16 Dec 2024.
+
+Kulldorff M, Heffernan R, Hartman J, Assunção R, Mostashari F. A space–time permutation scan statistic for disease outbreak detection. Blower SM, editor. PLoS Med. 2005;2:e59.
+
+Travelling to breed
+
+Bird satellite tracking revealed critical protection gaps in East Asian–Australasian flyway
+
+Potential suitable habitat distributionand conservation strategy for the Siberian Crane(Grus leucogeranus) at spring stopover sitesin Northeastern China
+
+Stopover duration of spring migrating dabbling ducks in the Wabash river Valley
+
+Madkour A, Aref WG, Rehman FU, Rahman MA, Basalamah S. A survey of shortest-path algorithms [Internet]. arXiv; 2017. Available from: https://arxiv.org/abs/1705.02044. Accessed 16 Dec 2024.
+
+Climate and dispersal limitation drive tree species range shifts in post-glacial europe: results from dynamic simulations
+
+The Nanling mountains of Southern China played a variable role as a barrier and refuge for birds depending upon landscape structure and timing of events
+
+Ammar A, ERA*. Enhanced relaxed A* algorithm for solving the shortest path problem in regular grid maps. Inf Sci. 2024;657:120000.
+
+Range-wide post- and pre-breeding migratory networks of a declining neotropical–nearctic migratory bird, the Blackpoll warbler
+
+Robustness and resilience of complex networks
+
+Node centrality in weighted networks: generalizing degree and shortest paths
+
+Chan AN. Identification of landscape features structuring movement connectivity for Namibian elephants. Landsc Ecol. 2024.
+
+Modeling utilization distributions in space and time
+
+The structure and robustness of ecological networks with two interaction types
+
+Identification of coastal wetlands of international importance for waterbirds: a review of China coastal waterbird surveys 2005–2013
+
+Migratory swans individually adjust their autumn migration and winter range to a warming climate
+
+Centrality in social networks conceptual clarification
+
+The architecture of complex weighted networks
+
+A review of predation as a limiting factor for bird populations in mesopredator-rich landscapes: a case study of the UK
+
+A case study from a critical stopover site in the East Asian-Australasian flyway provides lessons for optimal high-tide roost management to support shorebird conservation
+
+Cheng C, Hedenström A, Zhang S, Fang Y, Yang S, Bai Q et al. A lack of suitable roosts increases the threat of intertidal foraging habitat loss to migratory shorebirds. J Appl Ecol. 2025;1365-2664.70077.
+
+Rebound in china’s coastal wetlands following conservation and restoration
+
+Reducing human pressure on farmland could rescue china’s declining wintering geese
+
+The trajectory of wetland change in China between 1980 and 2020: hidden losses and restoration effects
+
+Zheng H, Huang Y, Zhang W, Song C, Zhang Q, Sun W et al. The implementation of ecological protection in inner Mongolia has slowed down grassland degradation. Fundam Res. 2024;S2667325824004321.
+
+China promotes coastal wetland restoration to protect wetland ecosystems
+
+Quantitative assessment of surface hydrological connectivity in Momoge National nature Reserve, Northeast China
+
+Site fidelity of migratory shorebirds facing habitat deterioration: insights from satellite tracking and mark-resighting
+
+Impacts of tidal land reclamation in Bohai Bay, china: ongoing losses of critical yellow sea waterbird staging and wintering sites
+
+Impacts of habitat loss on migratory shorebird populations and communities at stopover sites in the yellow sea
+
+Intraseasonal movements between staging sites by migrating great knots: longer distances to alternatives decrease the probability of such moves
+
+Long-distance migration: evolution and determinants
+
+How hazardous is the Sahara desert crossing for migratory birds? Indications from satellite tracking of raptors
+
+Assessing the performance of EU nature legislation in protecting target bird species in an era of climate change
+
+Mixed effects of Long-Term conservation investment in natura 2000 farmland
+
+Alternative habitat: the importance of the Nanpu saltpans for migratory waterbirds in the Chinese yellow sea

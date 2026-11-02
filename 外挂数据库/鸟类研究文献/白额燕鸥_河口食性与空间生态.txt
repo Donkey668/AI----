@@ -1,0 +1,295 @@
+中文鸟名：白额燕鸥
+文献标题：Spatial and trophic ecology of the estuarine Little Tern <i>Sternula albifrons</i>.
+DOI：10.1093/cz/zoaf005
+PMCID：PMC12547094
+全文来源：https://pmc.ncbi.nlm.nih.gov/articles/PMC12547094/
+下载日期：2026-11-02
+说明：开放获取论文的全文文本，保留原文语言；论文研究地区不一定是深圳。
+
+Spatial and trophic ecology of the estuarine Little Tern Sternula albifrons
+
+Abstract
+
+Little Terns Sternula albifrons are estuarine birds extensively using increasingly urbanized coastal areas. Given the increased exposure of these ecosystems to anthropogenic activities, it is crucial to study the ecology of this species and interactions with human stressors to establish management measures. We collected regurgitates (n = 182) and blood samples (n = 48) to study Little Terns’ diet, health condition and isotopic niche, and individually tracked breeding adults (n = 9, during 2021 and 2022) at 2 sandy beaches 21 km apart and located within Ria Formosa Natural Park, Algarve, Portugal. Although both areas are adjacent to foraging coastal marine areas and an estuarine lagoon system with saltpans, they differ in human disturbance. We also compared breeding success and adult health measures between these 2 colonies. The main prey for both populations were Sand Smelts Atherina spp. and Gobies Pomatoschistus spp., and no differences in δ13C and δ15N stable isotopic values between colonies were found. Tracking data revealed that individuals foraged in the surroundings of their breeding colonies. Entrance Channels and Ocean were the most frequently used habitats for foraging by individuals from the less disturbed colony. Adults from the more disturbed colony foraged mostly in Entrance Channels. Overall, all individuals tended to forage during daytime. There were no differences in health measures of individuals between colonies, though breeding success at the most disturbed colony was comparably lower. It is important to protect both breeding areas and adjacent foraging habitats for Little Terns, particularly given the expected increasing pressure from human activities on coastal areas worldwide.
+
+Graphical Abstract
+
+Lagoon and marine coastal habitats are very important for biodiversity and provide many ecosystem services. These ecosystems have a high biological and socio-economic value, as they serve as nursery grounds for many fish and shellfish species, and support activities, such as tourism, fisheries, and salt extraction. Coastal and estuarine birds, such as Little Terns (Sternula albifrons), choose coastal habitats such as sandy beaches, as breeding sites due to the proximity to the coast, but also lagoons and connecting channels. Therefore, studying Little Terns ecology and their breeding and foraging behaviors will provide valuable insights into the ecological roles they play and the challenges they face in these critical coastal ecosystems. This species exhibits small foraging ranges, particularly during the chick-rearing period when they must trade off time spent foraging with chick provisioning. As a result of individual’s limited foraging range, they are more susceptible to changes in food availability. However, this species may resort to more extensive foraging trips if those foraging sites have greater availability of resources or preferred prey items.
+
+Unlike nesting site selection and diet, there is still little detailed information about the foraging patterns of Little Terns and the drivers of foraging habitat selection in this species. This lack of information is mainly because previous studies were only based on observation of foraging individuals, since telemetry tags just recently reached the needed miniaturization to track such small species. Small-scale environmental factors, such as tidal currents, are known to influence prey availability in estuarine areas, which can ultimately drive the variation in the foraging patterns and diel rhythms in this short-range species. For instance, showed that Little Terns from southern Portugal feed mainly during incoming/receding tidal phases, when currents were stronger, leaving schools of juvenile fish more available along the channels, and during low tide, when the water was less turbid, and thus prey were more easily located. Moreover, cloudy conditions may decrease the foraging efficiency of terns, because visibility is impaired, as previously shown for the Snowy-Crowned Tern (Sterna trudeaui) in Argentina. The phase of the day also appears to influence the foraging behavior of terns, since Common Terns (Sterna hirundo), in Germany, foraged only during the day, and showed peaks of activity after sunrise and before sunset.
+
+Previous studies that examined regurgitate analysis indicate that the most important prey for Little Terns in the Algarve are Sand Smelts (Atherina spp.) and Gobies (Pomatoschistus spp.), though marine prey such as Sardines (Sardina pilchardus) and Garfish (Belone belone) are also important, particularly for growing chicks. Individuals may have different foraging strategies, forage in diverse areas and habitats, and feed on different prey items, but studies on other tern species such as on Roseate Tern (Sterna dougallii), showed a high spatial aggregation among foraging individuals (up to 64% of spatial overlap), indicating a high similarity in the foraging areas among individuals. In this study, we focused on 2 similar colony-sites of Little Terns, separated by 21 km, in the Algarve, Southern Portugal, Praia de Faro (hereafter Faro) and Fuseta, both on sandy beaches facing foraging coastal marine areas and adjacent to an estuarine lagoon system comprising intertidal lagoon areas with Channels and Salt Pans. Salt Pans are often used as alternative nesting habitats by breeding Little Terns. These colonies share similar foraging habitats in their surroundings, although at different distances, and exhibit different levels of anthropogenic presence/disturbance. Little Terns avoid nesting in areas with high anthropogenic pressure, which can affect reproductive success, and may also avoid foraging in areas with high anthropogenic disturbance (i.e., boats and watercraft movements) which affect the clarity of the water that is needed for prey capture through surface plunge diving. Also of serious concern is the crushing of beach-dwelling species’ nests, chicks, and eggs. Domestic dogs and cats may also use nesting areas and are one of the main factors affecting reproductive success, especially at Praia de Faro beach. All these disturbance factors may force birds to abandon their habitats, and/or increase stress levels. These levels can be measured with physiological variables, such as (1) the erythrocyte sedimentation rate (ESR), which measures the rate at which red blood cells settle in a blood sample, with higher values indicating inflammation and impaired health such as infections and (2) the heterophil/lymphocyte ratio (H/L), which is commonly used to assess immune function and stress in birds, where an elevated ratio suggests immune responses to infections or stress factors.
+
+Evaluating the foraging strategies of Little Terns using GPS tracking, and combining this with the study of diet, using regurgitate analysis, and trophic ecology, using stable isotope analysis of blood samples, will provide a more comprehensive understanding of their habitat use and feeding ecology. The δ15N value is a good proxy of trophic position because 15N enriched at each trophic level by 2–5‰, however, this trophic enrichment can change depending on physiological and environmental factors. Therefore, it must be interpreted with caution in species that feed in different habitats. However, given the position of each colony, all birds are expected to commute among the same range of habitats. The δ13C values are more useful as a habitat indicator, because different habitats (coastal vs. pelagic) have specific signatures, and there is only a small variation of this isotope along the trophic chain. Thus, the carbon isotopic values will reflect the feeding strategies of these individuals, who have access to a variety of habitats, including marine, coastal, lagoon, and even terrestrial areas.
+
+This is the first time Little Terns have been GPS-tracked globally. This allowed a more detailed assessment of foraging patterns and of the diel rhythms of foraging habitat use, as this was combined with a detailed analysis of their diet and isotopic niche. We also evaluated the physiological stress condition and breeding success of individuals from the 2 colonies. In line with previous studies, we expect (1) tracked Little Terns to spend most of their time traveling and foraging close to their breeding colony; (2) differences in foraging effort throughout the 24-h period, which should be higher during the diurnal period; (3) a preference to forage during low or decreasing tide stages; (4) δ15N values to be relatively similar among individuals, i.e., they should feed on the prey of the same trophic level, and larger variations in δ13C values, since Little Terns are opportunistic and may use a wide variety of foraging habitats, from Salt Pans and Lakes to Ocean areas; (5) individuals from the most disturbed colony to have higher stress levels and lower breeding success. Coastal habitats, in addition to being some of the most used natural systems, are also highly threatened globally. These areas are heavily impacted by human disturbance, mostly by urbanization, tourism and shell fishing activities, which have an impact on the ecology of estuarine and coastal seabirds. Therefore, our study will also provide conservation considerations for Little Terns and their coastal foraging habitats.
+
+Materials and Methods
+
+Data collection
+
+Fieldwork took place in Ria Formosa Natural Park, located on the south coast of Portugal, Algarve (37°01′N, 07°48′W) during Little Terns’ breeding period (May to July) during 2 study years (2021 and 2022). Data were collected from 2 different colonies (Faro and Fuseta), both measuring around 50 m, that are subject to different levels of human disturbance. Faro has a direct pedestrian access and thus is comparably more common to have people walking along the beach, sometimes with their dogs without a leash. Fuseta is an isolated island which can only be accessed by boat. Within the scope of the LIFE Ilhas Barreira project (LIFE18 NAT/PT/000927), and to measure disturbance levels in the 2 colonies, in 2021 seven cameras (Ltl Acorn SGN 5220) were installed in each colony during the birds’ incubation period, monitoring 40 nests at each colony. These were programmed to photograph when the sensor detected movement and totalized 6193 h of recordings. At the Faro colony camera traps captured people, cats, hares, and dogs which were responsible for the failure/predation of 34 clutches, while at Fuseta only 4 clutches were predated by the Eurasian Stone-Curlew (Burhinus oedicnemus), out of 40 clutches monitored at each site. In 2022, we marked and followed 25 nests in Faro and 37 nests in Fuseta to measure hatching success, which was registered as the number of eggs that hatched per nest. Habitat types in the colony surroundings are similar at both colonies: main Lagoon, Entrance Channels, Ocean, and Lagoon Channels habitats are at the same distance from Faro and Fuseta colonies, though the distance to the nearest Salt Pan is different for each colony (Faro: 6 km and Fuseta: 2 km).
+
+At an individual level, we attached mini-GPS loggers (Pathtrack nanoFix Geo-Mini; 1.20 g) in 8 breeding adults in each colony during the incubation period (May) of each year (2021 and 2022). However, we only retrieved some devices (n = 4 at Faro in 2021, n = 2 at Fuseta in 2021, and n = 3 at Fuseta in 2022). The birds were captured in their nests with a clap net and GPS devices were attached to the 4 central tail feathers of each individual with TESA tape and retrieved 1 week later at the most. Devices were configured to record positions every 5 min (2021) and 3 min (2022) with loggers’ batteries draining out in about 5/6 days. GPS devices weighed the equivalent of 2.4% of the average body mass of the individuals (50.6 g ± 3.9 g), less than the 3% threshold that is thought to reduce deleterious effects on flying seabirds.
+
+In addition to GPS data, we collected regurgitates dropped at the colony to identify otoliths and scales of prey consumed by adults, which will provide us with quantitative information about the consumption of prey at the population level. We also collected a sample of 150 μL of blood from the ulnar vein of birds from Faro (n = 14 in 2021 and n = 14 in 2022) and Fuseta (n = 10 in 2021 and n = 10 in 2022) to measure 1) erythrocyte sedimentation rate (ESR) (~50 μL), 2) heterophil/lymphocyte index (H/L index) (1 drop of blood), and 3)δ13C and δ15N values after stable isotope analysis (SIA) (100 μL). All procedures took no longer than 15 min and birds were immediately released, thus minimizing the overall stress. Trophic information derived from SIA was compared with diet data obtained from regurgitates collected during the incubation in the colony site of Faro in 2021 (n = 32) and in the colony site of Fuseta in 2021 (n = 80) and 2022 (n = 70). Each regurgitate was stored in an individual microtube and later analyzed in the laboratory under a binocular magnifier. Prey present in the regurgitates were identified to the lowest taxonomic level possible using identification guides and our own reference collection. Identifications were based on the hard parts found, especially otoliths, vertebrae and scales.
+
+Spatial analysis
+
+To distinguish different behaviors of individuals during foraging trips, we used the “Expectation Maximization binary Clustering” (EMbC) method from the EMbC R package within the R environment v. 4.1.1, a robust and unsupervised multi-variable clustering algorithm which considers the correlation and uncertainty of the variables to give a significant local label. This algorithm is a variant of the maximum likelihood estimation of Gaussian mixture models. Behaviors were characterized using 2 variables: speed and the turning angle of a bird between each position. Accordingly, 4 behavioral modes were defined: high velocity/low turning angle (HL), high velocity/high turning angle (HH), low velocity/low turning angle (LL), and low velocity/high turning angle (LH). The HL behavioral mode represents fast speed and low sinuosity and is often related to transiting. The HH behavioral mode represents high-speed and sinuous movements used by animals during extensive searching. The LL (resting) and LH (intensive foraging) behavioral modes correspond to slow movements, when the bird is drifting on the water surface, and intensive foraging, respectively. Intensive search/foraging locations (LH) were considered to represent zones where individuals adopted an area restricted search behavior. Such behavior is characterized by an increase in sinuosity and/or a decrease in the speed of the foraging path, i.e., by an increase in residence time in the productive patch. Finally, using the CORINE Land Cover 2018 we also categorized every position according to the habitat below it as Ocean, Ria (arm of sea that, in the shape of a bay, penetrates the interior of the coast), Salt Pans, Colony, Entrance Channels (transition zone between the ocean and ria), Lake (any relatively large body of slowly moving or standing water that occupies an inland basin), Mainland or Lagoon Channels (a shallow channel or pond near or connected with a larger body of water). We also manually categorized every position of the 24-h day according to 3 periods as day (part of the total day in which a given location is illuminated by sunlight), night (period in which a given location does not receive sunlight), or twilight (time between day and night when there is light, but the sun is below the horizon) following (https://www.timeanddate.com/astronomy/portugal); and the tide as high, low, receding or incoming, to analyze the behavior of the birds under different conditions. The slope of marine areas was also used to characterize foraging in this realm. First, seafloor depth (blended ETOPO1 product, 0.01° spatial resolution, m) was downloaded from (https://www.ncei.noaa.gov/products/etopo-global-relief-model). Second, a spatial gradient was computed by estimating the proportional change (PC) within a surrounding 3 × 3 cell grid using a moving window as follows: PC = [(maximum value − minimum value) × 100/maximum value], to then be used as a proxy of bathymetric slope.
+
+Stable isotope analysis
+
+We performed a Stable Isotope Analysis (SIA) for δ15N (15N/14N) and δ13C (13C/12C). SIA was performed for whole blood, which has a turnover rate of a few weeks (about 1–5), representing an average of all meals consumed in the past few weeks. Blood samples immediately after being collected in the field were stored on ice in 2 mL tubes for a few hours, and later stored frozen at −20 °C until preparation for analysis. Afterward, the samples were dried at 60 °C for 24 h and homogenized. The carbon and nitrogen isotopic ratios were determined from Continuous-Flow Isotope Ratio Mass Spectrometry (CF-IRMS). Results were presented in the common δ notation as parts per mil (‰) and compared with values from the international standards Vienna-Pee Dee Belemnite (V-PDB) for δ13C and atmospheric N2 for δ15N, according to the following equation:
+
+where R sample is 13C:12C or 15N:14N, respectively. Replicate measurements of internal laboratory standards (acetanilide) show a precision < 0.2‰ for both δ13C and δ15N.
+
+Physiological parameters
+
+To evaluate whether breeding adults of the 2 colonies were in similar health and stress conditions, we measured erythrocyte sedimentation rate (ESR) and heterophil/lymphocyte index (H/L index). ESR is the rate at which erythrocytes fall into a column of blood. Increased inflammation processes (i.e., parasite infection) lead to the release of major acute-phase proteins, which make the blood to sediment faster through plasma. Thus, this parameter represents the individual’s health status, with high values being an indication of an impaired health status. The H/L index represents the ratio of heterophils and lymphocytes and is commonly used as an indicator of immune function and stress in birds. Changes in the index could be a response to different stress factors. These cause an increase in the number of heterophils and a decrease in the number of lymphocytes, thus increasing the index value. So, an elevated index value is indicative of inflammatory processes related to the immune response to microbial and macroparasitic infections. To measure ESR, a blood sample was collected from the adult tarsal vein, using 25G needles and heparinized capillaries so the blood would not clot. ESR (%) was measured as the ratio of plasma and total blood volume in the capillary tube, after placing the capillary tube vertically for 4 h at 4 °C. After collecting the blood with capillaries, and before they were sealed, a drop of blood was used to make a smear. The blood smear was air dried and placed in methanol for 3 min for cell fixation and air dried again. In the laboratory, slides were stained by the Wright-Giemsa method and seen under a 100× microscope to estimate the H/L ratio by approximately 10,000 red blood cells.
+
+Statistical analysis
+
+Generalized Linear Mixed Models (GLMMs) were used to analyze the effect of the colony (explanatory variable) on mean values of (1) maximum distance to the colony (km) and (2) trip duration (hours). Three different GLMMs were also fitted to test the effect of (1) colony, habitats (Ria, Salt Pans, Entrance Channels, Ocean, Lagoon Channels, Lake, Oceanic bathymetric slope > 25%), and their interaction; (2) colony, tidal state (high, low, incoming, and receding), and their interaction; and (3) colony, day period (diurnal, nocturnal and twilight) and their interaction on the proportion of foraging locations. These models were followed by post-hoc tests to identify differences in the interaction term. Bird ID was used as a random effect in all models to control for pseudo-replication issues. Because we fitted different models using the same dataset we adjusted P-value thresholds with the Benjamini–Hochberg method using the “p.adjust” function (R Version 4.2.3) to avoid the probability of incurring Type I errors. Given our small sample size of tracked birds, and the fact that in the Faro colony, we were only able to track birds in 2021, the year effect was not considered. GLMMs were also used to analyze the effect of colony (Fuseta vs. Faro) on the numerical frequency (NF %, percentage of the total number of individuals of each prey over the total number of prey in all samples) and frequency of occurrence (FO %, percentage of the number of samples with each prey over the total number of samples) of each prey, including the pellet ID as a random effect.
+
+Generalized Linear Models (GLMs) were used to test the effect of the colony on (1) hatching success and mean (2) δ15N and (3) δ13C values. GLMMs were run with the lme4 and lmerTest R packages. Finally, a Student’s t-test was used to analyze the effect of the colony on H/L and ESR. All statistical analyses were carried out in R (Version 4.2.3; R Core Team 2023). Residuals were tested for normality (Q-Q plots) and homogeneity (Cleveland dotplots) before each statistical test. To compare the isotopic niche among colonies and their overlap with the total niche width, we used the area of the standard ellipse corrected for small sample sizes (SEAC, an ellipse with 40% of probability containing a subsequently sampled data) and a Bayesian estimate of the standard ellipse area (SEAB) to test for differences in niche widths as computed by the functions within the SIBER package. All values are presented as the mean ± SD, for significance level < 0.05.
+
+Results
+
+Foraging behavior and habitat use
+
+Birds were tracked for approximately 3.0 ± 1.4 days, during which they made a total of 247 trips (n = 66 in Faro and n = 181 in Fuseta). Our tracking data is based only on 9 individuals and results should be interpreted with caution. However, this is the first time that Little Terns are tracked globally, and our data are informative to understand the foraging patterns of this species and to compare with previous studies based on observation of foraging individuals. Individuals from both colonies foraged mostly in areas surrounding their breeding colonies. However, the maximum distance traveled from the colony was 19.2 km by individuals from Faro and 13.4 km by individuals from Fuseta. During their longer trips (> 5 km), terns from Faro foraged in Lagoon Channels and in the Ocean. Meanwhile, terns from the Fuseta ventured into the ocean as well. Individuals from both colonies foraged mostly during the day in the channels of Ria Formosa lagoon system (Fig. 1). About 10% of the foraging positions (LH) were at night for both colonies, when individuals from Faro foraged mostly at Lagoon Channels (76.7%) and individuals from Fuseta foraged only at Entrance Channels (100 %). Both these habitats were very close to the breeding colonies (< 250 m) suggesting that night foraging may only occur in the closest areas of the breeding colonies.
+
+Foraging tracks of Little Terns from Faro (green colors, n = 4) and Fuseta (red colors, n = 5) colonies during the incubation period of 2021 and 2022. Also shown bathymetric isolines (in dashed lines and darker gradient: 25, 50, 100, 200, 500 m) and main foraging habitats according to CORINE Land Cover categories (https://land.copernicus.eu/en/products/corine-land-cover/clc2018#download). Map was generated with QGis v.3.38.0.
+
+Birds from Faro made significantly longer foraging trips when compared to birds from Fuseta (GLMM: F1,245 = 6.45, P = 0.030), while spending a similar amount of time on those forays (GLMM: F1,245 = 0.50, P = 0.480; Table 1). Overall, the proportion of foraging locations was significantly higher at Entrance Channels and in Oceanic habitats with bathymetric slope > 25% than in other habitats (GLMM: F6,245 = 2.98, P = 0.010). Birds from Fuseta exhibited a comparably higher number of foraging locations at Entrance Channels, Ocean and Oceanic habitats with bathymetric slope > 25% than in other colony-habitats combinations (GLMM: F6,245 = 2.55, P = 0.020). The proportion of foraging locations was significantly higher at high tide than in other tidal states (GLMM: F3,245 = 3.69, P = 0.010), with birds from Faro exhibiting a higher proportion of foraging locations at high tide than in other combination of colony-tidal states (GLMM: F3,245 = 3.08, P = 0.030). There were no differences in the proportion of foraging locations among diverse periods of the day (GLMM: F2,245 < 2.49, P > 0.090; Table 1).
+
+Mean (± SD) trip characteristics of Little Terns from Faro and Fuseta colonies during the 2021 and 2022 breeding periods
+
+Trip characteristics	FARO	FUSETA	 	  N trips [N birds]	66 [4]	181 [5]	 	  Hours tracked	65.9 ± 56.8	40.4 ± 11.5	 	  Max. Dist. colony (km)	1.67 ± 0.76	0.98 ± 0.43	 	  Trip Dur. (h)	0.42 ± 0.26	0.39 ± 0.19	 	  Prop. time foraging	0.26 ± 0.16	0.23 ± 0.17	 	 Prop. foraging locs per habitat			 	  RIA	0.11 ± 0.05	0.12 ± 0.07	 	  Salt pans	0.09 ± 0.08	0.17 ± 0.06	 	  Entrance channels	0.19 ± 0.07	0.26 ± 0.10	 	  Ocean	0.11 ± 0.03	0.18 ± 0.04	 	  Lagoon channels	0.20 ± 0.04	0.15 ± 0.04	 	  Lake	0.14 ± 0.03	0.13 ± 0.02	 	  Oceanic bathymetric slope > 25%a	0.11 ± 0.05	0.29 ± 0.03	 	Max. dist. traveled per habitat (km)			 	  RIA	5.31 ± 1.60	2.19 ± 0.95	 	  Salt pans	5.90 ± 0.23	2.32 ± 0.01	 	  Entrance channels	0.79 ± 0.34	1.00 ± 0.10	 	  Ocean	13.32 ± 2.50	9.83 ± 3.17	 	  Lagoon channels	18.32 ± 1.59	1.77 ± 0.30	 	  Lake	17.90 ± 1.61	1.85 ± 0.20	 	 Prop. foraging locs per tidal state			 	  High	0.39 ± 0.11	0.22 ± 0.09	 	  Low	0.18 ± 0.06	0.27 ± 0.10	 	  Incoming	0.24 ± 0.12	0.20 ± 0.09	 	  Receding	0.19 ± 0.08	0.28 ± 0.11	 	 Prop. foraging locs per times of the day			 	  Day	0.84 ± 0.32	0.77 ± 0.06	 	  Night	0.12 ± 0.04	0.11 ± 0.05	 	  Twilight	0.07 ± 0.02	0.11 ± 0.04
+
+aSlope values above foraging locations of oceanic trips.
+
+Diet
+
+We analyzed 32 regurgitates collected around nests at the Faro colony in 2021 and 150 regurgitates collected around nests at the Fuseta colony (n = 80 in 2021 and n = 70 in 2022). The majority of prey found in our samples were fish and there was a small amount of crustaceans. Little Terns’ diet was dominated by Gobies (Pomatoschistus spp.) and Sand Smelts (Atherina spp.), both in Faro and Fuseta (Table 2), although the occurrence (z = −2.40; P = 0.016) and numerical frequency (z = −5.04; P = 0.001) of Sand Smelts was higher in Faro and the occurrence (z = −2.40; P = 0.016) and numerical frequency (z = −1379.6; P = 0.001) of Gobies was higher in Fuseta. Although there are no significant differences, it seems that the occurrence of Diplodus spp., Fundulus spp., and Gobius spp. was slightly higher in Fuseta and the occurrence of Belone belone was higher in Faro (Table 2). On the other hand, we found significant differences in the numerical frequency of Gobius spp. (z = −1904; P = 0.001) and Diplodus sp. (z = −2.932; P = 0.003), being higher in Fuseta.
+
+Numeric frequency (NF; %) and frequency of occurrence (FO; %) of all prey items present in Faro (2021) and Fuseta (2021–2022) pellets of Little Terns
+
+Prey items	NF Faro [32]	NF Fuseta [150]	FO Faro [32]	FO Fuseta [150]	 	Fish					 	 Atherina spp.	58.8	24.1	78.1	57.3	 	 Belone belone	4.1	1.9	21.9	12	 	 Dicentrachus labrax	0	0.1	0	0.7	 	 Diplodus spp.	1.8	5.5	3.1	17.3	 	 Engraulis encrasicolus	0	0.5	0	1.3	 	 Fundulus spp.	1.2	1.8	6.3	13.3	 	 Gobius spp.a	1.2	5.2	6.3	9.3	 	 Chelon spp.	0	0.7	0	1.3	 	 Microchirus boscanion	0	0.5	0	2	 	 Oblada melanura	0.6	1.6	3.1	3.3	 	 Parablennius spp.	0	0.2	0	1.3	 	 Pomatoschistus spp.	17.7	53.6	40.6	60.8	 	 Sardina pilchardus	0	0.6	0	1.3	 	 Serranus spp.	1.8	0.9	6.3	2.7	 	 Symphodus spp.	0	0.2	0	1.3	 	 Unidentified	12.9	2.3	15.6	6.7	 	Crustaceanb	0	0.6	0	4
+
+Sample size is indicated within []. Significant differences area highlighted in bold.
+
+aIncludes Lesueurigobius friesii.
+
+bPrey not identified with scales, vertebrae or otoliths.
+
+Of the 48 blood samples (n = 28 in Faro and n = 20 in Fuseta), we also found no variations between colonies in the isotopic niche (Figure 2). The δ13C values of individuals from Faro (−17.13‰ ± 2.01) and Fuseta (−15.91‰ ± 1.28) did not differ significantly (t = 1.34; P = 0.180). Similarly, δ15N values from Faro (12.89‰ ± 1.63) and Fuseta (12.94‰ ± 1.03) were not significantly different (t = −0.80; P = 0.420). Yet, terns from Fuseta exhibited a significantly narrower isotopic niche than those from Faro (Table 3; SEAB: P = 0.030) with an overlap between isotopic niches of 0.42 ± 0.08 (Figure 2).
+
+SIBER outputs for blood samples of Little Terns from Faro and Fuseta colonies during study years (2021–2022): Layman metric of convex hull area (TA), standard ellipse area corrected for small sample sizes (SEAc) and Bayesian estimate of standard ellipse area (SEAB) with respective confidence intervals (CI, 95%)
+
+FARO	FUSETA	 	Sample size	28	20	 	TA	22.404	11.4811	 	SEAC	6.649	4.220	 	SEAB	6.559	3.912	 	95% CI	5.778–7.485	2.429–4.534
+
+All metrics were computed using the SIBER R package.
+
+Isotopic niche area of Little Terns from Faro (n = 28) and Fuseta (n = 20) colonies, during study years (2021–2022), based on stable isotope ratios (δ13C and δ15N). The corrected standard ellipses areas (SEAC, 40%) are represented by the solid lines.
+
+Breeding and health parameters
+
+At Fuseta, a colony with comparably lower human disturbance, hatching success was higher, but no significant differences were found (z = 1.79; P = 0.070). The level of predation tended to be higher in Faro (Table 4), but, also, no significant differences were found between the 2 colonies (z = −1.71; P = 0.090). On the other hand, the level of adult’s nest abandonment was similar between colonies (z = -0.41; P = 0.690).
+
+Little Tern’s % hatching success from Faro and Fuseta colonies during 2022
+
+Breeding parameter	Faro [25]	Fuseta [37]	 	 % Hatching success	60.0	81.1	 	 % Abandonment	8.0	5.4	 	 % Predation	32.0	13.5
+
+Total sample size is indicated within [].
+
+Although H/L values (elevated index value is indicative of inflammatory processes) were slightly higher in individuals from Faro (0.54 ± 0.74), where there are higher levels of human disturbance than in Fuseta (0.42 ± 0.32), there were no significant differences in the H/L ratio between colonies (t = 0.74; P = 0.460; df = 41.39). We also found no significant differences in ESR values (high values mean an impaired health status) between colonies, since the values were equal (0.13 ± 0.06) (t = −0.004; P = 0.997; df = 36.43).
+
+Discussion
+
+This is the first study to examine foraging habitat use with GPS-tracked Little Terns. Though our 2 study colonies were surrounded by similar foraging habitats, they differed in human disturbance. Birds foraged in the habitat areas surrounding each breeding colony, which was previously shown by from the observation of foraging individuals in the same study area. Therefore, and despite our relatively small sample size, the range and proportion of habitats used for foraging by Little Terns were relatively similar to those observed by. However, our study shows that some foraging individuals ventured relatively far and up to around 10 km into the open ocean. Nevertheless, most Little Terns foraged within 5 km of the breeding colony, which was suggested by previous studies with the observation of foraging birds. Contrary to our expectations, our tracked Little Terns appear to forage more during high tide. This contrasts to the observations of in the same study area. Such differences may be explained by the fact that our birds preferred to forage in the Ocean, whereas reported a preference of Little Terns to forage in the lagoon habitat. Tracking also showed that birds from less disturbed colonies foraged more in Ocean and Entrance Channels, while more disturbed ones foraged more in Entrance Channels. The main prey species for both populations were Sand Smelts (Atherina spp.) and Common Gobies (Pomatoschistus spp.), with no differences in isotopic values between colonies. Furthermore, although health indicators were similar, hatching success was slightly lower in the more disturbed colony.
+
+Spatial distribution of foraging birds and foraging habitat use
+
+Overall, terns from both colonies spent similar time foraging, but individuals from Faro made slightly longer trips, probably because some habitats such as Salt Pans around the colonies are further away from the Faro colony than from the Fuseta colony. Although both colonies have similar habitats around them, the closest Salt Pan used by individuals from Fuseta, was around 2 km away, while the closest Salt Pan used by individuals from Faro was around 6 km distant. In coastal environments, the distribution and availability of prey can swiftly change due to factors such as tidal cycles, sediment types, and currents. Predators, aligning themselves with the spatial distribution of their prey in the colony surroundings to optimize energy gain, are thus expected to adapt to environmental conditions influencing prey availability. Turbidity, wind, and cloud cover, influencing prey capture efficiency, are additional important factors impacting seabird foraging behavior. The unexpected dissimilarity in foraging habitat use between colonies may be attributed to diverse advantageous characteristics presented by different tidal phases, as well as the habitat characteristics surrounding each colony site. Previous research by found that Snowy-Crowned Terns in Argentina exhibited increased foraging effort and success rates with rising tidal levels, potentially linked to variations in fish availability throughout the tidal cycle. Water depth also plays a role in seabird foraging behavior, as shallower waters can force small fish to distribute closer to the surface, thus being more accessible to plunge-diving birds such as Little Terns. While clear waters enhance visibility to predators, they also help prey escape. Sandwich Terns (Thalasseus sandvicensis), for instance, select an optimal level of water transparency for foraging between clear and turbid waters. In our study, terns from Faro showed a preference for feeding during high tide and in shallower areas. However, terns from Fuseta did not show a preference for one tidal phase. This variability may indicate that the feeding conditions of each habitat can be influenced by a set of factors, which will make each habitat more attractive at different times. Overall, Little Terns consistently chose specific foraging locations across different trips (terns from Faro foraged more in Entrance Channels while terns from Fuseta foraged more in Entrance Channels and Ocean) and exhibited some preference among tide phases. However, individuals from different colonies made different choices, which may depend on other factors such as turbidity, sediment types, and currents. Another key element that influences foraging areas could be the location of the colony and the adjacent habitats.
+
+Individuals predominantly foraged during daylight hours, although some trips were also undertaken during the night and especially at twilight. Previous findings by suggested that Roseate Terns in North America also engaged in nocturnal foraging activities. observed that the foraging behavior of Common Terns was primarily influenced by the daylight cycle, with peak activity occurring shortly after sunrise and before sunset. We also found that the habitats used at night, both by individuals from Faro and from Fuseta, were the same places where they mainly foraged during the day: Lagoon Channels and Entrance Channels. Since visibility is significantly reduced at night, individuals might use repeatedly the same foraging habitats due to site familiarity and prey predictability.
+
+Investigating the response of seabird movements to dynamic variables poses challenges, necessitating simultaneous data collection on multiple aspects. A limit of this study was the small number of individuals tracked, as the recapture of these birds is challenging. However, despite the small sample size, we provide useful information to further our understanding of Little Terns’ foraging behaviors. To enhance the robustness and detail of behavioral data, future studies should aim for a more extensive dataset of individuals tracked in colonies differing in surrounding environmental conditions and an analysis of the tracking data using additional environmental variables.
+
+Trophic ecology
+
+As expected, Little Terns diet at both colonies was dominated by Gobies (Pomatoschistus spp.), a bottom-dwelling fish and Sand Smelts (Atherina spp.), a pelagic fish. These species are the most abundant in the Ria Formosa, so it is expected that they would also be the most consumed. As observed, some other prey species also proved to be relatively important in the Little Tern’s diet, such as Fundulus spp., Diplodus spp., Gobius spp. or Belone belone, which should be locally abundant. Furthermore, GPS data from this study indicates that individuals from Faro foraged more in the Lagoon Channels than individuals from Fuseta, which explains why more Atherina spp. was found in the pellets from Faro. On the other hand, individuals from Fuseta consumed more Fundulus spp., likely caught while foraging at Salt Pans, and Diplodus spp., Gobius spp and Pomatoschistus spp., likely caught at the Entrance Channels of the lagoon.
+
+Although Sardines were not identified as a main prey in our study, during fieldwork we observed several Sardines dropped close to the nests at both colonies. Sardines are, in fact, more consumed by populations of Little Terns breeding in sandy beaches in south Portugal, though its importance in the diet composition may vary among years. Moreover, this prey should be more consumed by chicks during chick-rearing due to its high energetic value and relevance for the growing fledglings.
+
+We found no significant differences between the isotopic niches of individuals from the 2 study colonies. Individuals from Faro and Fuseta presented 42% overlap of isotopic niches, yet the isotopic niche was wider for birds from Faro. Indeed, birds from this last colony were comparably more explorative, foraging over distinct habitats around the colony, while individuals from Fuseta foraged preferentially at the Entrance Channels and Ocean habitats. The wider isotopic niche from Faro also indicates that these individuals might have been more generalists in their dietary choices. Also, individuals from Faro exhibited lower (although not significant) δ13C values, which might be suggestive of a foraging over comparably more pelagic areas. In fact, the oceanic areas where terns from Faro foraged were further from the coast than those used by terns from Fuseta. However, we must acknowledge that our sample size of tracked individuals was small to detect significant differences in habitat use between the 2 colonies.
+
+Conservation implications
+
+The construction and installation of recreational structures and the pressure of tourism are often the cause of habitat destruction, which turn coastal areas unsuitable as breeding sites. Human activities also disrupt the foraging behavior of birds. Terns are very vulnerable to predators during the breeding season as they are a coastal and ground-nesting species. There are frequent recreational disturbances with boats and other motor aquatic vehicles in the Entrance Channels, Lagoon Channels and Ocean, which were the habitats most used by terns from both colonies. Interestingly, our findings revealed no significant differences in time spent foraging between colonies. In our study, the measured health parameters of individuals, H/L Index and ESR, were low and similar between the 2 colonies, which indicates no visible signs of stress and inflammatory processes. Continuous exposure to disturbances can cause habituation in birds. The degree of habituation to disturbances also plays an important role in the response of the species, and different individuals may have different responses to the same stimulus. One of them could be the reduction in their alertness and energy preservation by not reacting excessively to non-threatening stimuli. Still, it is important to conserve these coastal seabirds and the habitats they use by implementing carefully managed ecotourism practices to minimize adverse effects on birds and their natural nesting and surrounding foraging habitats.
+
+Authors’ Contributions
+
+L. R. Cerveira: Investigation, Conceptualization, Writing—original draft, Formal analysis, Methodology, Sample collection, Funding acquisition, Visualization. V. H. Paiva: Supervision, Conceptualization, Writing—original draft, Writing—review and editing, Formal analysis, Methodology, Resources, Visualization. J. M. Pereira: Sample collection, Writing—review and editing. S. N. Veríssimo: Sample collection, Writing—review and editing. J. A. Ramos: Supervision, Conceptualization, Writing—original draft, Writing—review and editing, Formal analysis, Methodology, Resources, Visualization.
+
+Funding
+
+This work received financial and logistic support (for fieldwork campaigns, GPS tracking devices and laboratory analysis) from the project LIFE Ilhas Barreira project (LIFE18 NAT/PT/000927). This study also benefitted from funding provided by Foundation for Science and Technology, I.P. (FCT) to MARE (UIDB/MAR/04292/2020; https://doi.org/10.54499/UIDB/04292/2020 and UIDP/04292/2020; https://doi.org/10.54499/UIDP/04292/2020) and the Associate Laboratory ARNET (LA/P/0069/2020; https://doi.org/10.54499/LA/P/0069/2020). LRC and SNV were supported by FCT doctoral fellowships (10.54499/2020.07495.BD, SFRH/BD/145827/2019). The funders had no role in study design, data collection, and analysis or preparation of the manuscript.
+
+Ethics Statement
+
+All animals were handled in strict accordance with good animal practice as defined by the current European legislation. The deployment of GPS-loggers (see details above) did not take more than 10 min and on no occasion did it interfere with reproduction or have visible deleterious effects on study animals. All sampling procedures and/or experimental manipulations were approved by Instituto da Conservação da Natureza e da Biodiversidade and Serviço do Parque Natural da Ria Formosa.
+
+Conflict of Interest
+
+All authors declare that they have no conflicts of interest.
+
+Data Availability
+
+Data used in this work will be made available upon reasonable request to the corresponding author.
+
+References
+
+Guia para a identificação de algumas famílias de peixes ósseos de Portugal continental, através da morfologia dos seus otólitos sagitta
+
+Prey capture success of Sandwich Terns Sterna sandvicensis varies non-linearly with water transparency
+
+The value of estuarine and coastal ecosystem services
+
+Fitting linear mixed-effects models using lme4
+
+Temporal and spatial pattern of Common Tern (Sterna hirundo) foraging in the Wadden Sea
+
+Simple techniques for making avian blood smears
+
+Selection of foraging habitats by Little Terns (Sterna albifrons) at the Ebro Delta (NE Spain)
+
+Contamination with nonessential metals from a solid-waste incinerator correlates with nutritional and immunological stress in prefledgling Black Kites (Milvus migrans)
+
+A practical introduction to stable-isotope analysis for seabirds biologists: approaches, cautions and caveats
+
+An ecological account of a Mediterranean salina: the Salin de Giraud, Camargue (S. France)
+
+The introduction of coastal infrastructure as a driver of change in marine environments
+
+Intercolony and annual differences in the diet and feeding ecology of Little Tern adults and chicks in Portugal
+
+Identifying the diet of the Little Tern (Sternula albifrons)
+
+Sea, freshwater or saltpans? Foraging ecology of terns to assess mercury inputs in a wetland landscape: the Ebro Delta
+
+Coastal urbanization and the integrity of estuarine waterbird communities: threshold responses and the importance of scale
+
+Can experience reduce collisions between birds and vehicles
+
+Adaptive responses to inundation by high tides in Little Terns Sternula albifrons
+
+The ultimate Wright-Giemsa stain: 60 years in the making
+
+Central-place foraging in an arctic seabird provides evidence for Storer-Ashmole’s halo
+
+Hierarchical patch dynamics and animal movement pattern
+
+Relative effects of static and dynamic abiotic conditions on foraging behaviour in breeding Sandwich Terns
+
+Interspecific variation in avian blood parasites and haematology associated with urbanization in a desert habitat
+
+Foraging behavior of the Snowy-Crowned Tern (Sterna trudeaui) at Mar Chiquita, Buenos Aires Province, Argentina
+
+Expectation-maximization binary clustering for behavioural annotation
+
+Early-life foraging: behavioral responses of newly fledged albatrosses to environmental conditions
+
+A global map of human impact on marine ecosystems
+
+Effect of tick parasitism on the health status of a passerine bird
+
+Assessing avian diets using stable isotopes I: turnover of13C in tissues
+
+Seabird associations with mesoscale eddies:
+
+Applications of stable isotope analyses to avian ecology
+
+Comparing isotopic niche widths among and within communities: SIBER – Stable Isotope Bayesian Ellipses in R
+
+lmerTest package: tests in linear mixed effects models
+
+Coupling instantaneous energy-budget models and behavioural mode analysis to estimate optimal foraging strategy: an example with wandering albatrosses
+
+Foraging ecology of Caspian Terns in the Columbia River Estuary, USA
+
+Forage fish to growing chicks: shared food resources between two closely related tern species
+
+Temporal and spatial pattern of Common Tern (Sterna hirundo) foraging in the Wadden Sea
+
+Molecular evidence for gender differences in the migratory behaviour of a small seabird
+
+Geographical variation in the foraging behaviour of the pantropical Red-Footed Booby
+
+Sex‑specific foraging behaviour in a long ‑ lived seabird
+
+Fine-scale habitat use and behavior of a nearshore fish community: Nursery functions, predation avoidance, and spatiotemporal habitat partitioning
+
+A niche for isotopic ecology
+
+Temperature and salinity regimes in a shallow, mesotidal lagoon, the Ria Formosa, Portugal
+
+Disturbance, habituation, and management of waterbird colonies
+
+Variation of adult Great Tit Parus major body condition and blood parameters in relation to sex, age, year and season
+
+Plenty of rooftops with few neighbours occupied by young breeding Yellow-Legged Gulls (Larus michahellis): Does this occur at the expense of their health condition
+
+The foraging ecology of the endangered Cape Verde Shearwater, a sentinel species for marine conservation off West Africa
+
+Importance of marine prey to growth of estuarine tern chicks: Evidence from an energetic balance model
+
+Foraging habitat selection by Little Terns Sternula albifrons in an estuarine lagoon system of southern Portugal
+
+Effects of the construction of Scroby Sands offshore wind farm on the prey base of Little Tern Sternula albifrons at its most important UK colony
+
+Foraging behaviour of breeding Little Tern Sterna albifrons at Ria de Aveiro
+
+Effects of satellite transmitters on albatrosses and petrels
+
+Spatial ecology of endangered Roseate Terns and foraging habitat suitability around a colony in the western North Atlantic
+
+The effects of disturbance on the abundance and foraging behaviour of shorebirds and waterbirds in the tropical mudflat areas
+
+Relation between climatic factors, diet and reproductive parameters of Little Terns over a decade
+
+The erythrocyte sedimentation rate: old and new clinical applications
+
+Physical-biological interactions in the life history of small pelagic fish in the Western Iberia Upwelling Ecosystem
+
+Factors affecting the reproductive success of American Oystercatchers Haematopus palliatus on the outer banks of North Carolina
+
+Tracking a small seabird: first records of foraging behaviour in the Sooty Tern Onychoprion fuscatus
+
+Algal turbidity reduces risk assessment ability of the three-Spined Stickleback
+
+Reflections of a specialist: patterns in food provisioning and foraging conditions in Sandwich Terns Sterna sandvicensis
+
+Otolith atlas for the western Mediterranean, north and central eastern Atlantic
+
+Boat effects on lake water clarity and the efficacy of a no-wake zone policy
+
+Gadfly petrels use knowledge of the windscape, not memorized foraging patches, to optimize foraging trips on ocean-wide scales
+
+Individual responses of seabirds to commercial fisheries revealed using GPS tracking, stable isotopes and vessel monitoring systems
+
+Are seabirds foraging for unpredictable resources
+
+GPS tracking of foraging albatrosses
+
+Foraging strategy of a tropical seabird, the Red-Footed Booby, in a dynamic marine environment
+
+A review of flight-initiation distances and their application to managing disturbance to Australian birds
+
+The potential impact of tourism development on habitat availability and productivity of Malaysian Plovers Charadrius peronii
+
+Effects of landscape structure, habitat and human disturbance on birds: A case study in East Dongting Lake wetland
+
+A protocol for data exploration to avoid common statistical problems
