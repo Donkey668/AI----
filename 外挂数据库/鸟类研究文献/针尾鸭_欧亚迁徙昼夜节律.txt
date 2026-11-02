@@ -1,0 +1,369 @@
+中文鸟名：针尾鸭
+文献标题：Biotic and abiotic factors drive circadian migration patterns in Northern pintails across the Eurasian flyway.
+DOI：10.1186/s40462-026-00659-5
+PMCID：PMC13267370
+全文来源：https://pmc.ncbi.nlm.nih.gov/articles/PMC13267370/
+下载日期：2026-11-02
+说明：开放获取论文的全文文本，保留原文语言；论文研究地区不一定是深圳。
+
+Biotic and abiotic factors drive circadian migration patterns in Northern pintails across the Eurasian flyway
+
+Background
+
+Migratory birds crossing large ecological barriers can exhibit significant plasticity in their circadian movement patterns, e.g., shifting from nocturnal to continuous flight over seas. But substantial plasticity in the circadian patterns of active migration has also been reported in other birds, such as most intra-Palearctic dabbling ducks, that do not face major ecological barriers en route. Yet, the factors driving such behavioural variation in these species remain poorly understood.
+
+Methods
+
+We investigated how biotic and abiotic factors influenced circadian movement patterns and seasonal migratory schedules during pre-breeding migration of GPS-tracked Northern pintails (Anas acuta) tagged in late winter in northern Adriatic wetlands (Italy) and migrating across Eurasia towards their breeding areas. We classified behaviours from GPS data and estimated the probability of being in active migration as a function of biome, altitude of the sun above the horizon, average ground temperature, and orthodromic distance from the breeding site.
+
+Results
+
+While showing a consistent preference for conditions of low (and decreasing) sun altitude throughout migration (n = 22 pintails, n = 25 complete migration events), we observed a gradual shift towards diurnal flight along the movement path, with the level of diurnality varying according to the specific biome encountered and, likely, to the potential exposure to predators in forested areas, across latitudes. Stopovers were longer in the first half of migration and shorter and more frequent as pintails neared the breeding grounds (located mainly in the Russian Arctic). Although active migration segments were covered at very high speeds, the overall migration pace was consistently slow, suggesting a tendency to follow seasonal cues en route.
+
+Conclusions
+
+Our study provided evidence that circadian migration patterns and seasonal migratory schedules in pintails were continuously adjusted in response to the environmental conditions encountered during migration. This variation was not solely due to the steep reduction in dark hours as individuals migrated northeast, nor to the increasing urgency to reach the breeding grounds. Rather, it likely resulted from an adaptation to ecological contexts favouring daytime migration, counteracted by the necessity of waiting for environmental conditions to become suitable for breeding.
+
+Supplementary Information
+
+The online version contains supplementary material available at 10.1186/s40462-026-00659-5.
+
+Background
+
+Behavioural plasticity shapes an animal’s ability to cope effectively with new challenges and has the potential to enhance population fitness in response to changing environmental conditions. Organisms can integrate multiple cues and the consequences of their responses to environmental conditions reflect the costs and benefits of alternative options. For example, in birds, the seasonal schedule of migration results from a complex interplay between environmental cues and behavioural choices that enables the successful completion of one of the most energetically demanding phases of their annual cycle. This challenge is particularly pronounced for bird species relying predominantly on flapping flight for migration, as sustained powered flight imposes substantial energetic costs. A successful migratory bird must also arrive at its breeding grounds in good condition and at the optimal time, to reproduce during the peak of seasonal resources and benefit from both reduced competition for food and lower predation risks. Consequently, behavioural choices related to both seasonal migratory timing and the daily schedule of active migration are critical factors that can ultimately influence adult survival and reproductive success.
+
+While migrating, birds must cope with the simultaneous variation of several extrinsic cues, both structural (e.g., geographic barriers, human-altered landscapes, suitable stopover habitat occurrence), seasonal (e.g., thawing/freezing of ground and water, vegetation phenology), and short-term (e.g., weather events). Together with intrinsic cues (e.g., body condition), these prompt continuous and dynamic adjustments to migration phenology, affecting decisions on migration onset, stopover duration, flight speeds, and daily flight distances. This plasticity usually contrasts with the relative rigidity of circadian migration patterns, typically conserved within species. Most migratory birds are either predominantly nocturnal migrants (e.g., passerines and waders, benefitting from improved thermoregulation and lower predation risks) or almost exclusively diurnal migrants (e.g., soaring landbirds, relying on thermal uplift). Facultative switching between nocturnal and diurnal migration is also known to occur (e.g., waterfowl species) and has been described, for example, in response to predation or hunting pressure and disturbance. For migrating birds, external cues potentially promoting such facultative switching may themselves change en route. A striking example of this is the progressive increase in day length experienced by Holarctic waterbird species during pre-breeding migration, culminating in continuous daylight at high-latitude breeding grounds. For these birds, responses for behaviours that are normally reliant on (semi) darkness may range from closely synchronising with the changing duration of the (semi) nocturnal periods (by reducing flight duration) to readily accepting facultative diurnality (to maintain flight duration), with many gradations in between. Yet, how Arctic-breeding waterbird species adapt their flight activity under such extreme photoperiod variation remains poorly understood, as circadian activity patterns have been well studied in waterfowl for foraging movements (e.g.), but not during active migration, with most studies being either a-specific (radar data; e.g.), focusing on incubating shorebirds and geese, and a single study on duck migration providing limited information regarding circadian movement patterns.
+
+Here, we investigate the spatiotemporal migration phenology of GPS-tracked Northern pintails (Anas acuta; hereafter: pintail), a dabbling duck species with a Holarctic distribution, breeding mainly in the Arctic region. Our overarching goal is to shed light on the circadian and seasonal plasticity of migration in dabbling ducks as they cross rapidly warming environments in spring and adapt to the extreme photic conditions of high-latitude ecosystems. Specifically, we first aimed to assess the geographical distribution of breeding areas and delineate the main features of migration across the Eurasian flyway (schedules, distances covered, route straightness, speeds, stopovers distribution and duration). Next, we tested how latitude and biome gradients shaped the circadian patterns of active migration as environmental contexts (biome, daylight) gradually changed to reach polar summer conditions near the Arctic tundra. Lastly, we evaluated how seasonal progression (rising ground temperatures) and proximity to the breeding grounds influenced migratory schedules and routes.
+
+We expected high inter-individual variability in migration phenology because, although our tracked pintails were captured at the end of the wintering season in the same area, they likely originated from a wide breeding area, stretching from central Europe to western Siberia. Based on previous studies conducted on another dabbling duck species with a similar (wintering and breeding) distribution (Anas crecca), we expected pintails to leave the non-breeding areas in late winter/early spring and deploy a “skipping” stopover strategy, as defined by: long stopovers alternated with fast active migration segments, with stopover time decreasing as the distance from the breeding sites decreases. Based on previous studies on pintails and other waterbirds, we expected our tracked birds to engage in active migration preferentially under low sun altitude conditions throughout the migratory journey. Once exposed to (near) 24-hour light conditions, we expected pintails to either compress the period of flight activity (as partially suggested by radar data), maintain their circadian migration patterns (as in passerines), or, as found in shorebirds, become arrhythmic or free-running. We considered the first hypothesis to be the least likely, as tundra-nesting birds have a relatively short breeding season and may therefore increase the duration of activity in continuous daylight conditions to be able to rapidly complete their pre-breeding migration. We also expected migratory schedules and the degree of facultative diurnality to vary along the route as predator diversity and abundance decrease with increasing latitudes, and avian migration programs are known to adjust to perceived predation risks based on predator activity time (e.g., in shorebirds). The ability to maintain a degree of plasticity in circadian timekeeping may therefore allow these birds to accelerate migration when predation pressure is reduced, flying irrespective of light conditions towards the end of the migratory journey and ensuring a timely arrival at the breeding sites. However, such acceleration may be constrained by environmental conditions, such as temporarily low temperatures. Hence, although we expected pintails to rush in the final stretch of migration, they may modulate the migratory pace to align with the progression of ground and water thaw, thereby adjusting arrival dates to match habitat availability.
+
+Methods
+
+Study species and GPS tracking
+
+The pintail breeds in the northern areas of America and Eurasia, from the tundra of western and central Siberia to the semi-desertic steppe regions around the Caspian and Azov seas, and winters as far South as subequatorial East Africa and northern South America. The species is intensely hunted for sport in the European Union (listed in Annexes II and III of the Birds Directive) as well as in the rest of Europe, Asia and North America, although showing a decreasing population trend worldwide.
+
+From 2018 to 2025, in November and February, we captured non-breeding pintails using food-baited swim-in traps (Figure S1) and cannon-nets in Valle Cavallino (45.50°N, 12.57°E), a hunting reserve located in the northern Venice lagoon (Italy). In this area, abundant food is provided to wild ducks throughout the winter hunting season, leading to high concentrations of pintails. Trapped individuals were ringed with a metal ring, measured according to standard procedures, fitted with a satellite device, and released (detailed ringing information available in Table S1). We used various models of solar-powered satellite tracking devices and different attaching methods (see Table S1 for more information). The weight of the device and the harness did not exceed 4% of the pintail body mass (mean ± sd: 2.27% ± 0.01, min-max: 1.26–3.60%), which is within the generally recommended tag weight limit for birds. Over the whole migration, tracks were sampled with GPS locations every 1 h to 2 h or up to solar battery recharge. All tracking data were uploaded to the Movebank repository (https://www.movebank.org/cms/movebank-main, study name “Pintail - ISPRA MPIO - Lagoon of Venice – Italy”, Movebank ID: 412070911). Capture, handling, and tagging procedures were carried out under the supervision of the Italian Institute for Environmental Protection and Research (ISPRA), under the authorisation of Law 157/1992 [Art 4(1) and Art 7(5)], which regulates research on wild bird species.
+
+Data management and identification of migration features
+
+For this study, we relied on 25 complete pre-breeding migrations (across the Eurasian flyway, largely from Italy to northeastern Europe or northwestern Asia) from 22 individuals (12 males and 10 females), as two males completed two and three consecutive pre-breeding migrations, respectively. All 25 migration events were complete, allowing the identification of both onset and end dates of migration. Most of the analysed tracks presented gaps in tracking data: one showed a single 62-hour gap, another a single 32-hour gap, and nine other individuals showed from one to several gaps, each lasting less than 12 h (mean number of < 12-hour gaps ± sd: 4.33 ± 4.92, range: 1–17 per track). Gaps were prevalent in March (30.78%), April (28.16%) and May (31.71%). Within the day, gaps were more frequent at midnight (~9.56%) with secondary peaks at 6:00, 12:00 and 18:00.
+
+Following the absolute displacement method described by, birds were considered to have started migration when the first clearly directional movement of > 50 km from the capture site occurred, with no return. Exploratory analyses indicated a 50-km threshold as a conservative estimate of the daily distance travelled during migration (similarly to what was found by). In nine migration events, distinct clusters of locations separated by 60–80 km (Valle Cavallino – Marano Lagoon/Gulf of Trieste) were observed in the weeks after deployment. In these instances, departure dates were computed as the day of departure from the temporally nearest cluster. Similarly to, we assumed pre-breeding migration was complete (i) if the pintail remained in the same delimited area for over a month between May and the end of June or (ii), in case the device stopped transmitting for unknown reasons, if it reached a remote locality (Siberia) during the usual breeding period, the last locations (recorded over at least three days) were within the same delimited area, and further movements were expected not to exceed 50 km. Apparent breeding locations were further checked against the European Breeding Bird Atlas map viewer. All tracks were then subset to retain only locations recorded between pre-breeding migration onset and end dates.
+
+For each migration event, we obtained (1) onset and (2) end dates, (3) duration (days), (4) minimum migration distance (km; orthodromic distance between onset and end site – centroid of all available breeding locations), (5) migration track length (km; sum of all distances between locations recorded on a migration track between onset and end), (6) track straightness (minimum migration distance between the location of onset and end of the track divided by migration track length, (7) migration speed (km/day; migration track length divided by the duration of migration), (8) ground speed (km/h; distance between consecutive locations divided by the time interval, using a minimum of 40 km/h and a maximum of 120 km/h to identify migratory flight, following), and (9) stopover sites, defined as clusters of locations with associated low move persistence estimates (i.e., characterised by slower and more tortuous movements, γt < 0.25, see paragraph 2.3) where pintails stayed for at least 24 h and moved < 25 km between successive locations, based on the maximum foraging distance recorded for the species. We also determined: the geographic location of each stopover site (centroid of all stopover locations), stopover duration (number of days spent at each stopover site), and the overall number of stopover sites per migration track. Given our skewed sex ratio (migration events: M = 15, F = 10) and the fact that dabbling ducks migrate to the breeding grounds as seasonally monogamous pairs we did not pursue any sex-based comparisons of migration phenology, as such differences may have reflected sampling artefacts rather than biologically meaningful variation. Similarly, we also lacked enough information on juveniles/sub-adults (migration events: n = 5 out of 25) to pursue age-based comparisons of migration phenology, although, as shown by the single individual captured as a juvenile and tracked for two subsequent years (Figure S2), some variation across age classes may be expected (; see in particular for ducks).
+
+Characterisation of migration behaviour
+
+All the following analyses were performed in R 4.4.0, and we decided to accept a type I error of 0.05, unless otherwise indicated. To prepare the dataset for characterising migration behaviour, we first screened the tracking data for potential location errors. The overall median fix rate was 2.03 per hour (range 1.01–8.15). To avoid duplicates, locations separated by less than a ten-minute interval were merged. A ground speed filter of 120 km/h (33 m/s) was also applied to remove any erroneous locations when recorded flight speeds would not be possible for pintails, according to the threshold described by. Only 25 locations (representing 0.1% of the dataset) were flagged and removed. We then filtered the remaining tracking data by fitting a State-Space Model (SSM, fit_ssm function, aniMotum package), . This way, we regularised the movement paths with a two-hourly interpolation on a correlated random walk assumption (accounting for movements that are random but correlated in direction and magnitude, as in migration). We selected the two-hour interval after comparing alternative temporal resolutions and choosing the one that minimised the proportion of missing locations while retaining temporal detail. We checked model fit using 1-D time series plots and 2-D tracks with 95% confidence ellipses. To assess goodness-of-fit and validate the model, we computed one-step-ahead prediction residuals (osar function). We visualised them as time series plots, quantile-quantile plots, and autocorrelation functions.
+
+To identify behaviours adopted by pintails during migration, we estimated move persistence from the interpolated tracking dataset. Move persistence is an index of movement behaviour defined as a continuous (0–1) time-varying latent variable γt that identifies changes in movement patterns based on autocorrelation in speed and direction. Periods of migratory travel are characterised by high directional move persistence (γt closer to one), while periods of residency are represented by low directional move persistence (γt closer to zero). We fitted a joint Move Persistence Model (MPM) on the SSM-filtered locations (fit_mpm function), and validated the output in the QGIS environment. Based on the approximately bimodal distribution of γt (Figure S3), we defined two behavioural modes: active migration for all locations with γt > 0.75 and residency/area-restricted search for all locations with γt < 0.25. Values of γt between 0.25 and 0.75 were left unclassified (25% of 22180 locations), as we only aimed to distinguish active migration from residency at a stopover for the descriptive analyses of migration behaviour. The upper threshold (γt > 0.75) was selected based on a sensitivity analysis (see the Supplementary materials, Table S2), similarly to. The lower threshold (γt < 0.25) was determined by iteratively testing values from the first peak of the γt distribution (γt = 0.10) upward, progressively increasing the threshold until the resulting locations were spatiotemporally consistent with a single stopover event, as validated by visual inspection in QGIS (see also Figure S4).
+
+Circadian patterns of active migration across latitudes and biomes and the effect of seasonality on migratory schedules
+
+This section of our analyses pursued two main objectives: (a) to assess plasticity in the circadian patterns of active migration in pintails as facultative diurnal migrants travelling across steep photoperiod gradients and diverse biomes; and (b) to examine how migratory schedules were influenced by the urgency to reach the breeding grounds and by seasonality (i.e., day of the year and the progressive thawing of ground and water bodies in spring).
+
+a) To estimate the circadian migration patterns of pintails across steep photoperiod gradients and diverse biomes, we first annotated each location with the altitude of the sun above the horizon at that spatiotemporal point using the getSunlightPosition function (suncalc package, values −1 to +1.5, in radians: −1 corresponds to the nadir; +1.5 to the zenith; 0 to the sun at the horizon; Fig. 1). As a preliminary step, we visualised the photoperiod gradient experienced by pintails during migration by determining the number of hours between nautical sunset/rise (i.e., sun altitude below −0.21 radians) at each available location and date (as detailed in the Supplementary materials, Figure S5). Then, we assessed whether the probability of being in active migration (0/1, where 1 indicates γt > 0.75) varied with the direction of change in sun altitude (increasing versus decreasing ambient darkness) in interaction with sun altitude itself. To do so, we fitted a Generalised Linear Mixed Model (GLMM, glmmTMB package) with a binomial error structure, using bird identity as a random intercept. We computed a Δ sun altitude (sun altitude of the following location - sun altitude of the current location: Δ < 0 sun is setting, Δ > 0 sun is rising). A first-order autoregressive correlation structure (ar1) was fitted separately to each track (i.e., each individual-year combination) to account for temporal autocorrelation among successive observations. Validation was performed with the DHARMa package by checking scaled residuals simulated from the fitted model, performing simulation-based nonparametric dispersion tests, and testing for zero inflation. Degrees of freedom and p-values were obtained using likelihood-ratio χ² tests from the Anova function (car package) applied to the glmmTMB model. As three models were fitted with the same response variable (i.e., active migration), a Bonferroni correction was applied to control the type I error rate, yielding adjusted significance thresholds of 0.017 (i.e., 0.05 / 3) and 0.0003 (i.e., 0.001 / 3). Finally, to estimate the probability of being in active migration according to sun altitude, biome class, and their interaction, we fitted a separate GLMM (glmmTMB function) to avoid modelling a three-way interaction (i.e., between sun altitude, Δ sun altitude, and biome class), which would have introduced undue complexity and interpretational ambiguity. We first annotated each location with a categorical variable indicating its corresponding biome (open area – cropland or water body, temperate forest, coniferous forest, tundra, Fig. 1) based on the Global Land Cover 2000 classification; consistent attribution with the current landcover was confirmed for random samples of locations checked against 2025 orthophotos. We used a binomial error structure, bird identity as a random intercept, “open areas” (i.e., water bodies and croplands) as the reference level for the biome predictor, and a first-order autoregressive correlation structure as described above. The model was validated, and degrees of freedom and p-values were obtained as previously described. Using the emtrends and pairs functions (emmeans package), we also estimated the marginal slopes of active migration probability with respect to sun altitude within each biome, and conducted Tukey pairwise comparisons of these slope estimates between biome levels.
+
+Onset locations (white squares), breeding sites (dark red circles), migratory tracks, and stopover locations (black empty circles) of n = 22 pintails with n = 25 complete pre-breeding migrations. Upper panel: each GPS-derived location is colour- and shape-coded according to its corresponding biome, based on the Global Land Cover 2000 classification. For the models, water bodies and croplands were merged into a single biome class (“open areas”). The temperate forests form a visible barrier around the Pannonian steppe, while distinct clusters of points indicate the coniferous forests of the Russian taiga and, further North, the tundra of the Siberian Arctic. Lower panel: each migratory step is colour-coded according to the light conditions at the time the movement took place (altitude of the sun above the horizon: orange = sun at the zenith; blue = sun at the nadir; white = sun at the horizon). The size of the empty black circles is proportional to the number of days spent by the pintail at that stopover site: within a week, within two weeks, within a month, over a month. For four out of the 25 migration events, no stopovers are shown because the pintails did not remain at any location for more than 24 h during migration. Most of the longer-lasting stopovers are concentrated in the first half of each migration path, frequently before the Carpathians. Pintail photo credits: Marco Basso
+
+b) To evaluate how the pintails’ migratory schedules were shaped by the urgency to reach the breeding grounds and by seasonality, we annotated each location with the orthodromic distance from the breeding site. We also annotated the temperature of the uppermost surface layer (a proxy for frozen ground and water, indicating the progressive thawing during spring) at that spatio-temporal point. Ground temperature information was downloaded from the ERA5-Land dataset, which provides hourly-high-resolution information on surface variables with a 0.1° x 0.1° horizontal resolution (i.e., from ~ 3 × 11 km to ~ 9 × 11 km in Eurasia) via Python v. 3.12.6. Annotation was performed via nearest-neighbour interpolation and inverse distance weighting (idw function, gstat package), for those locations that returned empty values (7% of 22180 locations) likely due to the spatial resolution of ERA5-Land. To illustrate the relationship between pintail locations over time and surface temperature conditions experienced, we generated spatio-temporal matrices following the methods described in, displaying ground temperatures at each stopover and breeding site of GPS-tracked pintails. For each site (centroid of all stationary locations) and year with available tracking data, we extracted the daily mean ground temperatures, which we then stratified by 1° latitude bins and layered for visualisation (Fig. 2, S6). We then modelled the probability of being in active migration for each location (0/1, where 1 indicates γt > 0.75) according to the distance from the breeding site and the ground temperature. To do so, we standardised predictors to improve the interpretability of regression coefficients. Then, we fitted a GLMM (glmmTMB function) with a binomial error structure, using bird identity and track id as random intercepts. We initially attempted to add an ar1 correlation structure on the residuals to account for temporal autocorrelation as used previously (section a), fitting the term separately per track. However, diagnostic checks (glmmTMB::diagnose function) revealed numerical instability and model over-parameterisation, with the ar1 structure absorbing nearly all residual variance. We therefore decided to drop the term and instead retain both hierarchical random effects. The model was then validated, and degrees of freedom and p-values were obtained as previously described.
+
+Spatio-temporal matrix of ground temperatures for each stopover and breeding site of pintails GPS-tracked in 2019 (n = 5 migration events); see Figure S6 for individuals tracked in subsequent years. For each stopover (centroid of all stopover locations), the daily mean ground temperature was extracted. The x-axis represents ‘time’ (beginning of February to end of June) as the day of the year from 1 January (some reference dates for ease of interpretation: 40 = 9 February, 60 = 1 March, 100 = 10 April, 130 = 10 May, 160 = 9 June), while the y-axis represents ‘space’ as the latitude (1° bins) of the stopover/breeding site. The daily means of ground temperatures for each latitude bin are stratified one on top of the other. The colour gradient represents the ground temperatures recorded across space and time. The grey dots and triangles indicate the day of the year when the pintail reached the stopover and the breeding area, respectively
+
+As an additional step to assess the relevance of seasonality on migratory schedules, we tested whether pintails adjusted stopover duration and the distances travelled after stopping in relation to calendar day (i.e., migration onset, arrival at stopover, departure from stopover). Specifically, following the approach of, we fitted two models to test (i) whether stopover duration was influenced by the date of migration onset or by the arrival date at the stopover, using the length of the migratory step travelled before stopping as an additional covariate (a proxy for energy consumed), and (ii) whether the length of the migratory step travelled after a stopover depended on previous stopover duration (a proxy of the energy accumulated) or on the departure date from the stopover. All predictors were normalised using min-max scaling. Both models were initially fitted as GLMMs (glmer function, lme4 package, as this analysis did not require the extended features offered by glmmTMB) with a gamma error distribution and log link function, with track id as a random intercept (n = 21, migration events with at least one stopover > 24 h). Error distributions were selected based on the nature of the data, confirmed by comparison with alternative plausible distributions (e.g., lognormal), and further supported by model validation. For model (ii), the estimated variance of the random effect was zero, so the model was refitted as a GLM (glm function). Model (i) was validated, and degrees of freedom and p-values were obtained as previously described. Model (ii) was validated by visual inspection of quantile-quantile and residual plots, and the significance of fixed effects and degrees of freedom were assessed using an F-test (anova function). The overall stopover distribution is shown in Fig. 1.
+
+Results
+
+Geographical distribution of breeding areas and migration phenology
+
+The breeding areas of GPS-tracked pintails (22 individuals, 25 tracks) captured in the Venice lagoon (Italy) were located over a wide geographic range, stretching from northeastern Europe and western Russia to western Siberia, between ca. 48°–71° N and 21°–67° E (Fig. 1). All individuals followed NE routes across the Eurasian flyway, with first stopovers mostly located in the Great Hungarian Plain. A minority of individuals deviated from this pattern: one individual settled in Hungary and three in Estonia, with one showing a marked westward detour to the Netherlands. When leaving Italy, the area between Slovenia and Croatia represented a migration bottleneck on the way to the breeding grounds. Of the two individuals with consecutive pre-breeding migrations, one (male, tagged as an adult) spent two breeding seasons in western Siberia (sites 63 km apart) following a similar route in both years, while it stopped 330 km South, near the Pečora river, in the third year. It overwintered in southern France for two consecutive seasons. The other one (male, tagged as a juvenile) spent the first breeding season in Estonia, overwintered between the Netherlands and northern Germany, and reached a breeding site in Siberia, 1400 km NE from the previous one, in the second year (Figure S2).
+
+Descriptive statistics of pre-breeding migration phenology are reported in Table 1 and were derived from the original cleaned dataset, with no interpolation. Most pintails departed in the afternoon (n = 15 out of 25 migration events, with at least one location/two hours and thus the most reliable; median: 4 p.m., range: 2 p.m. – 7 p.m.). Onset of migration was usually at the beginning of March (median: 7 March) with a few outliers leaving as late as the end of May (n = 7, median: 17 May, range: 3–22 May, Table 1). Most individuals reached the breeding site in the first week of June (Table 1). Pintails travelled for ca. 85 days (median, Table 1) with an average of 60 ± 37 days of active migration (from the interpolated dataset: number of days with at least one move persistence estimate γt > 0.75, range: 2–103). Track length was ca. 4500 km (median) with a minimum migration distance of ca. 3400 km (Table 1), but a high degree of variability was evident for both track length and the distribution of presumed breeding areas (Fig. 1). Migration speed was ca. 65 km/day (median), over relatively curvilinear tracks (median straightness: 70%) (Table 1). Out of 25 migration events, four had no stopovers (according to the definition we used: lasting at least 24 h), suggesting a dual migratory strategy (i.e., migration with and without stopovers). For the 21 tracks with stopovers, each had ca. four stopover sites along the migration path (Table 1). Most individuals had at least one stopover lasting over five days (14/21), while only a minority showed at least one stopover > 10 days (6/21) or > 20 days (3/21). Stopover duration was ten days on average, with high variation (Table 1). For most birds (17/21), the longest stopover site was in the first half of the migration track, which often (11/17) meant before they crossed the Carpathians. Unusually long stopovers (n = 6, lasting over 35 days) were carefully checked and confirmed as stopover events on QGIS. None of our tracked pintails shared the same breeding site; we can therefore exclude the presence of pairs in our dataset.
+
+Summary statistics of migration phenology of GPS-tracked pintails (n = 25 migration events, n = 21 with at least one stopover lasting over 24 h)
+
+Variable	Mean (± sd)	Range	 	Onset (day of year)	81.48 (± 35.14)	[42.00–142.00]	 	End (day of year)	155.00 (± 9.81)	[140.00–173.00]	 	Duration (days)	73.80 (± 32.52)	[11.42–116.48]	 	Average ground speed (km/h)	67.67 (± 8.17)	[49.02–81.64]	 	Migration speed (km/day)	78.54 (± 58.97)	[21.85–329.64]	 	Track length (km)	4492.15 (± 1587.69)	[1922.83–7386.41]	 	Minimum migration distance (km)	3003.52 (± 970.31)	[632.91–4024.78]	 	Track straightness	0.69 (± 0.16)	[0.33–0.97]	 	Longitude at breeding site (°)	49.02 (± 15.86)	[21.08–67.38]	 	Latitude at breeding site (°)	63.87 (± 5.04)	[47.65–70.68]	 	Number of stopovers	4.36 (± 3.43)	[0.00–12.00]	 	With at least one > 24 h stopover			 	Average stopover duration (days)	10.22 (± 7.97)	[1.00–28.67]	 	Longest stopover duration (days)	25.95 (± 20.07)	[1.00–78.00]
+
+Mean values are shown together with their standard deviation (round brackets) and minimum/maximum values (square brackets)
+
+Circadian patterns of active migration across latitudes and biomes and the effect of seasonality on migratory schedules
+
+The visualisation of the number of hours of darkness experienced by migrating pintails across latitudes (i.e., the photoperiod gradient) is reported in Figure S5. When pintails left Italy (or Germany, in one case; or France, in two cases) in late winter, day length (nautical twilight included) was approximately 12 h. In most instances, pintails reached their breeding sites in western Siberia during the Arctic summer, when day length is approximately 24 h. The range of sun altitude encountered by migrating pintails was between − 0.99 and 1.13 radians. The Generalised Linear Mixed Model (GLMM), used to assess circadian plasticity in active migration according to sun altitude conditions and the direction of change in sun altitude (increasing versus decreasing ambient darkness) was carried out on the 22,129 observations with available Δ sun altitude estimates (range: –0.38, 0.40), of which 3218 observations (15%) were within nautical twilight conditions. The output revealed that pintails were more likely to pursue active migration at lower sun altitude conditions overall (Table 2A). The model also showed that active migration was more likely as darkness intensified and that this preference was consistent across sun altitude conditions (nautical twilight included), as indicated by the non-significant interaction term (Table 2A). Individual variability accounted for a substantial portion of the total variance (R2 conditional – R2 marginal = 0.48) and the model had high explanatory power (R2 conditional = 0.89).
+
+The binomial GLMM used to assess circadian plasticity in active migration according to sun altitude conditions and biome being traversed confirmed that pintails were more likely to pursue active migration at lower sun altitude conditions and that active migration likelihood (i.e., probability of being in active flight) was constant across biome classes (22130 observations with available γt estimates, Table 2B). There was a significant interaction between sun altitude and biome, indicating that the effect of sun altitude conditions on the probability of being in active migration differed by biome type (Table 2B). Specifically, when crossing coniferous and temperate forests, migrating pintails tended to prefer darker ambient conditions (resulting in a more pronounced slope, showing that active migration was significantly more likely as sun altitude decreased, especially so over coniferous forests, Table 2B). In contrast, in more open biomes and in the tundra, selection for darker ambient conditions was weaker (resulting in a non-significant relationship, Table 2B). Tukey-adjusted pairwise comparisons confirmed this pattern between biomes, revealing a significant difference between open biomes (i.e., water bodies and croplands) and temperate/coniferous forests, while contrasts involving the tundra biome were not significant (Table 2B). Consistent with the previous model, individual variability accounted for a substantial portion of the total variance (R2 conditional – R2 marginal = 0.66) and the model had high explanatory power (R2 conditional = 0.91).
+
+Estimates obtained from two distinct Generalized Linear Mixed Models (GLMMs) assessing the effects of: (A) sun altitude, direction of change in sun altitude (Δ < 0 if sun is setting), and their interaction on the probability of being in active migration; and (B) sun altitude, biome class (reference: open areas), and their interaction on the probability of being in active migration. Shown below the results of model B are the post-hoc pairwise comparisons of model B residuals for the interaction with sun altitude across biome classes
+
+Model	Predictors	ß ± SE	z	χ2 (df)	p	 	A	Active migration (0/1)					 		Sun altitude	–7.14 ± 0.80	–8.97	80.38 (1)	< 0.0003	 		Δ Sun altitude	–8.47 ± 1.28	–6.64	44.05 (1)	< 0.0003	 		Sun altitude * Δ Sun altitude	–1.68 ± 2.26	–0.74	0.55 (1)	0.459	 	B	Active migration (0/1)					 		Sun altitude	–4.46 ± 0.69	-6.49	42.12 (1)	< 0.0003	 		Biome class	–	–	1.87 (3)	0.600	 		Coniferous forest	0.42 ± 0.89	0.47	–	0.637	 		Temperate forest	0.25 ± 0.70	0.36	–	0.720	 		Tundra	–2.74 ± 2.32	–1.18	–	0.237	 		Sun altitude * Biome class	–	–	26.42 (3)	< 0.0003	 		Sun altitude : Coniferous forest	–8.39 ± 1.84	–4.55	–	< 0.0003	 		Sun altitude : Temperate forest	–4.78 ± 1.61	–2.97	–	0.003	 		Sun altitude : Tundra	–4.03 ± 4.25	–0.95	–	0.343	 	B	Pairwise post-hoc comparisons of interaction sun altitude * biome class					 		Open area – Coniferous forest	8.39 ± 1.84	4.55	–	< 0.0003	 		Open area – Temperate forest	4.78 ± 1.61	2.97	–	0.016	 		Open area – Tundra	4.03 ± 4.25	0.95	–	0.779	 		Coniferous – Temperate forest	–3.60 ±  2.28	–1.58	–﻿	0.389	 		Coniferous forest – Tundra	–4.36 ± 4.46	–0.98	–	0.762	 		Temperate forest – Tundra	–0.76 ± 4.43	–0.12	–	0.998
+
+For both models, bird identity was included as a random intercept effect. Degrees of freedom and p-values were obtained using likelihood-ratio χ² tests. Statistically significant effects (Bonferroni corrected: p < 0.017, p < 0.0003) and response variables are highlighted in bold
+
+The binomial GLMM used to test the effects of breeding urgency and seasonality on migratory schedules revealed a non-significant effect of the distance from the nest on active migration probability (22130 observations with available γt estimates, Table 3A). Contrary to what was suggested from a plot based on raw data pooled across individuals (FigureS7), the likelihood of being in active migration did not change along the migratory route (Table 3A). The same model showed that pintails were significantly more likely to engage in active migration with rising ground/water bodies surface temperatures (Table 3A) and generally arrived at the stopover sites when temperatures were higher than 0 °C, suggesting that they might track a gradient of ground temperature along the migration path (Figs. 2, S6). The model explained 45% of the variance and indicated that most of the explainable variation arose from differences among individuals and track identity, rather than the fixed effects (R2 marginal < 1%).
+
+The gamma GLMM characterising stopover schedules showed that the onset date of a stopover (arrival day at the site) had a strongly significant effect on its duration, with longer stopovers occurring earlier in the season (109 observations, Table 3B). The same model also indicated a minor negative effect of the length of the migratory step travelled before the stopover on its duration (Table 3B). The date of migration onset, on the other hand, did not affect stopover duration (Table 3B). Fixed effects alone explained 42% of the variance (R2 conditional = 0.53), and residual diagnostics indicated good overall model fit with only a slight deviation at the lower quantile, likely due to sampling variation. The gamma GLM used to estimate the influence of stopover schedules on the distance travelled after a stopover showed that neither stopover duration nor departure date from the stopover were significant predictors of the length of the following migratory leg (109 observations, Table 3C). This second model had very low explanatory power (R2 = 3%) and residual diagnostics indicated no major violations of model assumptions, with three mild outliers having no notable influence on model estimates (Cook’s distance).
+
+Estimates obtained from three distinct models assessing the effects of: (A) distance from the breeding site and surface ground/water bodies temperature on the probability of being in active migration (GLMM); (B) migration onset date, arrival date at the stopover site, and length of the migratory step travelled before stopping on stopover duration (GLMM); and (C) stopover duration and departure date from the stopover site on the length of the migratory step travelled after stopping (GLM)
+
+Model	Predictors	ß ± SE	z	χ2 (df)	p	 	A	Active migration (0/1)					 		Distance from the nest (km)	–0.04 ± 0.03	–1.52	2.30 (1)	0.130	 		Ground temperature (°C)	0.21 ± 0.03	7.88	62.10 (1)	< 0.0003	 	B	Stopover duration (days)					 		Migration onset date	0.04 ± 0.45	0.08	0.01 (1)	0.939	 		Arrival date at stopover	–2.59 ± 0.37	–6.98	48.69 (1)	< 0.001	 		Step travelled before stopover (km)	–1.22 ± 0.60	–2.04	4.15 (1)	0.042	 	C	Step travelled after stopover (km)					 		Stopover duration (days)	0.76 ± 0.51	1.49	1.91 (1)	0.121	 		Departure date from stopover	–0.003 ± 0.003	–1.03	0.71 (1)	0.344
+
+Track id (and bird identity, for model A) were included as random intercept effects for models A and B. Estimates refer to standardised (A) and normalised (B, C) variables. Degrees of freedom and p-values were obtained using likelihood-ratio χ² tests. Statistically significant effects (p < 0.05, p < 0.001; Bonferroni corrected for model A to: p < 0.017, p < 0.0003) and response variables are highlighted in bold
+
+Discussion
+
+We here investigated the environmental correlates of both circadian migration patterns and seasonal migratory schedules in pintails migrating across the Eurasian flyway, using 25 complete pre-breeding migration tracks from 22 individuals. Pintails maintained a preference for migration at low and decreasing sun altitude conditions throughout the migratory route, gradually increasing the degree of facultative diurnality as they approached continuous daylight in the Arctic. Facultative diurnality was particularly pronounced when traversing some (non-forested) high-latitude biomes, where pintails likely encountered reduced predation pressure. Marked behavioural plasticity in migrating pintails was further confirmed by their seasonal migratory schedules, with individuals alternating between fast migration segments and long stopovers early in the journey, shifting to shorter and more frequent stops as they approached the breeding grounds. The resulting slow overall migration pace was preserved throughout migration, in a continuous adjustment to the progressive thawing of ground and water bodies as pintails migrated northeast.
+
+Our analyses revealed that pintails consistently engaged in active migration as ambient darkness intensified, selecting dusk over dawn and preferring conditions of low sun altitude overall. This is consistent with previous reports for pintails tracked with Argos Doppler devices in North America and with the general patterns described for waterfowl species (e.g.). Such a preference likely reflects the well-documented advantages of flight performed under reduced light conditions: lower temperatures and higher humidity reduce overheating and dehydration risk, and denser air and reduced turbulence lower energy demands. Despite this, overall migratory activity was quantitatively dominated by diurnal locations, with only 43% of active migratory locations recorded at or after dusk (17% during nautical twilight and 26% after nautical sunset). This apparent contradiction can be explained by the fact that stopovers became shorter and more frequent as pintails approached the breeding grounds (see last paragraph), generating a higher density of migratory locations in the latter part of the journey, where sun altitude rarely or never fell below −0.21 radians (i.e., nautical sunset, Figure S5). Active flight, even when timed to the lowest available sun altitudes, therefore necessarily occurred during daytime at high latitudes (as shown in Fig. 1), confirming how medium- to long-distance migrants may need to extend their migratory flight into daylight hours due to time constraints. The tendency to maintain a preference for lower sun altitude conditions, irrespective of actual hours of darkness available, may further reflect an attempt to preserve consistent circadian migration patterns throughout the journey (as found in passerines). However, what we observed was rather a plasticity in circadian migration patterns depending on the specific biome encountered, with a pronounced selection for darker ambient conditions when flying over some high-latitude biomes (i.e., coniferous and temperate forests) and not others (i.e., open areas and tundra). We may therefore define the pintail as a true facultatively diurnal migrant, engaging in diurnal migration in a highly flexible and context-dependent fashion, shaped by both latitudinal photoperiod constraints and biome-specific factors. We may also posit that the stronger preference for darker ambient conditions during flight over high-latitude forested biomes (e.g., Sarmantic mixed forests and the Russian taiga), might represent an antipredator strategy in areas where diurnal birds of prey may be more abundant. However, we were unable to conduct raptor censuses along the migratory route, so alternative explanations for the biome’s effect on overall behavioural plasticity and on the level of migratory diurnality (such as the variable availability of food resources, as partially suggested in geese) cannot be ruled out.
+
+The migration phenology of GPS-tracked pintails revealed considerable individual variation, highlighting the pronounced behavioural plasticity existing within a single wintering population. Like other dabbling ducks migrating across the Eurasian flyway (e.g., Anas crecca), the plausible breeding sites of tracked pintails spread over a vast area of Eurasia, from central to northeastern Europe, to the Baltic region, and the White Sea coast. Interestingly, a few pintails (n = 5) had prolonged migration over the sea (in this case, the North, Baltic, and White Sea) following a route comparable to that of other larger-bodied GPS-tracked Arctic-breeding waterfowl species (e.g., Branta leucopsis, Branta bernicla bernicla, Anser albifrons albifrons, Cygnus columbianus bewickii) and falling within the Eurasian breeding range described for pintails (as derived from the data of the Bird Ringing Centre of Russia). Our findings highlighted the significant role of the western Siberian Arctic as a key breeding area for pintails wintering in Central Europe, confirming what was suggested by ring recovery data. Onset and arrival dates we observed were consistent with what is reported in the literature for GPS-tracked pintails across flyways (e.g., Eurasian; Pacific Americas; East Asian/Australasian) and were concentrated in the latter half of the ring recovery data timeframe (e.g.). However, onset and arrival dates of GPS-tracked pintails should be approached with caution, as these individuals represent only a subsample (birds captured at a specific site) potentially differing from the broader population (e.g., by having higher body mass due to the supplemental feeding provided during the winter hunting season) and carrying additional weight and drag from the GPS devices, which may especially affect departure dates (see e.g.). Our tracked pintails migrated at a faster speed (median: 65 km/day; mean ± sd: 79 ± 59 km/day) than what is reported for Eurasian waterfowl (~ 50 km/day for Anseriformes), but within the interval described for GPS-tracked long-distance migrating pintails in eastern Asia. A comparatively faster migration pace would still have been explained by the dual stopover strategy we observed (first documented in pintails by), if driven by the higher migration speed of those individuals with nonstop migrations. The variability we found in distribution and duration of stopovers and in migration routes fits with the notion that pre-breeding migration strategies in dabbling ducks (e.g., Anas platyrhynchos), are flexible, with individuals sharing the same non-breeding areas making markedly different decisions about the path they follow and the pace at which they head to the breeding grounds.
+
+The migration pace we observed presented an interesting contrast. After an early concentration of long stopovers (a seemingly common migration strategy for Arctic-nesting pintails, which might explain the negative relationship we found between distance travelled before stopping and stopover duration), we expected subsequent, more rapid movement to the breeding areas, the pintail being a tundra-nesting bird with a short breeding season. Instead, pintails preserved an overall slow migration pace throughout the migratory journey, likely reflecting ongoing adjustments to spring progression, as indicated by stopover schedules (i.e., stopover duration depending on the date of stopover onset). This was especially true for pintails migrating to more northeasterly locations, which seemingly tried to follow spring more closely, consistent with previous findings in other Siberia-breeding dabbling ducks (e.g.,  Mareca penelope). The spatiotemporal availability of suitable stopover habitat, which is patchy by nature for most waterfowl, might further explain the absence of an acceleration in the final stretch of migration. In Central Europe, where suitable wetlands and ephemeral water bodies are sparse and harder to reach, pintails may be constrained in their choice of stopover sites, potentially resulting in longer stopovers at fewer, higher-quality sites. Further east, as birds approach Russia, permanent and ephemeral wetland availability is inherently higher and increases further over time with the progressive thawing of ice and snow, likely relaxing these constraints and allowing shorter, more frequent stops closer to the breeding grounds. Indeed, our models and spatiotemporal matrices suggested that increasing ground temperatures may cue pintails to continue migration by signalling thawed, favourable conditions at subsequent sites (as found in Anas crecca). This means that, throughout migration, pintails likely experienced consistent ground temperatures (i.e., 0–10 °C), moving as soon as the seasonal cues at a stopover indicated suitable environmental conditions further North. In the same way, and similar to findings in other waterfowl species, pintails compensated for differences in pre-breeding migration departure en route, so that early- and late-departing migrants had a similar arrival date at the breeding grounds, this convergence likely representing the optimal time to reproduce during the peak of seasonal resources. Nonetheless, the high individual variability we observed suggests that individual differences play a dominant role in shaping migration behaviour and seasonal migratory schedules, including the relationship with daylight conditions, given that the daily solar arc changes considerably across spring, limiting broad inferences about population-level responses to environmental conditions.
+
+Conclusions
+
+We provided evidence of how a complex interplay of biotic and abiotic factors, such as increasing daylight hours and rising ground temperatures, shapes the schedules of pre-breeding migration in a medium-distance migrant across latitudes. The seasonal timing of migration and the circadian migration patterns we observed were consistent across individuals, with a marked preference for migration in darker ambient conditions over forested biomes and a higher flexibility in diurnality in more open areas, across latitudes. The predominance of daytime migratory locations hints at how conclusions about the circadian migration patterns of facultatively diurnal migrants may differ substantially depending on where and when individuals are observed, with our results likely reflecting the specific spatiotemporal context of this flyway. The overall slow pace of migration, the tendency to track increasing ground temperatures, and the choice of the migration route itself showed, instead, relevant individual differences, arguably maintaining variation within the same wintering population. These insights not only highlight the remarkable plasticity of migration in pintails, suggesting that daylight constraints may only marginally limit migratory birds’ ability to adjust schedules en route, but also show how, in omnivorous species not necessarily constrained by tracking the green wave of spring, migration decisions are primarily shaped by local habitat features.
+
+Supplementary Information
+
+Below is the link to the electronic supplementary material.
+
+Publisher’s note
+
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+Author contributions
+
+DC, DB, and LS contributed to the study conception and design. LS provided the necessary materials. Fieldwork was conducted by MB and LP (bird captures), LS, FS, JGC, AF, SP, FDP, DB, and DC (GPS deployment). DC performed the analyses, with guidance from DB and SI and inputs from LS, AP, FDP, and JGC. DC wrote the first draft of the manuscript, with guidance from DB and LS. All authors participated, read, and agreed to the final version of the manuscript.
+
+Funding
+
+The study is funded by the agreement between ISPRA and the Italian Ministero dell’Ambiente e della Sicurezza Energetica (MASE), formerly called Ministero dell’Ambiente e della Tutela del Territorio e del Mare (MATTM): Decreto Min. Prot. 34751, 30/12/2019 and by the agreements between ISPRA and Morosina S.p.A. (Viale Europa 7, 37045 Legnago, Verona, Italy): L00AVM02 01/10/2017-30/09/2019; L00AVM1 01/10/2020-30/11/2022, with additional act. This study has also been partially funded under the National Recovery and Resilience Plan (NRRP), Mission 4 Component 2 Investment 1.4 - Call for tender No. 3138 of 16 December 2021, rectified by Decree n.3175 of 18 December 2021 of Italian Ministry of University and Research funded by the European Union – NextGenerationEU. Project code CN_00000033, Concession Decree No. 1034 of 17 June 2022 adopted by the Italian Ministry of University and Research, CUP C93C22002810006, Project title “National Biodiversity Future Center – NBFC, to AP. DC received funding through a doctoral grant stipulated between the University of Padua (Italy) and Dragojesolo Società Agricola (Via Indipendenza 5, 31100 Treviso, Italy): PhD course in Biosciences - Evolution, Ecology and Conservation curriculum - XXXIX cycle selection https://www.unipd.it/en/phd-courses-2023-2024.
+
+Data availability
+
+The dataset used for this study is available in the Movebank repository (https://www.movebank.org/cms/movebank-main, study name “Pintail - ISPRA MPIO - Lagoon of Venice – Italy”, Movebank ID: 412070911). The datasets generated from the analyses, along with the code used, are available from the corresponding author upon reasonable request.
+
+Declarations
+
+Ethics approval and consent to participate
+
+Capture, handling, and tagging procedures were carried out under the supervision of the Italian Institute for Environmental Protection and Research (ISPRA), under the authorisation of Law 157/1992 [Art 4(1) and Art 7(5)], which regulates research on wild bird species. Birds were handled only by experienced staff, and no birds were injured during the capture and handling procedures.
+
+Consent for publication
+
+Not applicable.
+
+Competing interests
+
+The authors declare no competing interests.
+
+Abbreviations
+
+1-D, 2-D
+
+One-dimension, two-dimension
+
+E/NE
+
+East/Northeast
+
+GLMM
+
+Generalised linear mixed model
+
+GLM
+
+Generalised linear model
+
+MPM
+
+Movement persistence model
+
+SSM
+
+State space model
+
+References
+
+Behavioural plasticity is associated with reduced extinction risk in birds
+
+Understanding variation in behavioural responses to human-induced rapid environmental change: A conceptual overview
+
+Helm B. Clocks and calendars in birds. In: Ebling FJP, Piggins HD, editors. Neuroendocrine Clocks and Calendars [Internet]. Springer International Publishing; 2020. pp. 119–42. (Masterclass in Neuroendocrinology). Available from: http://link.springer.com/.
+
+Long-distance migrants as a model system of structural and physiological plasticity
+
+Hedenström A. Migration by soaring or flapping flight in birds: The relative importance of energy cost and speed. Bone Q, editor. Philosophical Transactions of the Royal Society of London Series B: Biological Sciences. 1993;342(1302):353–61. 10.1098/rstb.1993.0164.
+
+Animal migration to northern latitudes: environmental changes and increasing threats
+
+Migration mortality in birds
+
+Cues, strategies, and outcomes: how migrating vertebrates track environmental change
+
+A place to land: Spatiotemporal drivers of stopover habitat use by migrating birds
+
+Kölzsch A, Bauer S, De Boer R, Griffin L, Cabot D, Exo K et al. Forecasting spring from afar? Timing of migration and predictability of phenology along different migration routes of an avian herbivore. Bearhop S, editor. J Anim Ecol. 2015;84(1):272–83. 10.1111/1365-2656.12281.
+
+The frost wave hypothesis: How the environment drives autumn departure of migratory waterfowl
+
+Advancement in long-distance bird migration through individual plasticity in departure
+
+Rainfall-induced changes in food availability modify the spring departure programme of a migratory bird
+
+Experimental reduction of winter food decreases body condition and delays migration in a long-distance migratory bird
+
+Weather, sex and body condition affect post-fledging migration behaviour of the greater flamingo Phoenicopterus roseus
+
+Gwinner E, Helm B. Circannual and circadian contributions to the timing of avian migration. In: Berthold P, Gwinner E, Sonnenschein E, editors. Avian Migration [Internet]. Springer Berlin Heidelberg; 2003. pp. 81–95. Available from: http://link.springer.com/10.1007/978-3-662-05957-9_5.
+
+Newton I. The migration ecology of birds. 2nd edition. Amsterdam: Academic Press; 2023. p. 1 .
+
+Predation risk constrains the plasticity of foraging behaviour in teals, Anas crecca: a flyway-level circumannual approach
+
+Hunting constrains wintering mallard response to habitat and environmental conditions
+
+Jorde DG, Ray B. OJr. Waterfowl in winter: selected papers from symposium and workshop held in Galveston, Texas, 7–10 Jan 1985. Weller MW, editor. The need for nocturnal activity and energy budgets of waterfowl. Minneapolis: University of Minnesota Press; 1988;1.
+
+The occurrence and adaptive significance of nocturnal habits in waterfowl
+
+Using satellite tracking to assess the use of protected areas and alternative roosts by Whooper and Bewick’s swans
+
+Timing of nocturnal passerine migration in Arctic light conditions
+
+Longer days enable higher diurnal activity for migratory birds
+
+High-latitude night shortening forces birds to accept increasingly diurnal migration to maintain flight duration
+
+Huffeldt NP, Fossøy F, Hedh L, Moksnes A, Snell KRS, Stokke BG, et al. Flexibility in the diel migratory schedule of an Arctic songbird despite robust 24-h activity rhythms across the annual cycle. J Avian Biol. 2025:e03483. 10.1002/jav.03483.
+
+Latitudinal gradients of biologically useful semi-darkness
+
+When the sun never sets: Diverse activity rhythms under continuous daylight in free-living arctic-breeding birds
+
+Parejo M, Gutiérrez JS, Navedo JG, Soriano-Redondo A, Abad-Gómez JM, Villegas A, et al. Day and night use of habitats by Northern pintails during winter in a primary rice-growing region of Iberia. Longcore T, editor. PLoS ONE. 2019;14(7):e0220400. 10.1371/journal.pone.0220400.
+
+GPS tracking data reveals daily spatio-temporal movement patterns of waterfowl
+
+Movement behavior, habitat selection, and functional responses to habitat availability among four species of wintering waterfowl in California
+
+Biparental incubation-scheduling: no experimental evidence for major energetic constraints
+
+De Jong ME, Slettenhaar AJ, Fokkema RW, Leh M, Verhoeven MA, Griffin LR, et al. Diel rhythmicity of activity and corticosterone metabolites in Arctic barnacle geese during breeding. Le Roux A, editor. Behavioral Ecology. 2025;36(4):araf071. 10.1093/beheco/araf071.
+
+Flight speeds of Northern pintail during migration determined using satellite telemetry
+
+Spring migratory routes and stopover duration of satellite-tracked Eurasian teals Anas crecca wintering in Italy
+
+Trailing the heat: Eurasian teal Anas crecca schedule their spring migration basing on the increase in soil temperatures along the route
+
+Stopping vs. staging: The difference between a hop and a jump
+
+Two sides of a coin: ecological and chronobiological perspectives of timing in the wild
+
+Díaz M, Møller AP, Flensted-Jensen E, Grim T, Ibáñez-Álamo JD, Jokimäki J, et al. The geography of fear: a latitudinal gradient in anti-predator escape distances of birds across Europe. Mettke-Hofmann C, editor. PLoS ONE. 2013;8(5):e64634. 10.1371/journal.pone.0064634.
+
+Danger management and the seasonal adjustment of migratory speed by sandpipers
+
+Migration speed and scheduling of annual events by migrating birds in relation to climate change
+
+Plasticity in timing of avian breeding in response to spring temperature differs between early and late nesting species
+
+BirdLife International. Species factsheet: Northern pintail Anas acuta [Internet]. 2025. Available from: https://datazone.birdlife.org/species/factsheet/northern-pintail-anas-acuta.
+
+Mouronval JB. Guide de détermination de l’âge et du sexe des canards. English edition, translated by, Guillemain M, Hearn RD. 2017. Paris: Office National de la Chasse et de la Faune Sauvage; 2016.
+
+Meta-analysis of transmitter effects on avian behaviour and ecology
+
+Interindividual variation and consistency of migratory behavior in the Eurasian woodcock
+
+Waterfowl spring migratory behavior and avian influenza transmission risk in the changing landscape of the East Asian-Australasian flyway
+
+Masto NM, Blake-Bradshaw AG, Highway CJ, Keever AC, Feddersen JC, Link PT, et al. Spring migration strategies of Anas platyrhynchos (mallard) necessitate individual time-energy trade-offs despite wintering origins or migratory destinations. Ornithology. 2024:ukae044. 10.1093/ornithology/ukae044.
+
+Keller V, Herrando S, Voříšek P, Franch M, Kipson M, Milanesi P, et al. European Breeding Bird Atlas 2: Distribution, abundance and change [Internet]. European Bird Census Council & Lynx Edicions, Barcelona; 2020. Available from: https://ebba2.info/maps/.
+
+How to reliably estimate the tortuosity of an animal’s path
+
+Spring-migration ecology of Northern pintails in South-Central Nebraska
+
+Habitat use and movement patterns of Northern pintails during spring in northern Japan: the importance of agricultural lands
+
+A long winter for the Red Queen: Rethinking the evolution of seasonal migration
+
+Ontogenetic shifts from social to experiential learning drive avian migration timing
+
+Bentzen RL, Powell AN. Dispersal, movements and site fidelity of post-fledging King eiders Somateria spectabilis and their attendant females. Phillips R, editor. Ibis. 2015;157(1):133–46. 10.1111/ibi.12217.
+
+R Core Team. R: A Language and Environment for Statistical Computing [Internet]. R Foundation for Statistical Computing, Vienna, Austria. 2024. Available from: https://www.R-project.org/.
+
+Jonsen ID, Patterson TA, Costa DP, Doherty PD, Godley BJ, Grecian WJ, et al. A continuous-time state-space model for rapid quality control of argos locations from animal-borne tags. Mov Ecol. 2020;8(31). 10.1186/s40462-020-00217-7.
+
+Jonsen ID, Patterson TA, Grecian WJ. aniMotum: fit latent variable movement models to animal tracking data for location quality control and behavioural inference [Internet]. Zenodo; 2022. Available from: https://zenodo.org/record/742538810.5281/ZENODO.7425388.
+
+aniMotum, an R package for animal movement data: Rapid quality control, behavioural estimation and simulation
+
+Spatiotemporal modelling of marine movement data using Template Model Builder (TMB)
+
+Movement responses to environment: Fast inference of variation among southern elephant seals with a mixed effects model
+
+Identifying leatherback turtle foraging behaviour from satellite telemetry using a switching state-space model
+
+Development of foraging strategies with age in a long-lived marine predator
+
+Nowak BVR, Bowen WD, Den Heyer CE, Lang SLC, Lidgard DC. Ontogeny of movement patterns in naïve grey seal pups inhabiting a complex continental shelf ecosystem. Paiva VHR, editor. PLoS ONE. 2023;18(9):e0290707. 10.1371/journal.pone.0290707.
+
+Thieurmel B, Elmarhraoui A. suncalc: Compute sun position, sunlight phases, moon position and lunar phase [Internet]. 2022. Available from: https://CRAN.R-project.org/package=suncalc.
+
+glmmTMB Balances speed and flexibility among packages for Zero-inflated Generalized Linear Mixed Modeling
+
+Hartig F. DHARMa: Residual diagnostics for hierarchical (Multi-Level / Mixed) Regression Models [Internet]. 2024. Available from: https://CRAN.R-project.org/package=DHARMa.
+
+Fox J, Weisberg S. An R companion to applied regression [Internet]. 2019; 3rd edition. Available from: https://socialsciences.mcmaster.ca/jfox/Books/Companion/.
+
+Bartalev SA, Belward AS, Erchov DV, Isaev AS, Bartholomé E, Gond V, et al. The Land Cover Map for Northern Eurasia for the Year 2000 [Internet]. GLC2000 database; 2003. Located at: European Commision Joint Research Centre. Available from: http://www.gvm.jrc.it/glc2000.
+
+Hartley A, Pekel JF, Ledwith M, Champeaux JL, De Badts E, Bartalev SA. The Land Cover Map for Europe in the Year 2000 [Internet]. GLC2000 database; 2006. Located at: European Commission Joint Research Centre. Available from: http://www-gem.jrc.it/glc2000.
+
+Lenth Remmeans. Estimated Marginal Means, aka Least-Squares Means [Internet]. 2025. Available from: https://CRAN.R-project.org/package=emmeans.
+
+Copernicus Climate Change Service. ERA5-Land hourly data from 1950 to present [Internet]. Copernicus Climate Change Service (C3S) Climate Data Store (CDS). 2019. Available from: https://cds.climate.copernicus.eu/doi/10.24381/cds.e2161bac10.24381/CDS.E2161BAC.
+
+Spatio-temporal interpolation using gstat
+
+A migratory Northern ungulate in the pursuit of spring: Jumping or surfing the green wave?
+
+Satellite- versus temperature-derived green wave indices for predicting the timing of spring migration of avian herbivores
+
+Simple means to improve the interpretability of regression coefficients
+
+Bates D, Mächler M, Bolker B, Walker S. Fitting linear mixed-effects models using lme4. J Stat Soft. 2015;67(1). 10.18637/jss.v067.i01.
+
+An ecoregion-based approach to protecting half the terrestrial realm
+
+Fox AD, Flint PL, Hohman WL, Savard JPL. Waterfowl habitat use and selection during the remigial moult period in the Northern hemisphere. 2014;(4). Available at: https://pubs.usgs.gov/publication/70138723.
+
+Scope for waterfowl to speed up migration to a warming Arctic
+
+Kharitonov SP, Kharitonova IA, Litvin KE. Migration Atlas of European species of palearctic Anatidae with the population outline (from the data of the bird Ringing Centre of Russia). 2024;265–86. Available at: http://ringcenter.ru/Migration_Atlas.pdf.
+
+Spina F, Baillie SR, Bairlein F, Fiedler W, Thorup K. The Eurasian African Bird Migration Atlas [Internet]. EURING/CMS. 1. 2022. Available from: https://migrationatlas.org.
+
+Smith MA, Mahoney J, Knight EJ, Taylor L, Seavy NE, Bailey OH, et al. Bird Migration Explorer [Internet]. New York: National Audubon Society; 2022. Available at: https://birdmigrationexplorer.org.
+
+Spina F, Volponi S. Atlante della Migrazione degli Uccelli in Italia. Non Passeriformi. Roma: Ministero dell’Ambiente e della Tutela del Territorio e del Mare. Istituto Superiore per la Protezione e la Ricerca Ambientale (ISPRA); 2008. Available at: https://www.isprambiente.gov.it/files/atlante/1vol-1-32.pdf.
+
+Reduction in adverse effects of tracking devices on waterfowl requires better measuring and reporting
+
+Proximate mechanisms affecting seasonal differences in migration speed of avian species
+
+Spring migration of mallards from Arkansas as determined by satellite telemetry
+
+Migration distance affects how closely Eurasian wigeons follow spring phenology during migration
+
+Habitat use in ducks breeding in boreal freshwater wetlands: A review
+
+Extensive global wetland loss over the past three centuries
+
+Modelling migratory waterfowl stopover habitat while accounting for ephemeral environmental conditions

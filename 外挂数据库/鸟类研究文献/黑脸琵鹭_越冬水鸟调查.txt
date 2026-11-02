@@ -1,0 +1,59 @@
+中文鸟名：黑脸琵鹭
+文献标题：A sampling-event dataset from the survey of wintering waterbirds in Coastal Fujian Province, China.
+DOI：10.3897/bdj.14.e197082
+PMCID：PMC13448415
+全文来源：https://pmc.ncbi.nlm.nih.gov/articles/PMC13448415/
+下载日期：2026-11-02
+说明：开放获取论文的全文文本，保留原文语言；论文研究地区不一定是深圳。
+
+Fujian Province lies on the south-eastern coast of China (23°33′N–28°20′N, 115°50′E–120°43′E). It forms an important section of the East Asian-Australasian Flyway and its distinctive geographical and ecological characteristics make it a key staging and wintering area for migratory waterbirds (Cheng et al. 2021, Huang et al. 2024). Fujian has a total coastline length of 6,128 km (including 3,324 km of mainland coastline and 2,804 km of island coastline), with over 90% of its provincial land area consisting of mountains and hills and 1,546 islands larger than 500 m², resulting in an extensive yet fragmented coastal morphology (Barter et al. 2007, Chen and Wen 2024, Huang et al. 2024). This coastal system not only provides important resting and breeding areas for waterbirds, but also contains scattered islands that serve as safe refuges from disturbance on the mainland.
+
+Waterbirds are key bioindicators of wetland ecosystem health (Wang and Ma 2025). However, in recent decades, the numbers of migratory waterbirds using coastal wetlands in China have declined markedly (Wang et al. 2018, Ma et al. 2023). Coastal areas in Fujian Province have experienced extensive loss and degradation of wetlands and tidal flats driven by land reclamation, enclosure for cultivation, the expansion of aquaculture ponds and the historical invasion of Spartina alterniflora Loisel (Ma et al. 2014, Ma et al. 2019, Wu et al. 2022, Zheng et al. 2023). In estuaries and bays, roughly 75% of the total tidal-flat loss has occurred and the overall extent of tidal flats has decreased by about 20% (Wu et al. 2024). These changes have substantially reduced the capacity of coastal wetlands to support waterbirds and have posed serious risks to their survival, breeding and migration.
+
+Although eastern China is an important wintering region for migratory waterbirds, the scarcity of both current and historical data on waterbird population sizes in this region severely limits our ability to assess the magnitude and drivers of their declines (Cao et al. 2008). Therefore, this study presents a survey dataset from the winter of 2006 in Fujian Province, documenting the distribution and abundance of wintering waterbirds in the province’s coastal areas. The data have been used in a range of published papers (Barter et al. 2007, Cao et al. 2008) and this dataset can serve as a reference for the development of a long-term standardised monitoring programme on population dynamics of coastal waterbirds in Fujian, while also providing a baseline for subsequent research and conservation planning.
+
+The survey area encompassed the coastline of Fujian Province (23°43′N–27°17′N, 117°19′E–120°18′E). The 21 wetland survey sites varied widely in both spatial extent and habitat type, ranging from small sites of less than 10 km² (e.g. Yucheng Fish Ponds and Wenwusha Reservoir) to large estuarine bays exceeding 400 km² (e.g. Xinghua Bay and Sandu Bay). This sampling design maximises the capture of waterbird community patterns across a broad range of ecological settings and spatial scales.
+
+In this survey, the Waterbird Population Estimates 3rd Edition (Delany and Scott 2002) and the Waterbird Population Estimates 5th Edition (Mundkur and Nagy 2012) were used as the standard taxonomic references for the recognition of waterbird species. These documents serve as the standard references for confirming waterbird populations of international significance.
+
+Existing research indicates that observers typically underestimate the numbers of large flocks of waterbirds (Rappoldt et al. 1985). Particularly across extensive wetland areas, undercounts resulting from visual obstruction and the birds' concealment behaviour remain a significant cause of bias in avian population estimates.
+
+In this survey, large flocks of waterbirds were rarely observed, which helped improve the accuracy and reliability of species identification and population counts.
+
+Counts for this survey were carried out by two teams of experienced observers, each equipped with Zeiss 10 × 42 Victory roof prism binoculars and Leica Televid 77 telescopes with 20–60× zoom eyepieces.
+
+Survey sites were selected using existing information on regional hydrology and waterbird habitats. Potential locations were initially identified using high-resolution satellite imagery and their coordinates were subsequently imported into GPS devices. Before the field survey, the investigators evaluated each potential site to determine the final survey locations and planned survey routes using GPS. Upon arrival at each target area, observation points were preferentially selected in leeward positions with wide, unobstructed views to maximise visibility. Observation distances were adjusted dynamically according to visibility; under favourable conditions, flocks within a radius of 4–5 km of each observation point could be counted. When visibility was poor, the density of observation points was increased to effectively reduce survey blind spots and minimise the risk of undercounting.
+
+Survey teams departed for the field sites at approximately 08:00 h each morning, ensuring arrival at each wetland sampling point under favourable light conditions and during the morning peak of waterbird foraging activity, thereby facilitating accurate counts. Throughout the survey period, weather conditions were predominantly clear with good visibility, while wind speed and air temperature remained moderate, creating suitable conditions for waterbird counts.
+
+The wetland sites included in the survey were readily accessible by road, allowing a comprehensive census to be completed within the designated survey period. Two main strategies were used to optimise coverage and efficiency: first, priority was given to vantage points that maximised the field of view; second, counts were concentrated during the high-tide period, when waterbirds congregate at high-tide roosts, to facilitate efficient enumeration.
+
+The present survey covered 21 coastal and offshore wetlands in Fujian Province, encompassing 25 wetland nature reserves, including four at the national level, four at the provincial level and the remainder at the prefectural or county level. In total, 191 survey sites were laid out within these wetlands (Fig. 1).
+
+Geographic distribution of survey sites in coastal Fujian Province, China.
+
+23.7 and 27.3 Latitude; 117.3 and 120.3 Longitude.
+
+The survey was conducted over a 20-day period from 8 - 27 February 2006, covering 21 coastal and inshore wetlands in Fujian Province. A total of 108,125 waterbirds were recorded, including 6,089 unidentified individuals, with 64 species identified.
+
+Data range: 2006-2-08 – 2006-2-27.
+
+Other
+
+Creative Commons Attribution Non-Commercial (CC-BY-NC) 4.0 Licence
+
+A sampling-event dataset from the survey of wintering waterbirds in Coastal Fujian Province, China
+
+https://doi.org/10.15468/au2muq
+
+https://www.gbifchina.org.cn/resource?r=birds_survey_2006
+
+1
+
+A Sampling-event Dataset from the Survey of Wintering Waterbirds in Coastal Fujian Province, China
+
+Darwin Core Event
+
+This dataset originates from the 2006 wintering waterbird survey conducted across 21 wetlands in the coastal regions of Fujian, China. It contains detailed species, abundance and geographical information (Ding et al. 2026).
+
+This work was supported by the Bird Diversity Observation Network of China Biodiversity Observation Networks (Sino BON-Bird). We gratefully acknowledge all participants involved in the field survey of wintering waterbirds along the coast of Fujian, particularly Xi Yu, Bofeng Liu, Zhonglan Yang and Dingtuan Zheng for their roles in organising and coordinating the survey. We also thank Mark Barter for his contribution to report preparation and Fujian Wildlife and Wetland Resources Monitoring Center, Fujian Wildlife Conservation Management Center and WWF Hong Kong for their support.
